@@ -1,0 +1,38 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-13,clinical-13.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,180,177,end,103160002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Interferons,f,C0021747,f,na,null,null,f,332,322,interferon,49327004,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ribavirin,f,C0035525,f,na,null,null,f,346,337,Ribavirin,9344,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,706,696,creatinine,15373003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Miconazole Nitrate,f,C0086620,f,na,null,null,f,1155,1137,Miconazole nitrate,60727003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Powder dose form,f,C0032861,f,na,null,null,f,1162,1156,powder,8612,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Protonix,f,C0876139,f,na,null,null,f,1199,1191,Protonix,261624,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Lactulose,f,C0022957,f,na,null,null,f,1227,1218,Lactulose,273945008,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Vancomycin,f,C0042313,f,na,null,null,f,1295,1285,Vancomycin,372735009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ethanol,f,C0001962,f,na,null,null,f,1406,1399,alcohol,419442005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ethanol,f,C0001962,f,na,null,null,f,1493,1486,alcohol,398624005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Cocaine,f,C0009170,t,na,null,null,f,1566,1559,cocaine,14816004,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,1860,1850,creatinine,2913,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,2006,1996,creatinine,15373003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Vancomycin,f,C0042313,f,na,null,null,f,2443,2433,vancomycin,42082003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Methicillin,f,C0025643,f,na,null,null,f,2492,2481,Methicillin,373515001,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Lasix,f,C0699992,f,na,null,null,f,3724,3719,Lasix,202991,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Oral Dosage Form,f,C1272919,f,na,null,null,f,3787,3783,oral,385268001,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Lasix,f,C0699992,f,na,null,null,f,3793,3788,Lasix,202991,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Morphine,f,C0026549,f,na,null,null,f,3857,3849,morphine,73572009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Blood product,f,C0456388,f,na,null,null,t,4027,4013,blood products,410652009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Immunosuppressive Agents,f,C0021081,f,na,null,null,f,4284,4267,immunosuppressive,69431002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Prednisone,f,C0032952,f,na,null,null,f,4306,4296,prednisone,10312003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Neoral,f,C0699605,f,na,null,null,f,4315,4309,Neoral,202817,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Cellcept,f,C0592558,f,na,null,null,f,4330,4322,CellCept,152633,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Bactrim,f,C0591139,f,na,null,null,f,5148,5141,Bactrim,151399,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Protonix,f,C0876139,f,na,null,null,f,5193,5185,Protonix,261624,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Metoprolol,f,C0025859,f,na,null,null,f,5221,5211,Metoprolol,6918,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Fluconazole,f,C0016277,f,na,null,null,f,5251,5240,Fluconazole,31865003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Cellcept,f,C0592558,f,na,null,null,f,5278,5270,CellCept,152633,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Prednisone,f,C0032952,f,na,null,null,f,5306,5296,Prednisone,116602009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Dilaudid,f,C0728755,f,na,null,null,f,5332,5324,Dilaudid,224913,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Neoral,f,C0699605,f,na,null,null,f,5348,5342,Neoral,202817,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Valcyte,f,C0969586,f,na,null,null,f,5375,5368,Valcyte,304959,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Lasix,f,C0699992,f,na,null,null,f,5401,5396,Lasix,202991,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Colace,f,C0282139,f,na,null,null,f,5434,5428,Colace,82000,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,5942,5939,End,103160002,SNOMEDCT_US,na

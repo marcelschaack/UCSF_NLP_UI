@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}cTAKES output{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+    <article class="sentence">
+      <header>
+        <div>
+          <h1>{{ 'Information in clincial notes:' }}</h1>
+          <div class="about"> {{sentence[0]}} <font color="red">{{sentence[1]}}</font>, {{sentence[2]}} <font color="red">{{sentence[3]}}</font></div>
+        </div>
+        <a class="action" href="{{ url_for('note.concept', i_txt_file='clinical-33.txt', concept='concept1') }}">View concept 1 (common cold)</a>
+          <a class="action" href="{{ url_for('note.concept', i_txt_file='clinical-33.txt', concept='concept2') }}">View concept 2 (mononucleosis)</a>
+      </header>
+    </article>
+
+{% endblock %}

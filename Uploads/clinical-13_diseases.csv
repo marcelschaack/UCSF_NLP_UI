@@ -1,0 +1,16 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-13,clinical-13.txt,cTAKES input\,Terminal illness,f,C0679247,f,na,Liver,10200004,f,200,177,end stage liver disease,300936002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,225,214,hepatitis C,50711007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,235,226,cirrhosis,19943007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Encephalopathies,f,C0085584,f,na,null,null,f,481,467,encephalopathy,81308009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hepatorenal Syndrome,f,C0019212,f,na,null,null,f,918,898,hepatorenal syndrome,51292008,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,958,947,Hepatitis C,50711007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,968,959,cirrhosis,19943007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1041,1029,Hypertension,38341003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Kidney Calculi,f,C0022650,f,na,null,null,f,1062,1047,Nephrolithiasis,95570007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hemorrhoids,f,C0019112,f,na,null,null,f,1079,1068,Hemorrhoids,70153002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Staphylococcal Infections,f,C0038160,f,na,null,null,f,2529,2524,Staph,56038003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Bacteremia,f,C0004610,f,na,null,null,f,2540,2530,bacteremia,5758002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Primary bacterial peritonitis,f,C0275551,f,na,null,null,t,2794,2761,spontaneous bacterial peritonitis,11836002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Surgical wound,f,C0332803,f,na,null,null,f,4924,4907,surgical incision,112633009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,t,5001,4992,infection,40733004,SNOMEDCT_US,na

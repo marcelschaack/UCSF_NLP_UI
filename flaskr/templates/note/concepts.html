@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}cTAKES output{% endblock %}</h1>
+{% endblock %}
+
+
+
+{% block content %}
+    <article class="concepts">
+      <header>
+        <div>
+          <h1>{{ 'Concepts found in clincial notes' }}</h1>
+        </div>
+      </header>
+        <head>
+            <style>
+            table {
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 100%;
+            }
+
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 8px;
+            }
+
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            </style>
+            <label for="correct">Which concept would you like to look at</label>
+            <form method="post">
+            <input name="concept_chosen" id="concept" value="{{ request.form['concept'] }}" required>
+            </form>
+            {{ table }}
+            </head>
+    </article>
+
+{% endblock %}
