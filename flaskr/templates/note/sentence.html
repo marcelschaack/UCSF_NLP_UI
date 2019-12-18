@@ -5,14 +5,31 @@
 {% endblock %}
 
 {% block content %}
+<div><a class="action" href="{{ url_for('note.txt_files', conc=concept_chosen, filename=filename) }}">Go back</a></div>
     <article class="sentence">
       <header>
         <div>
-          <h1>{{ 'Information in clincial notes:' }}</h1>
-          <div class="about"> {{sentence[0]}} <font color="red">{{sentence[1]}}</font>, {{sentence[2]}} <font color="red">{{sentence[3]}}</font></div>
-        </div>
-        <a class="action" href="{{ url_for('note.concept', i_txt_file='clinical-33.txt', concept='concept1') }}">View concept 1 (common cold)</a>
-          <a class="action" href="{{ url_for('note.concept', i_txt_file='clinical-33.txt', concept='concept2') }}">View concept 2 (mononucleosis)</a>
+            <h1>{{ 'Information in clincial notes:' }}</h1>
+            {% for m in concepts_display %}
+                <div>
+                {% for n in m.sentence -%}
+                    {% if n in m.concept_name %}
+                    <font color="red"><b>{{n}}</b></font>
+                    {% elif n in m.highlight_broken %}
+                    <font color="red">{{n}}</font>
+                    {% else %}
+                    {{n}}
+                    {% endif %}
+                    {%- endfor %}
+                    <div/>
+                    {% for i in range(m.highlight| length) %}
+                    <a class="action" href="{{ url_for('note.display_concept', beginning=m.highlight_beginning[i],
+                    concept_chosen=concept_chosen, filename=filename,
+                    i_txt_file=i_txt_file) }}">View concept {{i+1}} ({{m.highlight[i]}}, {{m.other_concepts[i]}})</a>
+                    {% endfor %}
+            {% endfor %}
+
+        <div/>
       </header>
     </article>
 

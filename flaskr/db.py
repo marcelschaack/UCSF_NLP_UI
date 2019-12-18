@@ -34,6 +34,12 @@ def init_db():
 @with_appcontext
 def init_db_command():
     """Clear the existing data and create new tables."""
+    connection = sqlite3.connect(current_app.config['DATABASE'], detect_types=sqlite3.PARSE_DECLTYPES)
+    dropTableStatement = "DROP TABLE feedback"
+    cursor = connection.cursor()
+
+    cursor.execute(dropTableStatement)
+    close_db()
     init_db()
     click.echo('Initialized the database.')
 

@@ -31,10 +31,7 @@
               background-color: #dddddd;
             }
             </style>
-            <label for="correct">Which concept would you like to look at</label>
-            <form method="post">
-            <input name="concept_chosen" id="concept" value="{{ request.form['concept'] }}" required>
-            </form>
+                <div><a class="action" href="{{ url_for('note.index') }}">Go back</a></div>
             {{ table }}
             </head>
     </article>

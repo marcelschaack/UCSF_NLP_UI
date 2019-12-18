@@ -1,0 +1,84 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-13,clinical-13.txt,cTAKES input\,"Creatinine measurement, serum (procedure)",f,C0201976,f,na,null,null,f,706,690,serum creatinine,113075003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,1089,1085,Knee,284401004,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,International Normalized Ratio,f,C0525032,f,na,null,null,f,2167,2164,INR,165581004,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Platelet Count measurement,f,C0032181,f,na,null,null,f,2385,2371,platelet count,61928009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,diagnostic procedure,f,C0430022,f,na,null,null,f,2663,2653,diagnostic,103693007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Liver Function Tests,f,C0023901,f,na,null,null,f,4837,4817,liver function tests,271552009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Chest CT,f,C0202823,f,na,null,null,f,628,620,CT chest,169069000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,900,896,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,979,975,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,1072,1068,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,1504,1500,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,t,2070,2066,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Computerized axial tomography of brain without radiopaque contrast,f,C1275581,f,na,null,null,f,2203,2176,CT OF HEAD WITHOUT CONTRAST,396205005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Diagnostic Imaging,f,C0011923,f,na,null,null,f,3187,3180,IMAGING,363679005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Electrocardiography,f,C1623258,f,na,null,null,f,3228,3225,EKG,29303009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Magnetic Resonance Imaging (MRI) of Knee,f,C0412714,f,na,null,null,f,3329,3316,MRI Left Knee,241641004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,3504,3500,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,3759,3755,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hematology procedure,f,C0200627,f,na,null,null,f,4271,4261,hematology,33468001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hematology procedure,f,C0200627,f,na,null,null,f,4547,4537,hematology,33468001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Electrocardiography,f,C1623258,f,na,null,null,f,4868,4865,EKG,29303009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hematocrit procedure,f,C0018935,f,na,null,null,f,4980,4970,Hematocrit,250231008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,5121,5117,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Magnetic Resonance Imaging (MRI) of Knee,f,C0412714,f,na,null,null,f,5317,5302,MRI of the knee,241641004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,5601,5597,knee,284401004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,International Normalized Ratio,f,C0525032,f,na,null,null,f,5925,5922,INR,165581004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,International Normalized Ratio,f,C0525032,f,na,null,null,f,5984,5981,INR,165581004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Magnetic Resonance Imaging (MRI) of Knee,f,C0412714,f,na,null,null,f,6027,6011,MRI of your knee,241641004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hematology procedure,t,C0200627,f,na,null,null,f,6525,6515,hematology,33468001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxygen saturation measurement,f,C0523807,f,na,null,null,f,417,400,oxygen saturation,104847001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Plain chest X-ray,f,C0039985,f,na,null,null,f,600,589,Chest x-ray,399208008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Plain chest X-ray,f,C0039985,f,na,null,null,f,2856,2845,chest x-ray,399208008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Electrocardiography,f,C1623258,f,na,null,null,f,3494,3491,EKG,46825001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Plain chest X-ray,f,C0039985,f,na,null,null,f,3682,3671,chest x-ray,399208008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Analysis of arterial blood gases and pH,f,C0150411,f,na,null,null,f,4187,4184,ABG,91308007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,"Carbon dioxide measurement, partial pressure",f,C0201931,f,na,null,null,f,4269,4265,PCO2,25284008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,"Oxygen measurement, partial pressure, arterial",f,C0202155,f,na,null,null,f,4278,4275,PO2,25579001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Sulfate measurement,f,C0474702,f,na,null,null,f,6038,6031,sulfate,104948005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Echocardiography,f,C0013516,f,na,null,null,f,803,789,echocardiogram,40701008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Exercise stress test,f,C0015260,f,na,null,null,f,837,826,stress test,165079009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Oxygen saturation measurement,f,C0523807,f,na,null,null,f,1438,1421,oxygen saturation,264598005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Plain chest X-ray,f,C0039985,f,na,null,null,f,1641,1638,CXR,399208008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Cosyntropin test,f,C0201971,f,na,null,null,f,1928,1900,cosyntropin stimulation test,18721001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Chorionic Villi Sampling,f,C0008509,f,na,null,null,f,3362,3359,CVS,303720006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hematocrit procedure,f,C0018935,f,na,null,null,f,3611,3608,Hct,250231008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Erythrocyte Mean Corpuscular Hemoglobin Test,f,C0369183,f,na,null,null,f,3633,3630,MCH,54706004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mean corpuscular hemoglobin concentration determination,f,C0474535,f,na,null,null,f,3645,3641,MCHC,37254006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Red cell distribution width determination,f,C0427460,f,na,null,null,f,3658,3655,RDW,66842004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Primed lymphocyte test,f,C0201617,f,na,null,null,f,3671,3668,Plt,113063008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hematocrit procedure,f,C0018935,f,na,null,null,f,3752,3749,Hct,250231008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Erythrocyte Mean Corpuscular Hemoglobin Test,f,C0369183,f,na,null,null,f,3774,3771,MCH,54706004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mean corpuscular hemoglobin concentration determination,f,C0474535,f,na,null,null,f,3786,3782,MCHC,37254006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Red cell distribution width determination,f,C0427460,f,na,null,null,f,3797,3794,RDW,66842004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Primed lymphocyte test,f,C0201617,f,na,null,null,f,3810,3807,Plt,113063008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Activated Partial Thromboplastin Time measurement,f,C0030605,f,na,null,null,f,3861,3858,PTT,42525009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,International Normalized Ratio,f,C0525032,f,na,null,null,f,3872,3869,INR,165581004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Primed lymphocyte test,f,C0201617,f,na,null,null,f,3912,3909,Plt,113063008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Blood glucose measurement,f,C0392201,f,na,null,null,f,3958,3945,BLOOD Glucose,33747003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatinine measurement,f,C0201975,f,na,null,null,f,3985,3980,Creat,70901006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Blood glucose measurement,f,C0392201,f,na,null,null,f,4077,4064,BLOOD Glucose,33747003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatinine measurement,f,C0201975,f,na,null,null,f,4099,4094,Creat,70901006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Blood calcium measurement,f,C0729820,f,na,null,null,f,4480,4467,BLOOD Calcium,312472004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Phosphate measurement,f,C0523826,f,na,null,null,f,4493,4489,Phos,104866001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,T4 free measurement,f,C0202225,f,na,null,null,f,4652,4645,Free T4,5113004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hematocrit procedure,f,C0018935,f,na,null,null,f,4730,4727,Hct,28317006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Erythrocyte Mean Corpuscular Hemoglobin Test,f,C0369183,f,na,null,null,f,4752,4749,MCH,54706004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mean corpuscular hemoglobin concentration determination,f,C0474535,f,na,null,null,f,4764,4760,MCHC,37254006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Red cell distribution width determination,f,C0427460,f,na,null,null,f,4775,4772,RDW,66842004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Primed lymphocyte test,f,C0201617,f,na,null,null,f,4788,4785,Plt,113063008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Eosinophil count procedure,f,C0200638,f,na,null,null,f,4884,4881,Eos,365601007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,International Normalized Ratio,f,C0525032,f,na,null,null,f,4980,4977,INR,165581004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Blood glucose measurement,f,C0392201,f,na,null,null,f,5024,5011,BLOOD Glucose,33747003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatinine measurement,f,C0201975,f,na,null,null,f,5046,5041,Creat,70901006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Blood calcium measurement,f,C0729820,f,na,null,null,f,5133,5120,BLOOD Calcium,312472004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Phosphate measurement,f,C0523826,f,na,null,null,f,5146,5142,Phos,104866001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Diagnostic Imaging,f,C0011923,f,na,null,null,f,5178,5171,Imaging,363679005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Doppler studies,f,C0554756,f,na,null,null,f,5204,5197,doppler,268447006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Echocardiography,f,C0013516,f,na,null,null,f,5738,5724,echocardiogram,40701008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Differential Diagnosis,f,C0011906,f,na,null,null,f,6065,6043,differential diagnosis,47965005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Radionuclide Imaging,f,C0034606,f,na,null,null,f,7395,7391,scan,373205008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Radionuclide Imaging,f,C0034606,f,na,null,null,f,7755,7751,scan,373205008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Radionuclide Imaging,f,C0034606,f,na,null,null,f,7983,7979,scan,373205008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Sulfate measurement,f,C0474702,f,na,null,null,f,8870,8863,Sulfate,104948005,SNOMEDCT_US,na

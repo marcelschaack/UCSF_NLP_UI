@@ -1,10 +1,12 @@
 import csv
 import os
-
-from flask import (Blueprint, flash, redirect, render_template, request, url_for, send_from_directory, Flask)
-from werkzeug.utils import secure_filename
-from flask_table import Table, Col
 import string
+from zipfile import ZipFile
+
+from flask import (Blueprint, flash, redirect, render_template, request, url_for, Flask)
+from flask_table import Table, Col, LinkCol
+from werkzeug.utils import secure_filename
+from builtins import any as b_any
 
 from flaskr.db import get_db
 
@@ -18,13 +20,14 @@ app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 
 def allowed_file(filename):
-    ALLOWED_EXTENSIONS = {'csv', 'txt'}
-    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+    allowed_extensions = {'csv', 'txt', 'zip'}
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in allowed_extensions
+
 
 @bp.route('/', methods=('GET', 'POST'))
 def index():
     if request.method == 'POST':
-        #check if the post request has the file part
+        # check if the post request has the file part
         if 'file' not in request.files:
             flash('No file part')
             return redirect(request.url)
@@ -35,40 +38,43 @@ def index():
         if txt:
             txtname = secure_filename(txt.filename)
             txt.save(os.path.join(app.config["UPLOAD_FOLDER"], txtname))
+            if 'zip' in txtname:
+                with ZipFile(os.path.join('Uploads', txtname), 'r') as zipObj:
+                    zipObj.extractall('Uploads')
         if file.filename == '' or txt.filename == '':
             flash('No selected file')
             return redirect(request.url)
         if not allowed_file(file.filename) or not allowed_file(txt.filename):
-            flash('Please upload .csv and .txt files only')
+            flash('Please upload .csv, .txt or .zip files only')
+            return redirect(request.url)
         filename = secure_filename(file.filename)
         file.save(os.path.join(app.config["UPLOAD_FOLDER"], filename))
         return redirect(url_for('note.open_file', filename=filename))
     return render_template('note/index.html')
 
 
-
-
-@bp.route('/uploads/<filename>', methods=['GET', 'POST'])
+@bp.route('/<filename>', methods=['GET', 'POST'])
 def open_file(filename):
     with open(os.path.join('Uploads', filename)) as csvfile:
         csvdata = csv.reader(csvfile)
         next(csvdata, None)
 
-
-
         concepts = []
         txt_files = []
 
         for row in csvdata:
-            concepts.append(string.capwords(row[3]))
+            concepts.append(row[3])
             txt_files.append(row[1])
 
-        class ItemTable(Table):
-            concept_name = Col('Concept Ontology')
-            #note_file = Col('Clincial Note File')
-            concept_amount = Col('Amount')
-            #link = Col('')
+        # class LangCol(Col):  # This lets me get a webaddress into the table
+        # def td_format(self, content, attr):
+        # return element('a', attrs=dict(href=content), content=attr)
 
+        class ItemTable(Table):
+            # concept_name = Col('Concept Ontology')
+            # note_file = Col('Clincial Note File')
+            concept_amount = Col('Amount')
+            # link = LinkCol('')
 
         # Get some objects
         class Item(object):
@@ -78,6 +84,7 @@ def open_file(filename):
                 self.concept_amount = 1
                 self.link = link
                 self.note_file.append(note_file)
+                self.filename = filename
 
             def obtain_name(self):
                 return self.concept_name
@@ -94,16 +101,15 @@ def open_file(filename):
             def add_txt(self, filename):
                 self.note_file.append(filename)
 
-
-
-
         items = []
-        for i in range(0,len(concepts)):
-            items.append(Item(concepts[i], txt_files[i], 'View Concept'))
+        for i in range(0, len(concepts)):
+            # attrs = url_for('note.txt_files', conc=concepts[i], filename=filename))
+            # items.append(Item(concepts[i], txt_files[i], element('a', attrs=attrs, content='H')))
+            items.append(Item(concepts[i], txt_files[i], 'View concept here'))
 
         def remove_duplicates(items):
-            for k in range(0,len(items)-1):
-                for j in range(k+1,len(items)):
+            for k in range(0, len(items) - 1):
+                for j in range(k + 1, len(items)):
                     while k < len(items) and j < len(items) and items[k].obtain_name() == items[j].obtain_name():
                         items[k].increase_number()
                         flag = True
@@ -118,28 +124,19 @@ def open_file(filename):
 
         items = remove_duplicates(items)
 
-
-
         items.sort(key=lambda x: x.concept_amount, reverse=True)
 
         # Populate the table
         table = ItemTable(items)
+        for item in items:
+            url = 'note.txt_files'
+            # conc=item.obtain_name(), filename=filename)
+            table.add_column('', LinkCol(name='Concept Ontology', endpoint=url,
+                                         url_kwargs=dict(conc='concept_name', filename='filename'),
+                                         attr='concept_name'))
         table.border = True
 
-    if request.method == 'POST':
-        concept_chosen = string.capwords(request.form['concept_chosen'])
-        error = 'No matching concept found'
-        for n in items:
-            if concept_chosen == n.obtain_name():
-                error = None
-                txt = n.obtain_txt_list()
-        if error is not None:
-            flash(error)
-            return redirect(request.url)
-        return redirect(url_for('note.txt_files', txt=txt))
-
-
-    return render_template('note/concepts.html', table=table)
+    return render_template('note/concepts.html', table=table, filename=filename)
 
 
 def stripword(word):
@@ -147,74 +144,151 @@ def stripword(word):
     word = word.replace("]", "")
     word = word.replace("'", "")
     word = word.replace("'", "")
+    word = word.replace(" ", "")
     return word
 
 
-@bp.route('/<txt>', methods=['GET', 'POST'])
-def txt_files(txt):
-    txt_str = ''.join(txt)
-    txt_str = stripword(txt_str)
-    txt = txt_str.split(',')
+@bp.route('/<filename>/<conc>', methods=['GET', 'POST'])
+def txt_files(filename, conc):
+    with open(os.path.join('Uploads', filename)) as csvfile:
+        csvdata = csv.reader(csvfile)
+        next(csvdata, None)
+        concept_locations = []
+        for row in csvdata:
+            if row[3] == conc and row[1] not in concept_locations:
+                concept_locations.append(stripword(row[1]))
 
-    if request.method == 'POST':
-        txt_chosen = request.form['txt_chosen']
-        error = 'No matching txt file found'
-        for n in txt:
-            if txt_chosen in n:
-                error = None
-                txt_file = n
-        if error is not None:
-            flash(error)
-            return redirect(request.url)
-        return redirect(url_for('note.sentence', i_txt_file=txt_file))
+    # if request.method == 'POST':
+    # txt_chosen = request.form['txt_chosen']
+    # error = 'No matching txt file found'
+    # for n in concept_locations:
+    # if txt_chosen in n:
+    # error = None
+    # txt_file = n
+    # if error is not None:
+    # flash(error)
+    # return redirect(request.url)
+    # return redirect(url_for('note.sentence', filename=filename, i_txt_file=txt_file, conc=conc))
 
-    return render_template('note/txt_files.html', txt=txt)
+    return render_template('note/txt_files.html', txt=concept_locations, conc=conc, filename=filename)
 
-@bp.route('/<i_txt_file>/sentence')
-def sentence(i_txt_file):
+
+@bp.route('/<filename>/<conc>/<i_txt_file>/sentence', methods=('GET', 'POST'))
+def sentence(i_txt_file, filename, conc):
+    with open(os.path.join('Uploads', filename)) as csvfile:
+        csvdata = csv.reader(csvfile)
+        next(csvdata, None)
+        conc_beginning = []
+        conc_end = []
+        range_txt = []
+        for row in csvdata:
+            if row[3] == conc and row[1] == i_txt_file:
+                conc_beginning.append(int(row[12]))
+                conc_end.append(int(row[11]))
+                range_txt.append(row[13])
+
     with open(os.path.join('Uploads', i_txt_file), 'r') as file:
-        sentence = []
+        whole_txt = []
         for l in file:
-            sentence.append(l.split())
-    #sentence = ['Tommy came to the hospital on July 21st 2019, \
-    #diagnosed as', 'common cold', 'no ', 'mononucleosis']
+            whole_txt.extend([i for j in l.split() for i in (j, ' ')][:-1])
+            whole_txt.extend(['\n'])
 
-    #if request.method == 'POST':
-        #concept_chosen = request.form['concept']
-        #error = 'No matching concept found'
-        #for n in sentence:
-            #if concept_chosen in n:
-                #error = None
-                #concept = n
-        #if error is not None:
-            #flash(error)
-            #return redirect(request.url)
-        #return redirect(url_for('note.concept', txt_file=txt_file, concept=concept))
+    class ConceptsToDisplay:
+        def __init__(self,  concept_name, highlight, sentence, beginning, highlight_beginning, other_concepts):
+            self.concept_name = concept_name
+            self.highlight = highlight
+            self.other_concepts = other_concepts
+            self.sentence = sentence
+            self.beginning = beginning
+            self.highlight_beginning = highlight_beginning
+            self.highlight_broken = []
+            for high in self.highlight:
+                words = high.split()
+                for one_word in words:
+                    self.highlight_broken.append(one_word.lower())
 
-    return render_template('note/sentence.html', sentence=sentence)
+    concepts_display = []
+    for i in range(0, len(conc_beginning)):
+        txt_length = 0
+        end = conc_end[i] + 150
+        beginning = conc_beginning[i] - 150
+        concept_name = []
+        concept_names = range_txt[i].split()
+        for name in concept_names:
+            concept_name.append(name.lower())
+        highlight = []
+        highlight_beginning = []
+        other_concepts = []
+        sentence = []
+        with open(os.path.join('Uploads', filename)) as csvfile:
+            csvdata = csv.reader(csvfile)
+            next(csvdata, None)
+            for row in csvdata:
+                if int(row[12]) >= beginning and int(row[11]) <= end and row[1] == i_txt_file:
+                    highlight.append(row[13])
+                    highlight_beginning.append(row[12])
+                    other_concepts.append(row[3])
+
+        # highlight = range_txt[i]
+        for word in whole_txt:
+            if beginning <= txt_length <= end:
+                sentence.append(word)
+            txt_length += len(word)
+
+        concepts_display.append(ConceptsToDisplay(concept_name, highlight, sentence, beginning, highlight_beginning, other_concepts))
+
+    # environment = jinja2.Environment('a')
+    # environment.filters['b_any'] = b_any
+    # note/sentence.html.render(b_any)
+    return render_template('note/sentence.html', concept_chosen=conc, i_txt_file=i_txt_file, filename=filename,
+                           concepts_display=concepts_display)
 
 
+def str2bool(v):
+    return v.lower() in ("yes", "true", "t", "1")
 
-@bp.route('/<i_txt_file>/<concept>', methods=('GET', 'POST'))
-def concept(i_txt_file, concept):
+
+def str2int(v):
+    if v.lower() in ("yes", "true", "t", "1"):
+        return int(1)
+    else:
+        return int(0)
+
+
+@bp.route('/<filename>/<concept_chosen>/<i_txt_file>/<beginning>', methods=('GET', 'POST'))
+def display_concept(i_txt_file, concept_chosen, beginning, filename):
+    with open(os.path.join('Uploads', filename)) as csvfile:
+        csvdata = csv.reader(csvfile)
+        next(csvdata, None)
+        for row in csvdata:
+            if row[12] == beginning and row[1] == i_txt_file:
+                hof = str2bool(row[6])
+                negated = str2bool(row[10])
+                location = row[8]
+                concept_to_display = row[3]
+
     if request.method == 'POST':
-        error = None
-        correct = request.form['correct']
-        correct = correct.lower()
-        if correct != 'yes' and correct != 'no':
-            error = 'Please insert yes or no.'
 
-        if error is not None:
-            flash(error)
+        if not request.form['correct'] or not request.form['location'] or not request.form['hof'] \
+                or not request.form['negation']:
+            flash('Please insert yes or no.')
+            return redirect(request.url)
         else:
+            correct_answ = request.form['correct']
+            location_answ = request.form['location']
+            hof_answ = request.form['hof']
+            negation_answ = request.form['negation']
             db = get_db()
             db.execute(
-                'INSERT INTO feedback (correct)'
-                ' VALUES (?)',
-                ([correct])
+                'INSERT INTO feedback (concept, negation, hof, location, correct_answ,\
+                 hof_answ, location_answ, negation_answ)'
+                ' VALUES (?,?,?,?,?,?,?,?)',
+                (str(concept_chosen), int(negated), int(hof), str(location), str2int(correct_answ),
+                 str2int(hof_answ), str2int(location_answ), str2int(negation_answ))
             )
             db.commit()
-            return redirect(url_for('note.sentence', i_txt_file=i_txt_file))
+            return redirect(url_for('note.sentence', i_txt_file=i_txt_file, filename=filename,
+                                    conc=concept_chosen))
 
-    file = str(os.path.join('note', concept)) + '.html'
-    return render_template('note/concept1.html', concept=concept)
+    return render_template('note/concept_display.html', hof=hof, negated=negated,
+                           location=location, concept=concept_to_display, filename=filename)
