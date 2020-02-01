@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Concept 2 (mononucleosis){% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+  <form method="post">
+    <div class="about">
+      Subject: Tommy        CS: 100%<br>
+      Indication: fracture  CS: 72%<br>
+      Time: July 2019       CS: 95%<br>
+      Negation: yes         CS: 55%<br>
+      <p>
+
+</p>
+    </div>
+    <label for="correct">correct? Yes/No</label>
+    <input name="correct" id="correct" value="{{ request.form['correct'] }}" required>
+    <input type="submit" value="Save Feedback">
+  </form>
+{% endblock %}

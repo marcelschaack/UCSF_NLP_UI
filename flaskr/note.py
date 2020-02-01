@@ -1,12 +1,16 @@
 import csv
 import os
-import string
 from zipfile import ZipFile
 
+import nltk
+from nltk.translate.bleu_score import sentence_bleu
+from nltk.stem import WordNetLemmatizer
 from flask import (Blueprint, flash, redirect, render_template, request, url_for, Flask)
 from flask_table import Table, Col, LinkCol
+from gensim.models import Word2Vec
+from scipy import spatial
+from sklearn.metrics.pairwise import cosine_similarity
 from werkzeug.utils import secure_filename
-from builtins import any as b_any
 
 from flaskr.db import get_db
 
@@ -14,14 +18,126 @@ app = Flask(__name__)
 
 bp = Blueprint('note', __name__)
 
+lemmatizer = WordNetLemmatizer()
+
 UPLOAD_FOLDER = 'Uploads'
 
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+currentmodel = Word2Vec.load("cosine_model/cosine_similarity_metric")
 
 
 def allowed_file(filename):
     allowed_extensions = {'csv', 'txt', 'zip'}
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in allowed_extensions
+
+
+def stripword(word):
+    word = word.replace("[", "")
+    word = word.replace("]", "")
+    word = word.replace("'", "")
+    word = word.replace("'", "")
+    word = word.replace(" ", "")
+    return word
+
+
+def stripword2(word):
+    word = word.replace("[", "")
+    word = word.replace("]", "")
+    word = word.replace("'", "")
+    word = word.replace("'", "")
+    word = word.replace(",", "")
+    word = word.replace(".", "")
+    word = word.replace("_", "")
+    word = word.replace(":", "")
+    word = word.replace("-", "")
+    word = word.replace("*", "")
+    word = word.replace("/", "")
+    word = word.replace("(", "")
+    word = word.replace(")", "")
+    word = word.replace("´", "")
+    word = word.replace("`", "")
+    word = word.replace(";", "")
+    return word
+
+
+def stripwordlist(listing):
+    for ii in range(len(listing)):
+        listing[ii] = listing[ii].replace("[", "")
+        listing[ii] = listing[ii].replace("]", "")
+        listing[ii] = listing[ii].replace("'", "")
+        listing[ii] = listing[ii].replace(",", "")
+        listing[ii] = listing[ii].replace('"', "")
+        listing[ii] = listing[ii].replace(".", "")
+        listing[ii] = listing[ii].replace("-", "")
+        listing[ii] = listing[ii].replace("_", "")
+        listing[ii] = listing[ii].replace(":", "")
+        listing[ii] = listing[ii].replace(";", "")
+        listing[ii] = listing[ii].replace("*", "")
+        listing[ii] = listing[ii].replace("(", "")
+        listing[ii] = listing[ii].replace(")", "")
+        listing[ii] = listing[ii].replace("´", "")
+        listing[ii] = listing[ii].replace("`", "")
+        listing[ii].strip()
+    return listing
+
+
+def levensteindistance(s1, s2):
+    if len(s1) > len(s2):
+        s1, s2 = s2, s1
+
+    distances = range(len(s1) + 1)
+    for i2, c2 in enumerate(s2):
+        distances_ = [i2+1]
+        for i1, c1 in enumerate(s1):
+            if c1 == c2:
+                distances_.append(distances[i1])
+            else:
+                distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
+        distances = distances_
+    return distances[-1]
+
+def cosine_similarity(word1, word2):
+    return 1 - spatial.distance.cosine(currentmodel.wv[word1], currentmodel.wv[word2])
+
+
+def combined_cosine_similarity(concept, in_txt):
+    concept_words = concept.split()
+    concept_words = stripwordlist(concept_words)
+    range_words = in_txt.split()
+    range_words = stripwordlist(range_words)
+    cosine_average = 0
+    count = 0
+    for m in range(0, len(concept_words)):
+        try:
+            word1 = '_'.join(concept_words[m:m + 3])
+            word2 = '_'.join(range_words[m:m + 3])
+            cosine_average += cosine_similarity(word1, word2)
+            count += 1
+        except:
+            pass
+    if count == 0:
+        for m in range(0, len(concept_words)):
+            try:
+                word1 = '_'.join(concept_words[m:m + 2])
+                word2 = '_'.join(range_words[m:m + 2])
+                cosine_average += cosine_similarity(word1, word2)
+                count += 1
+            except:
+                pass
+    if count == 0:
+        for word3 in concept_words:
+            for word4 in range_words:
+                try:
+                    cosine_average += cosine_similarity(word3, word4)
+                    count += 1
+                except:
+                    pass
+    if count == 0:
+        return 0
+    else:
+        return cosine_average / count
+
 
 
 @bp.route('/', methods=('GET', 'POST'))
@@ -139,15 +255,6 @@ def open_file(filename):
     return render_template('note/concepts.html', table=table, filename=filename)
 
 
-def stripword(word):
-    word = word.replace("[", "")
-    word = word.replace("]", "")
-    word = word.replace("'", "")
-    word = word.replace("'", "")
-    word = word.replace(" ", "")
-    return word
-
-
 @bp.route('/<filename>/<conc>', methods=['GET', 'POST'])
 def txt_files(filename, conc):
     with open(os.path.join('Uploads', filename)) as csvfile:
@@ -203,7 +310,7 @@ def sentence(i_txt_file, filename, conc):
             self.highlight_beginning = highlight_beginning
             self.highlight_broken = []
             for high in self.highlight:
-                words = high.split()
+                words = high.split(' ')
                 for one_word in words:
                     self.highlight_broken.append(one_word.lower())
 
@@ -213,9 +320,9 @@ def sentence(i_txt_file, filename, conc):
         end = conc_end[i] + 150
         beginning = conc_beginning[i] - 150
         concept_name = []
-        concept_names = range_txt[i].split()
+        concept_names = range_txt[i].split(' ')
         for name in concept_names:
-            concept_name.append(name.lower())
+            concept_name.extend(name.lower())
         highlight = []
         highlight_beginning = []
         other_concepts = []
@@ -235,7 +342,8 @@ def sentence(i_txt_file, filename, conc):
                 sentence.append(word)
             txt_length += len(word)
 
-        concepts_display.append(ConceptsToDisplay(concept_name, highlight, sentence, beginning, highlight_beginning, other_concepts))
+        concepts_display.append(ConceptsToDisplay(concept_name, highlight, sentence, beginning, highlight_beginning,
+                                                  other_concepts))
 
     # environment = jinja2.Environment('a')
     # environment.filters['b_any'] = b_any
@@ -266,6 +374,16 @@ def display_concept(i_txt_file, concept_chosen, beginning, filename):
                 negated = str2bool(row[10])
                 location = row[8]
                 concept_to_display = row[3]
+                range_txt_display = row[13]
+                concept_tokenized = nltk.word_tokenize(concept_to_display.lower())
+                range_tokenized = nltk.word_tokenize(range_txt_display.lower())
+                concept_lemmatized = [lemmatizer.lemmatize(n).lower() for n in concept_tokenized]
+                range_lemmatized = [lemmatizer.lemmatize(n).lower() for n in range_tokenized]
+                reference_list = [concept_lemmatized]
+                blue_score = sentence_bleu(reference_list, range_lemmatized, weights=(1, 0, 0, 0))
+                levenstein_dist = levensteindistance(concept_to_display.lower(), range_txt_display.lower())
+                cosine_similarity_value = combined_cosine_similarity(concept_to_display.lower(), range_txt_display.lower())
+                jaccard_dist = nltk.jaccard_distance(set(concept_to_display), set(range_txt_display))
 
     if request.method == 'POST':
 
@@ -281,14 +399,17 @@ def display_concept(i_txt_file, concept_chosen, beginning, filename):
             db = get_db()
             db.execute(
                 'INSERT INTO feedback (concept, negation, hof, location, correct_answ,\
-                 hof_answ, location_answ, negation_answ)'
-                ' VALUES (?,?,?,?,?,?,?,?)',
+                 hof_answ, location_answ, negation_answ, bleu_score, levenstein_dist, cosine_sim, jaccard_dist)'
+                ' VALUES (?,?,?,?,?,?,?,?,?,?,?,?)',
                 (str(concept_chosen), int(negated), int(hof), str(location), str2int(correct_answ),
-                 str2int(hof_answ), str2int(location_answ), str2int(negation_answ))
+                 str2int(hof_answ), str2int(location_answ), str2int(negation_answ), float(levenstein_dist),
+                 float(cosine_similarity_value), float(jaccard_dist))
             )
             db.commit()
             return redirect(url_for('note.sentence', i_txt_file=i_txt_file, filename=filename,
                                     conc=concept_chosen))
 
-    return render_template('note/concept_display.html', hof=hof, negated=negated,
-                           location=location, concept=concept_to_display, filename=filename)
+    return render_template('note/concept_display.html', hof=hof, negated=negated, range_txt=range_txt_display,
+                           location=location, concept=concept_to_display, filename=filename, blue=round(blue_score,3),
+                           levenstein=round(levenstein_dist,3), cosine=round(cosine_similarity_value,3),
+                           jaccard=round(jaccard_dist,3), i_txt_file=i_txt_file, concept_chosen=concept_chosen)

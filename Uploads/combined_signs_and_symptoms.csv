@@ -1,0 +1,230 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-13,clinical-13.txt,cTAKES input\,Patient date of birth,f,C0421451,f,na,null,null,f,69,56,Date of Birth,184099003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Coitus,f,C0009253,f,na,null,null,f,86,83,Sex,258139002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,98,91,Service,224930009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Illness (finding),f,C0221423,t,na,null,null,f,133,126,ILLNESS,39104002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Management procedure,f,C1273870,f,na,null,null,f,463,453,management,119270007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ascites,f,C0003962,f,na,null,null,f,493,486,ascites,389026000,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Renal function,f,C0232804,f,na,Kidney,64033007,f,672,658,renal function,11953005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Rash of groin,f,C0239785,f,na,Inguinal region,26893007,f,1185,1175,groin rash,14660001000004108,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Defecation,f,C0011135,f,na,Intestines,261093006,f,1274,1259,bowel movements,111989001,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Social and personal history,f,C0424945,f,na,null,null,f,1324,1310,SOCIAL HISTORY,160476009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Married (finding),f,C0555047,f,na,null,null,f,1349,1342,married,87915002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Menstruation,f,C0025344,f,na,null,null,f,1676,1670,period,248957007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Menstruation,f,C0025344,f,na,null,null,f,1776,1770,period,248957007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Fluid Balance,f,C0016284,f,na,null,null,f,2069,2056,fluid balance,251856003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,2104,2097,service,224930009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Redness,f,C0332575,f,na,Blood Platelets,16378004,f,2322,2319,red,386713009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Nutrition function,f,C1442959,f,na,null,null,f,2567,2558,nutrition,384759009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Orthotopic graft (qualifier value),f,C0686909,f,na,null,null,f,2941,2931,orthotopic,103404002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hemorrhage,f,C0019080,f,na,Blood,87612001,f,3124,3114,blood loss,131148009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Redness,f,C0332575,f,na,Cells,4421005,f,3234,3231,red,386713009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Complication,f,C0009566,f,na,null,null,t,3346,3333,complications,116223007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,In care (finding),f,C0580931,f,na,null,null,f,3525,3504,in the intensive care,161056001,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Awake,f,C0234422,f,na,null,null,f,3572,3567,awake,248218005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Distress,f,C0231303,f,na,null,null,t,3589,3581,distress,69328002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Lucid,f,C0556994,f,na,null,null,f,3610,3605,lucid,285241002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Diuresis,f,C0012797,f,na,null,null,f,3748,3740,diuresis,60309003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Pain,f,C0030193,f,na,null,null,f,3831,3827,pain,22253000,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Normal diet,f,C0184625,f,na,null,null,f,4198,4180,regular house diet,36823005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Mental state,f,C0278060,f,na,null,null,f,4361,4348,mental status,363871006,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Menstruation,f,C0025344,f,na,null,null,f,4431,4425,period,248957007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Independently able,f,C1299583,f,na,null,null,f,4602,4591,independent,371153006,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Normal diet,f,C0184625,f,na,null,null,f,4752,4740,regular diet,36823005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Liver function,f,C0232741,f,na,Liver,10200004,f,4831,4817,liver function,79036002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ready for discharge,f,C2314972,f,na,null,null,f,5057,5038,ready for discharge,430567009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Patient date of birth,f,C0421451,f,na,null,null,f,69,56,Date of Birth,184099003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Coitus,f,C0009253,f,na,null,null,f,86,83,Sex,258139002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,98,91,Service,224930009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hypersensitivity,f,C0020517,f,na,null,null,f,119,110,Allergies,418634005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Chief complaint (finding),f,C0277786,f,na,null,null,f,191,182,Complaint,409586006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Syncope,f,C0039070,f,na,null,null,f,201,194,Syncope,271594007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Illness (finding),f,C0221423,t,na,null,null,f,276,269,Illness,39104002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Felt faint,f,C0581879,f,na,null,null,f,437,413,felt lightheaded / faint,162271007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Level of consciousness,f,C0234425,f,na,null,null,t,506,503,LOC,6942003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Lightheadedness,f,C0220870,f,na,null,null,f,579,568,lightheaded,386705008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Biological Transport,f,C0005528,f,na,null,null,f,763,754,transport,57188001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Unable,f,C1299582,f,na,null,null,f,1151,1145,unable,371151008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Inflammation,f,C0021368,f,na,Structure of calf of leg,53840002,f,1199,1187,inflammation,23583003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Worse,f,C1457868,f,na,null,null,f,1225,1220,worse,231877006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Chest discomfort,f,C0235710,f,na,Chest,261179002,f,1319,1303,chest discomfort,279084009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,1343,1323,difficulty breathing,230145002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,No cough,f,C0425502,f,na,null,null,t,1354,1346,no cough,161922009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hemoptysis,f,C0019079,f,na,null,null,t,1368,1358,hemoptysis,6686005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Sweating,f,C0038990,f,na,null,null,t,1385,1379,sweats,415690000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Bleeding tendency,f,C1458140,f,na,null,null,t,1432,1402,bleeding or clotting disorders,248250000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hypersensitivity,f,C0020517,f,na,null,null,f,1532,1523,allergies,418634005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Social and personal history,f,C0424945,f,na,null,null,f,1549,1535,Social History,160476009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Household composition,f,C0595998,f,na,null,null,f,1559,1554,Lives,224130005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Rales,f,C0034642,f,na,null,null,t,1902,1894,crackles,48409008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Wheezing,f,C0043144,f,na,null,null,t,1916,1908,wheezing,56018004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Rhonchi,f,C0035508,f,na,null,null,t,1927,1920,rhonchi,24612001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Swollen legs,f,C0581394,f,na,Leg,30021000,f,2013,1997,leg/calf swollen,275319005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Feeling tense,f,C0235108,f,na,null,null,t,2042,2037,tense,263897001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Subcutaneous crepitus,f,C0277964,f,na,null,null,t,2129,2121,crepitus,64205004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Acute hemorrhage,f,C0333276,f,na,Intracranial,303231004,t,2250,2221,acute intracranial hemorrhage,8573003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Atrial Pressure,f,C0428877,f,na,Heart Atrium,59652004,f,2359,2344,atrial pressure,251068006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Left Ventricular Function,f,C0080310,f,na,Heart Ventricle,21814001,f,2496,2462,Left ventricular systolic function,250907009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Ventricular Function, Right",f,C0080311,f,na,Heart Ventricle,21814001,f,2652,2617,Right ventricular systolic function,250938005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Borderline normal,f,C1299399,f,na,Heart Ventricle,21814001,f,2673,2656,borderline normal,371932001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Regurgitation,f,C2004489,f,na,Aorta,261051005,t,2790,2777,regurgitation,78104003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Hypertension,f,C0020542,f,na,Arteries,51114001,f,2937,2899,pulmonary artery systolic hypertension,70995007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,effusion,f,C0013687,f,na,Pericardial body location,264135001,t,2972,2964,effusion,41699000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Hypertension,f,C0020542,f,na,Lung,39607008,f,3099,3077,pulmonary hypertension,70995007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,ST segment depression (finding),f,C0520887,f,na,null,null,f,3278,3265,ST Depression,429622005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,P pulmonale by EKG (finding),f,C0232308,f,na,null,null,f,3307,3296,p-pulmonale,164914003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Bucket handle rib motion,f,C1562447,f,na,null,null,f,3359,3346,Bucket handle,417505007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Tear of meniscus of knee,f,C0238218,f,na,null,null,f,3380,3367,meniscal tear,239720000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee joint effusion,f,C0343166,f,na,Joints,39352004,f,3519,3500,knee joint effusion,202381003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Embolus,f,C1704212,f,na,Lung,39607008,f,3745,3738,embolus,55584005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Embolus,f,C1704212,f,na,Leg,30021000,f,3864,3857,embolus,55584005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Blood coagulation,f,C0005778,f,na,null,null,f,3916,3908,clotting,74848003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Immobile,f,C0231441,f,na,null,null,f,3973,3963,immobility,102491009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Stasis,f,C0333138,f,na,null,null,f,3984,3978,stasis,19685008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Instability,f,C1444783,f,na,null,null,t,4152,4141,instability,410728007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Lysis,f,C0024348,f,na,null,null,t,4160,4155,lysis,371757000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Work,f,C0043227,f,na,null,null,f,4308,4304,work,261041009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Management procedure,f,C1273870,f,na,null,null,f,4380,4370,management,119270007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Management procedure,f,C1273870,f,na,null,null,f,4481,4471,management,119270007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Syncope,f,C0039070,f,na,null,null,f,4609,4602,Syncope,272030005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Related personal status,f,C0445223,f,na,Right side of heart,79561009,f,4732,4725,related,262094002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,P pulmonale by EKG (finding),f,C0232308,f,na,null,null,f,4784,4773,P-pulmonale,164914003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Related personal status,f,C0445223,f,na,null,null,f,4792,4785,related,262094002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Ischemia,f,C0022116,f,na,null,null,t,4889,4881,ischemia,52674009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Related personal status,f,C0445223,f,na,null,null,f,4952,4945,related,262094002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Ischemia,f,C0022116,f,na,null,null,f,4964,4956,ischemia,52674009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hemorrhage,f,C0019080,f,na,null,null,t,5085,5077,bleeding,50960005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Asymptomatic,f,C0231221,f,na,null,null,f,5109,5097,asymptomatic,84387000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Tear of meniscus of knee,f,C0238218,f,na,null,null,f,5239,5226,meniscal tear,239720000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Mobility as a finding,f,C0425245,f,na,null,null,f,5296,5288,mobility,363803005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Embolus,f,C1704212,f,na,Lung,39607008,f,5591,5584,embolus,55584005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Tear of meniscus of knee,f,C0238218,f,na,Structure of left knee,82169009,f,5615,5602,meniscal tear,239720000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Embolism,f,C0013922,f,na,Lung,39607008,f,5728,5720,embolism,414086009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Tear of meniscus of knee,f,C0238218,f,na,Knee,304679005,f,6050,6037,meniscal tear,239720000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Chest Pain,f,C0008031,f,na,Chest,51185008,f,6277,6267,chest pain,29857009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,6299,6280,shortness of breath,267036007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Lightheadedness,f,C0220870,f,na,null,null,f,6317,6302,lightheadedness,386705008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Dizziness,f,C0012833,f,na,null,null,f,6330,6321,dizziness,271789005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Patient date of birth,f,C0421451,f,na,null,null,f,69,56,Date of Birth,184099003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Coitus,f,C0009253,f,na,null,null,f,86,83,Sex,258139002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,98,91,Service,224930009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Illness (finding),f,C0221423,t,na,null,null,f,136,129,ILLNESS,39104002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Exacerbation of asthma,f,C0349790,f,na,null,null,f,241,222,asthma exacerbation,281239006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Infiltration,f,C0332448,f,na,Structure of lower lobe of lung,90572001,f,661,651,infiltrate,47351003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chronic abdominal pain,f,C0232491,f,na,Abdomen,113345001,f,1005,983,Chronic abdominal pain,111985007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Spasm,f,C0037763,f,na,Muscle,91727004,f,1050,1044,spasms,45352006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Stress,f,C0038435,f,na,Coronary artery,41801008,f,1104,1098,stress,262188008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,History of syncope,f,C4040646,f,na,null,null,f,1139,1121,History of syncope,674191000119109,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Hypersensitivity,f,C0020517,f,na,null,null,f,1333,1324,ALLERGIES,418634005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Social and personal history,f,C0424945,f,na,null,null,f,1410,1396,SOCIAL HISTORY,160476009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Married (finding),f,C0555047,f,na,null,null,f,1531,1524,Married,87915002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Wheelchair bound,f,C0558195,f,na,null,null,f,1564,1548,wheelchair bound,105503008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Blood Pressure,f,C0005823,f,na,Blood,87612001,f,1647,1633,blood pressure,75367002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Malaise,f,C0231218,f,na,null,null,f,1769,1766,ill,248282002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Distress,f,C0231303,f,na,null,null,t,1809,1801,distress,69328002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Bronchial breathing,f,C0231873,f,na,Bronchial,261061003,f,1894,1878,bronchial breath,79451004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Wheezing,f,C0043144,f,na,Bronchial,261061003,t,1914,1907,wheezes,56018004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Edema,f,C0013604,f,na,null,null,t,1968,1963,edema,267038008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,2611,2592,Shortness of breath,230145002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Related personal status,f,C0445223,f,na,null,null,f,2758,2751,related,262094002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,H/O: pneumonia,f,C0455542,f,na,null,null,f,2902,2882,history of pneumonia,161525004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,3100,3081,shortness of breath,230145002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Patient on oxygen,f,C1299452,f,na,null,null,f,3152,3107,patient was maintained on supplemental oxygen,371825009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Sore to touch,f,C0234233,f,na,Chest,261179002,f,3425,3417,soreness,71393004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chest discomfort,f,C0235710,f,na,Chest,261179002,f,3466,3450,chest discomfort,279084009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Pain,f,C0030193,f,na,null,null,f,3559,3555,pain,22253000,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Feeling relief,f,C0564405,f,na,null,null,f,3566,3560,relief,224978009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Related personal status,f,C0445223,f,na,null,null,f,3599,3592,related,262094002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Hypercapnia,f,C0020440,f,na,null,null,f,4093,4069,carbon dioxide retention,29596007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Acidosis,f,C0001122,f,na,null,null,f,4118,4110,acidosis,51387008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Mental state,f,C0278060,f,na,null,null,f,4153,4140,mental status,36456004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Apnea,f,C0003578,f,na,null,null,f,4405,4399,apneic,248583008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Hemodynamically stable,f,C0578150,f,na,null,null,f,4788,4766,hemodynamically stable,301459008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Mean Corpuscular Volume (result),f,C0524587,t,na,Smear cell,250288005,f,4988,4985,MCV,365615009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chronic pain,f,C0150055,f,na,Abdomen,277112006,f,5484,5462,Chronic abdominal pain,82423001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Discharge status,f,C0586514,f,na,null,null,f,5503,5487,DISCHARGE STATUS,309039003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,6089,6070,shortness of breath,230145002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Patient date of birth,f,C0421451,f,na,null,null,f,69,56,Date of Birth,184099003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Coitus,f,C0009253,f,na,null,null,f,86,83,Sex,258139002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,98,91,Service,224930009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hypersensitivity,f,C0020517,f,na,null,null,f,119,110,Allergies,421961002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,No known allergy,f,C0262580,f,na,null,null,f,167,149,No Known Allergies,716186003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Chief complaint (finding),f,C0277786,f,na,null,null,f,231,222,Complaint,33962009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,253,234,Shortness of breath,230145002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fever,f,C0015967,f,na,null,null,f,261,256,fever,386661006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Illness (finding),f,C0221423,t,na,null,null,f,332,325,Illness,39104002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,628,609,shortness of breath,267036007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fever,f,C0015967,f,na,null,null,f,638,633,fever,50177009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Chest Pain,f,C0008031,f,na,Chest,51185008,f,733,723,chest pain,29857009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Stress,f,C0038435,f,na,null,null,f,832,826,stress,73595000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fever,f,C0015967,f,na,null,null,f,1071,1066,fever,50177009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Coughing,f,C0010200,f,na,null,null,f,1143,1138,cough,263731006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Choking,f,C0008301,f,na,null,null,f,1229,1222,choking,249489001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Symptom mild,f,C0436343,f,na,null,null,f,1282,1262,mild reflux symptoms,162468002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,1322,1319,SOB,267036007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Oxygen saturation below reference range,f,C0746961,f,na,null,null,f,1438,1417,low oxygen saturation,449171008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Malaise,f,C0231218,f,na,null,null,t,1471,1458,feel that bad,213257006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Chills,f,C0085593,f,na,null,null,t,1490,1484,chills,43724002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Absence of pain,f,C0234225,f,na,Chest,51185008,t,1506,1493,no chest pain,81765008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Swelling absent,f,C0577599,f,na,null,null,t,1523,1509,no LE swelling,300890009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hydration status,f,C1321013,f,na,null,null,f,1783,1774,hydration,405006006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Life Threatening or Disabling Adverse Event,f,C3537125,f,na,null,null,f,2369,2359,grade of 4,446441000124102,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Tumor Cell Invasion,f,C1269955,f,na,null,null,f,2397,2389,invasion,370052007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Back Pain,f,C0004604,f,na,null,null,f,2456,2447,back pain,161891005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Exanthema,f,C0015230,f,na,null,null,f,2615,2611,rash,271807003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Proteinuria,f,C0033687,f,na,null,null,f,2670,2659,proteinuria,29738008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hypersensitivity,f,C0020517,f,na,null,null,f,2903,2894,allergies,421961002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Social and personal history,f,C0424945,f,na,null,null,f,2918,2904,Social History,160476009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Lives with wife,f,C2960190,f,na,null,null,f,2951,2924,lives at home with his wife,447555007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Non-smoker,f,C0337672,f,na,null,null,f,3075,3065,non-smoker,8392000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Flushing,f,C0016382,f,na,Cheek structure,60819002,f,3231,3224,Flushed,20255002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Decreased breath sounds,f,C0238844,f,na,null,null,f,3311,3292,Decreased air entry,58840004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Rales,f,C0034642,f,na,null,null,f,3324,3316,crackles,48409008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Egophony,f,C0231872,f,na,null,null,f,3356,3348,Egophony,19977002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,"Normal second heart sound, S>2<",f,C0232231,f,na,null,null,f,3385,3371,"Normal S1 , S2",111974005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Heart murmur,f,C0018808,f,na,null,null,t,3410,3404,murmur,414786004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Abdomen soft,f,C0426663,f,na,Abdomen,113345001,f,3445,3433,Abdomen soft,249543005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Edema,f,C0013604,f,na,null,null,t,3482,3477,edema,423666004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pedal pulse,f,C0232157,f,na,Foot,56459004,f,3502,3490,pedal pulses,null,sno_rx_16ab,na
+clinical-43,clinical-43.txt,cTAKES input\,Mean Corpuscular Volume (result),f,C0524587,f,na,null,null,f,3622,3619,MCV,365615009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mean Corpuscular Volume (result),f,C0524587,f,na,null,null,f,3765,3762,MCV,365615009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mean Corpuscular Volume (result),f,C0524587,f,na,null,null,f,4743,4740,MCV,365615009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Venous Thrombosis,f,C0042487,f,na,Limb structure,66019005,t,5253,5236,venous thrombosis,111293003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,effusion,f,C0013687,f,na,null,null,f,5406,5398,effusion,41699000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Lung volume,f,C0231953,f,na,Lung,39607008,f,5425,5413,lung volumes,17785005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,effusion,f,C0013687,f,na,null,null,f,5640,5631,effusions,41699000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Atelectasis,f,C0004144,f,na,null,null,f,5825,5814,atelectasis,46621007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Abnormally opaque structure (morphologic abnormality),f,C1265876,f,na,Right lung,3341006,f,5935,5926,opacities,128305008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Abnormally opaque structure (morphologic abnormality),f,C1265876,f,na,Right lung,3341006,f,5972,5963,opacities,128305008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,INFECTIOUS PROCESS,f,C0745283,f,na,Right lung,3341006,f,6036,6018,infectious process,441862004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Thickened,f,C0205400,f,na,Jejunum,21306003,f,6290,6280,thickening,89977008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Thickened,f,C0205400,f,na,ileum,34516001,f,6335,6325,thickening,263899003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Symmetrical,f,C0332516,f,na,null,null,f,6496,6487,symmetric,255473004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hypertrophy,f,C0020564,f,na,Heart Ventricle,21814001,f,6525,6514,hypertrophy,56246009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mitral Valve Insufficiency,f,C0026266,f,na,null,null,f,6642,6622,mitral regurgitation,48724000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,effusion,f,C0013687,f,na,Pericardial body location,264135001,f,6698,6690,effusion,41699000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Sclerosis,f,C0036429,f,na,null,null,f,6784,6775,sclerotic,43846000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Lesion,f,C0221198,f,na,Femur,261080001,f,6791,6785,lesion,52988006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Periosteal bone formation,f,C0231565,f,na,null,null,f,6835,6806,periosteal new bone formation,30397001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fever,f,C0015967,f,na,null,null,f,7060,7055,fever,386661006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hypoxemia,f,C0700292,f,na,null,null,f,7072,7063,hypoxemia,389087006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,7338,7331,service,224930009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Abnormally opaque structure (morphologic abnormality),f,C1265876,f,na,null,null,f,7428,7419,opacities,128305008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,INFECTIOUS PROCESS,f,C0745283,f,na,null,null,f,7477,7459,infectious process,441862004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Ejection as a Sports activity,f,C0336969,f,na,null,null,f,7523,7515,ejection,34205009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Related personal status,f,C0445223,f,na,null,null,f,8318,8311,related,262094002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hydration status,f,C1321013,f,na,null,null,f,8413,8404,hydration,405006006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Diarrhea,f,C0011991,f,na,null,null,f,8527,8519,diarrhea,267060006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Constipation,f,C0009806,f,na,null,null,f,9410,9398,constipation,14760008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pain,f,C0030193,f,na,null,null,f,9616,9612,Pain,22253000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Acute failure,f,C0231176,f,na,Kidney,64033007,f,9933,9914,Acute renal failure,63884000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hypoxemia,f,C0700292,f,na,null,null,f,9981,9972,Hypoxemia,389087006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fever,f,C0015967,f,na,null,null,f,10780,10774,fevers,386661006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Chills,f,C0085593,f,na,null,null,f,10789,10783,chills,43724002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Chest Pain,f,C0008031,f,na,Chest,261179002,f,10802,10792,chest pain,29857009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Dyspnea,f,C0013404,f,na,null,null,f,10824,10805,shortness of breath,230145002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Dizziness,f,C0012833,f,na,null,null,f,10836,10827,dizziness,271789005,SNOMEDCT_US,na
+clinical-48,clinical-48.txt,cTAKES input\,Patient date of birth,f,C0421451,f,na,null,null,f,69,56,Date of Birth,413945008,SNOMEDCT_US,na
+clinical-48,clinical-48.txt,cTAKES input\,Coitus,f,C0009253,f,na,null,null,f,86,83,Sex,258139002,SNOMEDCT_US,na
+clinical-48,clinical-48.txt,cTAKES input\,Services,f,C0557854,f,na,null,null,f,98,91,Service,224930009,SNOMEDCT_US,na
+clinical-48,clinical-48.txt,cTAKES input\,Has difficulty doing (qualifier value),f,C1299586,f,na,null,null,t,368,358,difficulty,371157007,SNOMEDCT_US,na

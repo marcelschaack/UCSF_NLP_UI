@@ -1,0 +1,225 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-13,clinical-13.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,180,177,end,103160002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Interferons,f,C0021747,f,na,null,null,f,332,322,interferon,49327004,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ribavirin,f,C0035525,f,na,null,null,f,346,337,Ribavirin,9344,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,706,696,creatinine,15373003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Miconazole Nitrate,f,C0086620,f,na,null,null,f,1155,1137,Miconazole nitrate,60727003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Powder dose form,f,C0032861,f,na,null,null,f,1162,1156,powder,8612,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Protonix,f,C0876139,f,na,null,null,f,1199,1191,Protonix,261624,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Lactulose,f,C0022957,f,na,null,null,f,1227,1218,Lactulose,273945008,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Vancomycin,f,C0042313,f,na,null,null,f,1295,1285,Vancomycin,372735009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ethanol,f,C0001962,f,na,null,null,f,1406,1399,alcohol,419442005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Ethanol,f,C0001962,f,na,null,null,f,1493,1486,alcohol,398624005,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Cocaine,f,C0009170,t,na,null,null,f,1566,1559,cocaine,14816004,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,1860,1850,creatinine,2913,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,2006,1996,creatinine,15373003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Vancomycin,f,C0042313,f,na,null,null,f,2443,2433,vancomycin,42082003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Methicillin,f,C0025643,f,na,null,null,f,2492,2481,Methicillin,373515001,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Lasix,f,C0699992,f,na,null,null,f,3724,3719,Lasix,202991,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Oral Dosage Form,f,C1272919,f,na,null,null,f,3787,3783,oral,385268001,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Lasix,f,C0699992,f,na,null,null,f,3793,3788,Lasix,202991,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Morphine,f,C0026549,f,na,null,null,f,3857,3849,morphine,73572009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Blood product,f,C0456388,f,na,null,null,t,4027,4013,blood products,410652009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Immunosuppressive Agents,f,C0021081,f,na,null,null,f,4284,4267,immunosuppressive,69431002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Prednisone,f,C0032952,f,na,null,null,f,4306,4296,prednisone,10312003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Neoral,f,C0699605,f,na,null,null,f,4315,4309,Neoral,202817,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Cellcept,f,C0592558,f,na,null,null,f,4330,4322,CellCept,152633,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Bactrim,f,C0591139,f,na,null,null,f,5148,5141,Bactrim,151399,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Protonix,f,C0876139,f,na,null,null,f,5193,5185,Protonix,261624,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Metoprolol,f,C0025859,f,na,null,null,f,5221,5211,Metoprolol,6918,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Fluconazole,f,C0016277,f,na,null,null,f,5251,5240,Fluconazole,31865003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Cellcept,f,C0592558,f,na,null,null,f,5278,5270,CellCept,152633,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Prednisone,f,C0032952,f,na,null,null,f,5306,5296,Prednisone,116602009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Dilaudid,f,C0728755,f,na,null,null,f,5332,5324,Dilaudid,224913,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Neoral,f,C0699605,f,na,null,null,f,5348,5342,Neoral,202817,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Valcyte,f,C0969586,f,na,null,null,f,5375,5368,Valcyte,304959,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Lasix,f,C0699992,f,na,null,null,f,5401,5396,Lasix,202991,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,Colace,f,C0282139,f,na,null,null,f,5434,5428,Colace,82000,RXNORM,na
+clinical-13,clinical-13.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,5942,5939,End,103160002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Erythromycin,f,C0014806,f,na,null,null,f,134,122,Erythromycin,30427009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Alkalies,f,C0002055,f,na,null,null,f,139,135,Base,63813000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Lovenox,f,C0728963,f,na,null,null,f,735,728,Lovenox,225036,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Factor XI,f,C0015522,f,na,null,null,f,1024,1021,PTA,46572007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Clotrimazole,f,C0009074,f,na,null,null,f,1457,1453,clot,2623,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Ethanol,f,C0001962,f,na,null,null,t,1621,1617,ETOH,448,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Nicotinamide adenine dinucleotide (NAD),f,C0027270,f,na,null,null,f,1784,1781,NAD,1044975,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Contrast Media,f,C0009924,f,na,null,null,t,2203,2195,CONTRAST,407935004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Contrast Media,f,C0009924,f,na,null,null,f,3342,3334,Contrast,407935004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,t,4078,4072,oxygen,7806,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Heparin,f,C0019134,f,na,null,null,f,4214,4207,heparin,96382006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Coumadin,f,C0699129,f,na,null,null,f,4227,4219,coumadin,202421,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Close Up,t,C2946173,f,na,null,null,f,4426,4411,close follow up,1038952,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Coumadin,f,C0699129,f,na,null,null,f,4470,4462,coumadin,202421,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Duration,f,C2926735,f,na,null,null,f,4492,4484,Duration,1001007,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Coumadin,f,C0699129,f,na,null,null,f,4508,4500,coumadin,202421,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Duration,f,C2926735,f,na,null,null,f,4596,4588,duration,1001007,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Troponin,f,C0041199,f,na,null,null,f,4706,4698,troponin,102680009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Clotrimazole,f,C0009074,f,na,null,null,f,4800,4796,clot,5797005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Claritin,f,C0701055,f,na,null,null,f,5504,5496,Claritin,203576,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Flonase,f,C0286677,f,na,null,null,f,5518,5511,Flonase,83373,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Anticoagulants,f,C0003280,f,na,null,null,f,5767,5753,blood thinners,81839001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Oral Dosage Form,f,C1272919,f,na,null,null,f,5802,5798,oral,385268001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Anticoagulants,f,C0003280,f,na,null,null,f,5816,5803,blood thinner,372862008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Coumadin,f,C0699129,f,na,null,null,f,5832,5824,Coumadin,202421,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Warfarin,f,C0043031,f,na,null,null,f,5843,5835,Warfarin,11289,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,Basis,f,C1874451,f,na,null,null,f,5969,5964,basis,1046801,RXNORM,na
+clinical-33,clinical-33.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,6723,6720,End,103160002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Phencyclidine,f,C0031381,f,na,null,null,f,374,371,PCP,9721008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,406,400,oxygen,24099007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Air,f,C3536832,f,na,null,null,f,449,446,air,417696007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Zithromax,f,C0678143,f,na,null,null,f,559,550,Zithromax,196474,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Ceftriaxone,f,C0007561,f,na,null,null,f,573,562,ceftriaxone,19841008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Flagyl,f,C0699678,f,na,null,null,f,586,580,Flagyl,202866,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,716,710,oxygen,7806,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Air,f,C3536832,f,na,null,null,f,768,765,air,411,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Epinephrine,f,C0014563,f,na,null,null,f,1149,1142,Adrenal,3992,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Immunoglobulin G,f,C0020852,f,na,null,null,f,1235,1232,IgG,29246005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Azmacort,f,C0699690,f,na,null,null,f,1344,1336,AZMACORT,202878,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Clindamycin,f,C0008947,f,na,null,null,f,1358,1347,CLINDAMYCIN,58883005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Versed,f,C0042553,f,na,null,null,f,1367,1361,VERSED,11177,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Fentanyl,f,C0015846,f,na,null,null,f,1378,1370,FENTANYL,373492002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Morphine,f,C0026549,f,na,null,null,f,1393,1385,MORPHINE,73572009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Pack,f,C1999262,f,na,null,null,f,1437,1433,pack,746839,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Ethanol,f,C0001962,f,na,null,null,t,1509,1502,alcohol,398624005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Air,f,C3536832,f,na,null,null,f,1732,1729,air,411,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Vitamin D,f,C0042866,f,na,null,null,f,2167,2158,Vitamin D,30178006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Levoxyl,f,C0721346,f,na,null,null,f,2190,2183,Levoxyl,218002,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Baclofen,f,C0004609,f,na,null,null,f,2214,2206,Baclofen,6102009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Florinef,f,C0060486,f,na,null,null,f,2244,2236,Florinef,25105,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Klonopin,f,C0699315,f,na,null,null,f,2275,2267,Klonopin,202585,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Buspar,f,C0600122,f,na,null,null,f,2297,2291,BuSpar,154990,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Zanaflex,f,C0595425,f,na,null,null,f,2322,2314,Zanaflex,153736,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxazepam,f,C0029997,f,na,null,null,f,2347,2339,Oxazepam,7781,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Singulair,f,C0595724,f,na,null,null,f,2373,2364,Singulair,153889,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Lipitor,f,C0593906,f,na,null,null,f,2398,2391,Lipitor,153165,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Ativan,f,C0699194,f,na,null,null,f,2422,2416,Ativan,202479,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Protonix,f,C0876139,f,na,null,null,f,2447,2439,Protonix,261624,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Sucralfate,f,C0038633,f,na,null,null,f,2480,2470,Sucralfate,10156,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Albuterol,f,C0001927,f,na,null,null,f,2506,2497,Albuterol,372897005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,pamidronate,f,C0043603,f,na,null,null,f,2550,2539,Pamidronate,420481001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Albuterol,f,C0001927,f,na,null,null,f,2653,2644,albuterol,435,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Ipratropium,f,C0027235,f,na,null,null,f,2690,2679,Ipratropium,7213,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Antibiotics,f,C0003232,f,na,null,null,f,2946,2935,antibiotics,255631004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Zithromax,f,C0678143,f,na,null,null,f,2959,2950,Zithromax,196474,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Ceftriaxone,f,C0007561,f,na,null,null,f,2988,2977,ceftriaxone,19841008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Solu-Medrol,f,C0701466,f,na,null,null,f,3034,3023,Solu-Medrol,203856,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,3152,3146,oxygen,24099007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Mucomyst,f,C0699252,f,na,null,null,f,3259,3251,Mucomyst,202536,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,mucolytic agents,f,C0026698,f,na,null,null,f,3294,3285,mucolytic,49694007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Epinephrine,f,C0014563,f,na,null,null,f,3333,3326,Adrenal,65502005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Solu-Medrol,f,C0701466,f,na,null,null,f,3396,3383,Solu - Medrol,203856,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Percocet,f,C0086787,f,na,null,null,f,3543,3535,Percocet,42844,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Proton Pump Inhibitors,f,C0358591,f,na,null,null,f,3723,3720,PPI,372525000,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Levoxyl,f,C0721346,f,na,null,null,f,3915,3908,Levoxyl,218002,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Carbon Dioxide,f,C0007012,f,na,null,null,f,4083,4069,carbon dioxide,2034,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,4485,4479,oxygen,24099007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Florinef,f,C0060486,f,na,null,null,f,4708,4700,Florinef,25105,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Epinephrine,f,C0014563,f,na,null,null,f,4731,4724,adrenal,3992,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Methylmalonic Acid,f,C0025787,f,na,null,null,f,5246,5228,Methylmalonic acid,52841006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,t,5608,5602,oxygen,24099007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Cholecalciferol,f,C0008318,f,na,null,null,f,5771,5756,Cholecalciferol,108943009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Vitamin D,f,C0042866,f,na,null,null,f,5786,5777,Vitamin D,30178006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,levothyroxine,f,C0040165,f,na,null,null,f,5805,5792,Levothyroxine,73187006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Baclofen,f,C0004609,f,na,null,null,f,5834,5826,Baclofen,6102009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Clonazepam,f,C0009011,f,na,null,null,f,5866,5856,Clonazepam,387383007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Buspirone,f,C0006462,f,na,null,null,f,5896,5887,Buspirone,91452003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,montelukast sodium,f,C0380447,f,na,null,null,f,5936,5918,Montelukast sodium,115713,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,atorvastatin,f,C0286651,f,na,null,null,f,5970,5958,Atorvastatin,108600003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Protonix,f,C0876139,f,na,null,null,f,6000,5992,Protonix,261624,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Albuterol Sulfate,f,C0543495,f,na,null,null,f,6038,6021,Albuterol sulfate,48474002,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Solution Dosage Form,f,C1382100,f,na,null,null,f,6047,6039,solution,450530,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,tizanidine,f,C0146011,f,na,null,null,f,6106,6096,Tizanidine,108461005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Acetaminophen,f,C0000970,f,na,null,null,f,6141,6128,Acetaminophen,161,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Prednisone,f,C0032952,f,na,null,null,f,6163,6153,Prednisone,116602009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Levofloxacin,f,C0282386,f,na,null,null,f,6199,6187,Levofloxacin,82122,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Florinef,f,C0060486,f,na,null,null,f,6248,6240,Florinef,25105,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,Acetate,f,C0000975,f,na,null,null,f,6256,6249,Acetate,164,RXNORM,na
+clinical-38,clinical-38.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,6496,6493,End,103160002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Avastin,f,C1135130,t,na,null,null,f,462,455,Avastin,337521,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,sorafenib,f,C1516119,t,na,null,null,f,476,467,sorafenib,420681006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,502,496,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Cardiac enzymes,f,C0443763,f,na,null,null,f,783,768,cardiac enzymes,259669000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Factor XI,f,C0015522,f,na,null,null,f,1158,1155,PTA,46572007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,rosiglitazone,f,C0289313,f,na,null,null,f,1305,1302,ROS,84108,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,1427,1421,oxygen,24099007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Flagyl,f,C0699678,f,na,null,null,f,1717,1711,Flagyl,202866,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Ceftriaxone,f,C0007561,f,na,null,null,f,1895,1884,Ceftriaxone,19841008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Cosyntropin,f,C0010192,f,na,null,null,f,1911,1900,cosyntropin,126188005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hydrocortisone,f,C0020268,f,na,null,null,f,1946,1938,cortisol,16602005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,1973,1967,oxygen,7806,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Avastin,f,C1135130,t,na,null,null,f,2524,2517,Avastin,337521,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,sorafenib,f,C1516119,f,na,null,null,f,2539,2530,sorafenib,420681006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Avastin,f,C1135130,f,na,null,null,f,2695,2688,Avastin,337521,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,2757,2751,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,2879,2873,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Nicotinamide adenine dinucleotide (NAD),f,C0027270,f,na,null,null,f,3213,3210,NAD,1044975,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Air,f,C3536832,f,na,null,null,f,3305,3302,air,411,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Hemoglobin,f,C0019046,f,na,null,null,f,3598,3595,Hgb,38082009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Methacholine,f,C0600370,f,na,null,null,f,3633,3630,MCH,155080,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Hemoglobin,f,C0019046,f,na,null,null,f,3739,3736,Hgb,38082009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Methacholine,f,C0600370,f,na,null,null,f,3774,3771,MCH,53584007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Glucose,f,C0017725,f,na,null,null,f,3958,3951,Glucose,67079006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Glucose,f,C0017725,f,na,null,null,f,4077,4070,Glucose,4850,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Bicarbonates,f,C0005367,f,na,null,null,f,4136,4132,HCO3,68615006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Alanine Transaminase,f,C0001899,f,na,null,null,f,4182,4179,ALT,56935002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Aspartate Transaminase,f,C0004002,f,na,null,null,f,4191,4188,AST,26091008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatine Kinase,f,C0010287,f,na,null,null,f,4206,4203,CPK,75828004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Amylases,f,C0002712,f,na,null,null,f,4239,4232,Amylase,743,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatine Kinase,f,C0010287,f,na,null,null,f,4291,4288,CPK,75828004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatine Kinase MB Isoenzyme,f,C0010290,f,na,null,null,f,4332,4327,CK-MB,12016004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatine Kinase MB Isoenzyme,f,C0010290,f,na,null,null,f,4385,4380,CK-MB,12016004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Calcium,f,C0006675,f,na,null,null,f,4480,4473,Calcium,1895,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Thyrotropin-Releasing Hormone,f,C0040162,f,na,null,null,f,4573,4570,TRF,10580,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Thyrotropin,f,C0040160,f,na,null,null,f,4611,4608,TSH,10579,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Hemoglobin,f,C0019046,f,na,null,null,f,4717,4714,Hgb,38082009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Methacholine,f,C0600370,f,na,null,null,f,4752,4749,MCH,372766003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Glucose,f,C0017725,f,na,null,null,f,5024,5017,Glucose,67079006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Bicarbonates,f,C0005367,f,na,null,null,f,5083,5079,HCO3,68615006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Calcium,f,C0006675,f,na,null,null,f,5133,5126,Calcium,5540006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Methamphetamine,f,C0025611,f,na,null,null,f,5962,5957,glass,6816,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,7021,7015,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Ceftriaxone,f,C0007561,f,na,null,null,f,7219,7208,Ceftriaxone,19841008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Levaquin,f,C0721336,f,na,null,null,f,7230,7222,Levaquin,217992,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Flagyl,f,C0699678,f,na,null,null,f,7243,7237,Flagyl,202866,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Azithromycin,f,C0052796,f,na,null,null,f,7288,7276,Azithromycin,18631,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Cyclophosphamide,f,C0010583,f,na,null,null,f,7294,7291,CTX,387420009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,7371,7365,oxygen,7806,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Methamphetamine,f,C0025611,f,na,null,null,f,7418,7413,glass,6816,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Oxygen,f,C0030054,f,na,null,null,f,7582,7576,oxygen,7806,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Levaquin,f,C0721336,f,na,null,null,f,7643,7635,Levaquin,217992,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,7672,7666,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,7874,7868,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,8205,8199,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Creatinine,f,C0010294,f,na,null,null,f,8255,8245,Creatinine,15373003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Gentle,f,C0720654,f,na,null,null,f,8403,8397,gentle,217335,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Imodium,f,C0591635,f,na,null,null,f,8486,8479,Imodium,151889,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Lomotil,f,C0065164,f,na,null,null,f,8498,8491,Lomotil,28874,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,8514,8508,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,MS Contin,f,C0700786,f,na,null,null,f,8589,8580,MS Contin,203354,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,MSIR,f,C0700789,f,na,null,null,f,8641,8637,MSIR,203357,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Heparin,f,C0019134,f,na,null,null,f,8707,8700,Heparin,96382006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Albuterol,f,C0001927,f,na,null,null,f,8734,8725,Albuterol,91143003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Nebulizer solution,f,C1300458,f,na,null,null,f,8745,8742,Neb,385198000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Nebulizer solution,f,C1300458,f,na,null,null,f,8756,8753,NEB,385198000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Ipratropium Bromide,f,C0700580,f,na,null,null,f,8783,8764,Ipratropium Bromide,203212,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Nebulizer solution,f,C1300458,f,na,null,null,f,8787,8784,Neb,385198000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Nebulizer solution,f,C1300458,f,na,null,null,f,8793,8790,NEB,385198000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Ceftriaxone,f,C0007561,f,na,null,null,f,8812,8801,CeftriaXONE,19841008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Levofloxacin,f,C0282386,f,na,null,null,f,8838,8826,Levofloxacin,96087006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Morphine Sulfate,f,C0066814,f,na,null,null,f,8870,8854,Morphine Sulfate,30236,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Docusate Sodium,f,C0243237,f,na,null,null,f,8906,8891,Docusate Sodium,387088007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,pantoprazole,f,C0081876,f,na,null,null,f,8933,8921,Pantoprazole,40790,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Fluticasone propionate,f,C0117996,f,na,null,null,f,8970,8948,Fluticasone Propionate,396064000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,levothyroxine,f,C0040165,f,na,null,null,f,9032,9019,Levothyroxine,73187006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Levofloxacin,f,C0282386,f,na,null,null,f,9143,9131,Levofloxacin,82122,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Docusate Sodium,f,C0243237,f,na,null,null,f,9310,9295,Docusate Sodium,387088007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,9422,9416,SUTENT,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,null,f,C1247020,f,na,null,null,f,9542,9521,Morphine 15 mg Tablet,346584006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,null,f,C1247020,f,na,null,null,f,9681,9660,Morphine 15 mg Tablet,346584006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Antibiotics,f,C0003232,f,na,null,null,f,10174,10164,antibiotic,255631004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Levaquin,f,C0721336,f,na,null,null,f,10190,10182,Levaquin,217992,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Sutent,f,C1698963,f,na,null,null,f,10347,10341,Sutent,616274,RXNORM,na
+clinical-43,clinical-43.txt,cTAKES input\,Thyroid Hormones,f,C0040135,f,na,null,null,f,10549,10534,thyroid hormone,61020000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,11262,11259,End,103160002,SNOMEDCT_US,na
+clinical-48,clinical-48.txt,cTAKES input\,Tretinoin,f,C0040845,f,na,null,null,f,104,101,TRA,387305002,SNOMEDCT_US,na
+clinical-48,clinical-48.txt,cTAKES input\,"Endoglin, human",f,C0082420,f,na,null,null,f,657,654,End,103160002,SNOMEDCT_US,na

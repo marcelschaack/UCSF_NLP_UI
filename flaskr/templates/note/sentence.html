@@ -13,9 +13,13 @@
             {% for m in concepts_display %}
                 <div>
                 {% for n in m.sentence -%}
-                    {% if n in m.concept_name %}
+                    {% if n|lower in m.concept_chosen|lower and m.concept_name|length > 1 %}
                     <font color="red"><b>{{n}}</b></font>
-                    {% elif n in m.highlight_broken %}
+                    {% elif n|lower == m.concept_name|lower %}
+                    <font color="red"><b>{{n}}</b></font>
+                    {% elif n|lower in m.highlight_broken and m.highlight_broken|length > 1 %}
+                    <font color="red">{{n}}</font>
+                    {% elif n|lower == m.highlight_broken|lower %}
                     <font color="red">{{n}}</font>
                     {% else %}
                     {{n}}

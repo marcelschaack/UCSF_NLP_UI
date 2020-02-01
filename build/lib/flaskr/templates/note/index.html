@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}cTAKES output (.csv) and clinical notes upload{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<!doctype html>
+    <title>Upload new File</title>
+    <h1>Upload .csv file and related .txt files (as zip)</h1>
+    <form method=post enctype=multipart/form-data>
+      csv file: <input type=file name=file>
+        txt file: <input type=file name=txt>
+      <input type=submit value=Upload <a class="action"}}"</a>
+    </form>
+
+{% endblock %}

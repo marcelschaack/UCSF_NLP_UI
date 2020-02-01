@@ -1,7 +1,0 @@
-note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
-clinical-13,clinical-13.txt,cTAKES input\,"Creatinine measurement, serum (procedure)",f,C0201976,f,na,null,null,f,706,690,serum creatinine,113075003,SNOMEDCT_US,na
-clinical-13,clinical-13.txt,cTAKES input\,"Joint Examination, Knee",f,C0562271,f,na,null,null,f,1089,1085,Knee,284401004,SNOMEDCT_US,na
-clinical-13,clinical-13.txt,cTAKES input\,International Normalized Ratio,f,C0525032,f,na,null,null,f,2167,2164,INR,165581004,SNOMEDCT_US,na
-clinical-13,clinical-13.txt,cTAKES input\,Platelet Count measurement,f,C0032181,f,na,null,null,f,2385,2371,platelet count,61928009,SNOMEDCT_US,na
-clinical-13,clinical-13.txt,cTAKES input\,diagnostic procedure,f,C0430022,f,na,null,null,f,2663,2653,diagnostic,103693007,SNOMEDCT_US,na
-clinical-13,clinical-13.txt,cTAKES input\,Liver Function Tests,f,C0023901,f,na,null,null,f,4837,4817,liver function tests,271552009,SNOMEDCT_US,na

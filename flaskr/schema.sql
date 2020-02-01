@@ -10,5 +10,9 @@ CREATE TABLE feedback (
   correct_answ INTEGER NOT NULL,
   hof_answ INTEGER NOT NULL,
   location_answ INTEGER NOT NULL,
-  negation_answ INTEGER NOT NULL
+  negation_answ INTEGER NOT NULL,
+  bleu_score REAL,
+  levenstein_dist REAL,
+  cosine_sim REAL,
+  jaccard_dist REAL
   );
