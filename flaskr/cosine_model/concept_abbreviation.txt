@@ -1,0 +1,774 @@
+AA - Alcoholics Anonymous; African American
+A-a - Alveolar Arterial gradient
+AAA - Abdominal Aortic Aneurysm
+AB - Antibody; also Abortion
+ABD - Abdomen
+ABG - Arterial Blood Gas
+ABI - Ankle Brachial Index
+ABPA - Allergic Broncho Pulmonary Aspergillosis
+ABX - Antibiotics
+AC - Anterior Chamber; also Acromio-Clavicular and Before Meals
+ACE-I - Angiotensin Converting Enzyme Inhibitor
+ACL - Anterior Cruciate Ligament
+ACLS - Advanced Cardiac Life Support
+ACS - Acute Coronary Syndrome
+AD LIB - As Desired
+ADA - American Diabetes Association
+ADD - Attention Deficit Disorder
+ADE - Adverse Drug Effect
+ADHD - Attention Deficit Hyperactivity Disorder
+ADL - Activities of Daily Living
+ADR - Adverse Drug Reaction
+ADTP - Alcohol and Drug Treatment Program
+AED - Automatic External Defibrillator; Anti-Epileptic Drug
+AF - Atrial Fibrillation; Afebrile
+AFB - Acid Fast Bacterium
+AFP - Alpha Fetoprotein
+AGN - Antigen
+AI - Aortic Insufficiency
+AIDS - Acquired Immuno-Deficiency Syndrome
+AIN - Acute Interstitial Nephritis
+AK - Actinic Keratosis
+AKA - Above Knee Amputation
+ALL - Allergies; also Acute Lymphocytic Leukemia
+ALS - Amyotrophic Lateral Sclerosis; also Advanced Life Support
+AMA - Against Medical Advice; American Medical Association
+AMD - Aging Macular Degeneration
+AMI - Acute Myocardial Infarction; Anterior Myocardial Infarction
+A-MIBI - Adenosine MIBI
+AML - Acute Myelogenous Leukemia
+AMS - Altered Mental Status; Acute Mountain Sickness
+ANC - Absolute Neutrophil Count
+AND - Axillary Node Dissection
+ANGIO - Angiography
+A&O - Alert And Oriented
+AP - Anterior-Posterior
+A/P - Assessment and Plan
+APC - Atrial Premature Contraction
+APD - Afferent Pupillary Defect
+APPY - Appendectomy
+APS - Adult Protective Services
+ARB - Angiotensin Receptor Blocker
+ARDS - Adult Respiratory Distress Syndrome
+ARF - Acute Renal Failure
+AS - Aortic Stenosis; also Anklyosing Spondylitis
+ASA - Aspirin
+ASD - Atrial Septal Defect
+ASU - Ambulatory Surgery Unit
+ATN - Acute Tubular Necrosis
+A/V Nicking - Arteriolar/Venous Nicking
+A/V Ratio - Arteriolar/Venous Ratio
+AVF- Arterio-Venous Fistula
+AVM - Arterial Venous Malformation
+AVN - Avascular Necrosis; Atrio-Ventricular
+AVNRT - Atrio-Ventricular Nodal Reentrant Tachycardia
+AVR - Aortic Valve Replacement
+AVSS - Afebrile, Vital Signs Stable
+B - Bilateral
+B&C - Board and Care
+BAE - Barium Enema
+BBB - Bundle Branch Block
+BCC - Basal Cell Carcinoma
+BCG - Bacille Calmette-Guerin
+BDR - Background Diabetic Retinopathy
+BE - Bacterial Endocarditis; also Barium Enema
+BET - Benign Essential Tremor
+BIB - Brought In By
+BID - Twice a Day
+BIPAP - Bi-Level Positive Airway Pressure
+BIVAD - Bi-Ventricular Assist Device
+BKA - Below Knee Amputation
+BL CX - Blood Culture
+BM - Bone Marrow; also Bowel Movement
+BMI - Body Mass Index
+BMT - Bone Marrow Transplant
+BP - Blood Pressure
+BPD - Borderline Personality Disorder; also Bi-Polar Disorder and Broncho-Pulmonary Dysplasia
+BPV - Benign Positional Vertigo
+BR - Bed Rest
+BRAO - Branch Retinal Artery Occlusion
+BRB - Bright Red Blood
+BRBPR - Bright Red Blood Per Rectum
+BRP - Bathroom Privileges
+BRVO - Branch Retinal Vein Occlusion
+BS - Bowel Sounds; also Breath Sounds and Blood Sugar
+BSA - Body Surface Area
+BUN - Blood Urea Nitrogen
+BX - Biopsy
+
+C - With
+CABG - Coronary Artery By-Pass Graft
+CAD - Coronary Artery Disease
+CAP - Prostate Cancer; Community Acquired Pneumonia
+CARDS - Cardiology
+CAT - Cataract
+CATH - Catheterization
+CB - Cerebellar
+C/B - Complicated By
+CBC - Complete Blood Count
+CBD - Common Bile Duct; Closed Bag Drainage
+CBI - Continuous Bladder Irrigation
+CC - Chief Complaint
+CCB - Calcium Channel Blocker
+CCC - Central Corneal Clouding
+CCK - Cholycystectomy
+CCE - Clubbing, Cyanosis, Edema
+C/D - Cup to Disk ratio
+CDI - Clean Dry Intact
+C DIF - Clostridium Difficile
+CEA - Carcinoembryonic Antigen
+Chemo - Chemotherapy
+CHI - Closed Head Injury
+CHF - Congestive Heart Failure
+Choly - Cholycystectomy
+CI - Cardiac Index
+CIC - Clean Intermittent Catheterization
+CIDP - Chronic Inflammatory Demyelinating Polyneuropathy
+CK - Creatinine Kinase
+CL - Chloride
+CLL - Chronic Lymphocytic Leukemia
+CM - Cardiomegaly
+CML - Chronic Myelogenous Leukemia
+CMP - Cardiomyopathy
+CMR - Chief Medical Resident
+CMT - Cervical Motion Tenderness; Charcot Marie Tooth
+CMV - Cyto-Megalo Virus
+CN - Cranial Nerves
+CNIS - Carotid Non-Invasive Study
+CNS - Central Nervous System
+CO - Cardiac Output
+C/O - Complains Of
+COPD - Chronic Obstructive Pulmonary Disease
+COX 2 - Cyclooxygenase 2
+CPAP - Continuous Positive Airway Pressure
+CPP - Cerebral Perfusion Pressure
+CPPD - Calcium Pyrophosphate Disease
+CPR - Cardiopulmonary Resucitation
+CPS - Child Protective Services
+CPU - Chest Pain Unit
+CRAO - Central Retinal Artery Occlusion
+CRFs - Cardiac Risk Factors
+CRI - Chronic Renal Insufficiency
+CRP - C Reactive Protein
+CRVO - Central Retinal Vein Occlusion
+CSF - Cerebral Spinal Fluid
+CT - Cat Scan; also Chest Tube and Cardio-Thoracic
+CTA - Clear To Auscultation
+CVA - Cerebral Vascular Accident
+CVL - Central Venous Line
+CVP - Central Venous Pressure
+C/W - Consistent With; Compared With
+CX - Culture
+CXR - Chest X-Ray
+C/W - Consistent With
+
+D - Diarrhea; also Disk
+D5W - Dextrose 5% in Water
+DB- Direct Bilirubin
+DBP - Diastolic Blood Pressure
+DC - Discharge; Discontinue; Doctor of Chiropractics
+D&C - Dilatation and Currettage
+DCIS - Ductal Carcinoma In Situ
+DDX - Differential Diagnosis
+DF - Dorsiflexion
+DFA - Direct Fluorescent Antibody
+DFE - Dilated Fundus Examination
+DI - Diabetes Insipidus; Detrusor Instability
+DIC - Disseminated Intravascular Coagulopathy
+DIF - Differential
+DIP - Distal Inter-Phalangeal
+DJD - Degenerative Joint Disease
+DKA - Diabetic Ketoacidosis
+DM - Diabetes Mellitus
+DNI - Do Not Intubate
+DNR - Do Not Resusitate
+DO - Doctor of Osteopathy
+D/O - Disorder
+DOT - Directly Observed Therapy
+DOU - Direct Observation Unit
+DP - Dorsalis Pedis
+DPL - Diagnostic Peritoneal Lavage
+DPOA - Durable Power Of Attorney
+DR - Diabetic Retinopathy
+DRE - Digital Rectal Exam
+D/T - Due To
+DTs - Delirium Tremens
+DTR - Deep Tendon Reflex
+DVT - Deep Venous Thrombosis
+DX - Diagnosis
+DU - Duodenal Ulcer
+
+EBL - Estimated Blood Loss
+EBM - Evidence Based Medicine
+EBRT - External Beam Radiation Therapy
+EBV - Epstein Barr Virus
+ECG - Electrocardiogram (also known as EKG)
+ECHO - Echocardiography
+ECMO - Extra-Corporeal Membrane Oxygenation
+ECT - Electro-Convulsive Therapy
+ED - Erectile Dysfunction
+EEG - Electroencephalogram
+EF - Ejection Fraction (in reference to ventricular function)
+EGD - Esophago-Gastro Duodenoscopy
+EIC - Epidermal Inclusion Cyst
+EJ - External Jugular
+EKG - Electrocardiogram (also known as ECG)
+EM - Electron Microscopy
+EMG - Electromyelogram
+EMS - Emergency Medical System
+EMT - Emergency Medical Technician
+E/O - Evidence Of
+EOMI - Extra Ocular Muscles Intact
+Eos - Eosinophils
+EPO - Erythropoeitin
+EPS - Electro-Physiologic Study
+ER - External Rotation; also Emergency Room
+ERCP - Endoscopic Retrograde Cholangio-Pancreotography
+ES - Epidural Steroids
+ESI - Epidural Steroid Injection
+ESLD - End Stage Liver Disease
+ESR - Erythrocyte Sedimentation Rate
+ESRD - End Stage Renal Disease
+ESWL - Extracorporeal Shock Wave Lithotripsy
+ETOH - Alcohol
+ETT - Exercise Tolerance Test; also Endotracheal Tube
+EWCL - Extended Wear Contact Lens
+EX LAP - Exploratory Laparotomy
+EX FIX - External Fixation
+EXT - Extremities
+
+FB - Foreign Body
+F/B - Followed By
+FBS - Fasting Blood Sugar
+FE - Iron
+FEM - Femoral
+FENA - Fractional Excretion of Sodium
+FEV1 - Forced Expiratory Volume 1 Second
+FFP - Fresh Frozen Plasma
+Flex Sig - Flexible Sigmoidoscopy
+FLU - Influenza
+FMG - Foreign Medical Graduate
+F&N - Febrile and Neutropenic
+FNA - Fine Needle Aspiration
+FOOSH - Fall On Outstretched Hand
+FOS- Full of Stool; Force Of Stream
+FP - Family Practitioner
+FRC - Functional Residual Capacity
+FSG - Finger Stick Glucose
+FSH - Follicle Stimulating Hormone
+FTT - Failure To Thrive
+F/U - Follow-Up
+FUO - Fever of Unknown Origin
+FX - Fracture
+
+G - Guiac (followed by + or -)
+GA - General Anesthesia
+GAD - Generalized Anxiety Disorder
+GAS - Group A Strep; Guaiac All Stools
+GB - Gall Bladder; also Guillain Barre
+GBM - Glioblastoma Multiforme
+GBS- Group B Strep
+GC - Gonorrhea
+GCS - Glascow Coma Scale
+GCSF - Granulocyte Colony Stimulating Factor
+GERD - Gastroesophageal Reflux
+GERI- Geriatrics
+GET - General Endotracheal
+GI - Gastrointestinal
+GIB - Gastrointestinal Bleeding
+GLC - Glaucoma
+GMR - Gallups, Murmurs, Rubs
+GN - Glomerulonephritis
+GNR - Gram Negative Rod
+GOO - Gastric Outlet Obstruction
+GP - General Practitioner
+G#P# - Gravida # Para #
+GP 2b/3a - Glycoprotein 2b/3a Inhibitor
+GPC - Gram Positive Coccus
+GS - Gram Stain
+GSW - Gun Shot Wound
+GTT - Glucose Tolerance Test
+G-Tube - Gastric Feeding Tube
+GU - Genito-Urinary; also Gastric Ulcer
+GVHD - Graft Versus Host Disease
+
+H FLU - Haemophilus Influenza
+HA - Headache
+HAART - Highly Active Anti-Retroviral Therapy
+HACE - High Altitude Cerebral Edema
+HAPE - High Altitude Pulmonary Edema
+H2 - Histamine 2
+HCC - Hepatocellular Carcinoma
+HCG - Human Chorionic Gonadotropin
+HCL - Hard Contact Lens
+HCM - Health Care Maintenance
+HCT - Hematocrit
+HCV - Hepatitis C Virus
+HD - Hemodialysis
+HDL - High Density Lipoprotein
+HEENT - Head, Ears, Eyes, Nose, Throat
+HELLP - Hemolysis Elevated Liver tests Low Platelets
+HEME/ONC - Hematology/Oncology
+HGB - Hemoglobin
+HH - Hiatal Hernia
+H&H - Hemoglobin and Hematocrit
+HI - Homicidal Ideation
+HIB - Haemophilus Influenza B vaccine
+HIT - Heparin Induced Thrombocytopenia
+HIV - Human Immunodeficiency Virus
+HL - Heparin Lock
+HOB - Head Of Bed
+HOCM - Hypertrophic Obstructive Cardiomyopathy
+HOH - Hard Of Hearing
+HONK - Hyperosmolar Non-Ketotic State
+HPI - History of Present Illness
+HPV - Human Papilloma Virus
+HR - Heart Rate
+HRT - Hormone Replacement Therapy
+HS - At Bedtime
+HSM - Holo-Systolic Murmur; also Hepato-Splenomegaly
+HSP - Henoch Shonlein Purpura
+HSV - Herpes Simplex Virus
+HTN - Hypertension
+HU - Holding Unit
+HUS - Hemolytic Uremic Syndrome
+HX - History
+
+I+ - With Ionic Contrast (in reference to a CAT Scan)
+I- - Without Ionic Contrast (in reference to a CAT Scan)
+IA - Intra-Articular
+IABP - Intra-Aortic Balloon Pump
+IBD - Inflammatory Bowel Disease
+IBS - Irritable Bowel Syndrome
+IBW - Ideal Body Weight
+ICD - Implantable Cardiac Defibrillator
+ICH - Intra-Cranial Hemorrhage
+ICP - Intra-Cranial Pressure
+ID - Infectious Diseases
+I&D - Incise and Drain
+IDDM - Insulin Dependent Diabetes Mellitus
+IFN - Interferon
+IH - Inguinal Hernia (usually preceded by L or R)
+IJ - Internal Jugular
+IL- Interleukin; Indirect Laryngoscopy
+ILD - Interstitial Lung Disease
+IM - Intramuscular also Intramedullary
+IMI - Inferior Myocardial Infarction
+IMP - Impression
+INR - International Normalized Ratio
+I&O - Ins and Outs
+IOL - Intra-Ocular Lens
+IOP - Intra-Ocular Pressure
+IP - Inter-Phalangeal
+IPF - Idiopathic Pulmonary Fibrosis
+IR - Interventional Radiology; Internal Rotation
+IRB - Indications Risks Benefits; Institutional Review Board
+IT - Intrathecal; Information Technology
+ITP - Idiopathic Thrombocytopenia
+IUD - Intrauterine Device
+IUP - Intrauterine Pregnancy
+IV - Intravenous
+IVC - Inferior Vena Cava
+IVDU - Intravenous Drug Use
+IVF - Intravenous Fluids; also In Vitro Fertilization
+IVP - Intravenous Pyelogram
+
+JP - Jackson Pratt
+J-Tube - Jejunal Feeding Tube
+JVD - Jugular Venous Distention
+JVP - Jugular Venous Pressure
+
+K - Potassium
+KCAL - Kilocalories
+KUB - Kidneys Ureters and Bladder
+KVO - Keep Vein Open
+
+L - Left
+LA - Left Atrium
+LAC - Laceration
+LAD - Left Anterior Descending (coronary artery); Left Axis Deviation
+LAP - Laproscopic; also Laparotomy
+LAR - Low Anterior Resection
+LBBB - Left Bundle Branch Block
+LBO - Large Bowel Obstruction
+LBP - Low Back Pain
+LCL - Lateral Collateral Ligament
+LCX - Left Circumflex (coronary artery)
+L&D - Labor and Delivery
+LDH - Lactate Dehydrogenase
+LDL - Low Density Lipoprotein
+LE - Lower Extremity (usually preceded by R or L); Leukocyte Esterase
+LENIS - Lower Extremity Non-Invasive Study
+LFT - Liver Function Test
+LH - Leutinizing Hormone; Left Handed; Light Headed
+LHC - Left Heart Cath
+LHRH - Leutinizing Hormone Releasing Hormone
+LIMA - Left Internal Mammary Artery
+LLE- Left Lower Extremity
+LLL - Left Lower Lobe; Left Lower Lid
+LLQ - Left Lower Quadrant
+LM - Left Main Coronary Artery
+LMA - Laryngeal Mask Airway
+LMD - Local Medical Doctor
+LMN - Lower Motor Neuron
+LMP - Last Menstrual Period
+LN - Lymph Node also Liquid Nitrogen
+LND - Lymph Node Dissection
+LOA - Lysis Of Adhesions
+LOC - Loss Of Consciousness
+LP - Lumbar Puncture
+LPN - Licensed Practical Nurse
+LR - Lactated Ringers
+LS - Lumbro-Sacral
+LT - Light Touch
+LUE - Left Upper Extremity
+LUL - Left Upper Lobe; also Left Upper Lid
+LUTS - Lower Urinary Tract Symptoms
+LUQ - Left Upper Quadrant
+LV FXN - Left Ventricular Function
+LVAD - Left Ventricular Assist Device
+LVEDP - Left Ventricular End Diastolic Pressure
+LVH - Left Ventricular Hypertrophy
+LVN - Licensed Vocational Nurse
+LMWH - Low Molecular Weight Heparin
+LYTES- Electrolytes
+
+MAC - Monitored Anesthesia Care
+MCL - Medial Collateral Ligament
+MCP - Metacarpal-Phalangeal
+MCV - Mean Corpuscular Volume
+MDRTB - Multi-Drug Resistant Tuberculosis
+MEDS - Medicines
+MFM - Maternal-Fetal Medicine
+MI - Myocardial Infarction
+MICU - Medical Intensive Care Unit
+MIDCAB - Minimally Invasive Direct Coronary Artery Bypass
+MM - Multiple Myeloma
+M&M - Morbidity and Mortality
+MMP - Multiple Medical Problems
+MMR - Measles, Mumps and Rubella vaccine
+MOM - Milk Of Magnesia
+MR - Mitral Regurgitation
+MRCP - Magnetic Resonance Cholangio Pancreatography
+MRI - Magnetic Resonance Imaging
+MRSA - Methicillin Resistant Staph Aureus
+MS - Mental Status; also Mitral Stenosis, Multiple Sclerosis and Morphine Sulfate
+MSSA - Methicillin Sensitive Staph Aureus
+MTP - Metatarsal-Phalangeal
+MVP - Mitral Valve Prolapse
+MVR - Mitral Valve Replacement
+
+N - Nausea
+NA - Not Available; also Sodium
+NAD - No Apparent Distress; No Acute Disease
+NABS - Normal Active Bowel Sounds
+NCAT - Normocephalic Atraumatic
+NCS - Nerve Conduction Study
+NEB - Nebulizer
+NGT - Naso-Gastric Tube
+NGU - Non-Gonococcal Urethritis
+NH - Nursing Home
+NHL - Non-Hodgkin's Lymphoma
+NICU - Neonatal Intensive Care Unit
+NIDDM - Non-Insulin Dependent Diabetes Mellitus
+NIF - Negative Inspiratory Force
+NKDA - No Known Drug Allergies
+NMS - Neuroleptic Malignant Syndrome
+NOS - Not Otherwise Specified
+NP - Nurse Practitioner
+NPO - Nothing By Mouth
+NS - Normal Saline
+NSBGP - Non-Specific Bowel Gas Pattern
+NSCLCA - Non-Small Cell Lung Cancer
+NSR - Normal Sinus Rhythm
+NT - Non-Tender
+NTD - Nothing To Do
+NUCS - Nuclear Medicine
+NYHA - New York Heart Association
+
+OA - Osteoarthritis
+OB - Occult Blood (followed by '+' or '-')
+OCD - Obsessive Compulsive Disorder
+OCP - Oral Contraceptive Pill
+OD - Right Eye
+OE - Otitis Externa
+OLT - Orthotopic Liver Transplant
+OM - Otitis Media
+ON - Optic Nerve; Over Night
+OOB - Out Of Bed
+OP - Opening Pressure
+O/P - Oropharynx
+O&P - Ovum and Parasites
+ORIF - Open Reduction with Internal Fixation
+ORL - Oto-Rhino Laryngology
+OS - Left Eye
+OSA - Obstructive Sleep Apnea
+OT - Occupational Therapy
+OTC - Over The Counter
+OTD - Out The Door
+OU - Both Eyes
+O/W - Otherwise
+
+P - Pulse
+P - Pending
+P - After
+PA - Posterior-Anterior; also Physician's Assistant
+PACU - Post Anesthesia Care Unit
+PAD - Peripheral Arterial Disease
+PALS - Pediatric Advanced Life Support
+PBC - Primary Billiary Cirrhosis
+PC - After Meals
+PCA - Patient Controlled Analgesia
+PCI - Percutaneous Coronary Intervention
+PCKD - Polycystic Kidney Disease
+PCL - Posterior Cruciate Ligament
+PCM - Pacemaker
+PCOD - Poly-Cystic Ovarian Disease
+PCP - Primary Care Physician; also Pneumocystis Pneumonia
+PCR - Polymerase Chain Reaction
+PCWP - Pulmonary Capillary Wedge Pressure
+PD - Parkinson's Disease; also Personality Disorder and Peritoneal Dialysis
+PDA - Patent Ductus Arteriosus
+PE - Physical Exam; also Pulmonary Embolism
+PEG - Percutaneous Endoscopic Gastrostomy
+PERRL - Pupils Equal, Round, Reactive to Light
+PET - Positron Emission Tomography
+PF - Peak Flow; also Plantar Flexion
+PFO - Patent Foramen Ovale
+PFTs - Pulmonary Function Tests
+PH - Pin Hole
+PICC - Peripherally Inserted Central Catheter
+PICU - Pediatric Intensive Care Unit
+PID - Pelvic Inflammatory Disease
+PIH - Pregnancy Induced Hypertension
+PIP - Proximal Inter-Phalangeal
+PLT - Platelets
+PMD - Primary Medical Doctor
+PMH - Past Medical History
+PMI - Point of Maximum Impulse
+PMN - Polymorphonuclear Leukocytes
+PMRS - Physical Medicine and Rehabilitation Service
+PN - Progress Note
+PNA - Pneumonia
+PNBX - Prostate Needle Biopsy
+PND - Paroxysmal Nocturnal Dyspnea also Post Nasal Drip
+PNS - Peripheral Nervous System
+PO - By Mouth
+POP - Popliteal
+PP - Pin Prick
+PPD - Purified Protein Derivative
+PPH - Primary Pulmonary Hypertension
+PPI - Proton Pump Inhibitor
+PPN - Peripheral Parenteral Nutrition
+PPTL- Post Partum Tubal Ligation
+PR - Per Rectum
+PRBCs - Packed Red Blood Cells
+PRN - Refers to treatments which patient can receive on an "as needed" basis
+PSA - Prostate Specific Antigen
+PSC - Primary Sclerosing Cholangitis
+PSH - Past Surgical History
+PT - Physical Therapy; Posterior Tibial; Prothrombin Time; Patient
+PTA - Prior To Admission; Peritonsilar Abscess
+PTCA - Percutaneous Transluminal Coronary Angioplasty
+P-Thal - Persantine Thallium
+PTSD - Post-Traumatic Stress Disorder
+PTT - Partial Thromboplastin Time
+PTX - Pneumothorax
+PUD - Peptic Ulcer Disease
+PV - Polycythemia Vera; Portal Vein
+P VAX - Pneumococcal Vaccination
+PVC - Premature Ventricular Contraction
+PVD - Peripheral Vascular Disease; Posterior Vitreous Detachment
+PVR - Post Void Residual
+
+Q - Every (refers to a time interval...eg. if followed by 6, means "Every 6 Hours"; if followed by AM, D, W, or M =s "Every Morning Day, Week, or Month" respectively)
+QHS - Every Night
+QID - Four times per day
+QNS - Quantity Not Sufficient
+QOD - Every Other Day
+
+R - Right
+RA - Right Atrium
+RAD - Right Axis Deviation; also Reactive Airways Disease
+R/B - Referred By; Relieved By
+RBBB - Right Bundle Branch Block
+RBC - Red Blood Cell
+RCA - Right Coronary Artery
+RCC - Renal Cell Cancer
+RCT - Randomized Controlled Trial; Rotator Cuff Tear
+RD - Retinal Detachment; also Registered Dietician
+RDI - Respiratory Disturbance Index
+RF - Rheumatoid Factor; also Risk Factor
+RFA - Radio Frequency Ablation; Right Femoral Artery
+RHC - Right Heart Cath
+RHD - Rheumatic Heart Disease
+Rheum - Rheumatology
+R/I - Rule In
+RIG - Rabies Immunoglobulin
+RIMA - Right Internal Mammary Artery
+RLE - Right Lower Extremity
+RLL - Right Lower Lobe; also Right Lower Lid
+RLQ - Right Lower Quadrant
+RML - Right Middle Lobe
+RNEF - Radionuclide Ejection Fraction
+R/O - Rule Out
+ROM - Range Of Motion
+ROMI - Rule Out Myocardial Infarction
+ROS - Review Of Systems
+RPGN - Rapidly Progressive Glomerulonephritis
+RPLND - Retroperitoneal Lymph Node Dissection
+RPR - Rapid Plasma Reagin
+RR - Respiratory Rate
+RRP - Radical Retropubic Prostatectomy
+RRR - Regular Rate and Rhythm
+RSD - Reflex Sympathetic Dystrophy
+RSV - Respiratory Syncytial Virus
+RT - Respiratory Therapy
+RTC - Return To Clinic
+RUE - Right Upper Extremity
+RUG - Retrograde Urethrogram
+RUL - Right Upper Lobe; Right Upper Lid
+RUQ - Right Upper Quadrant
+RV - Right Ventricle; Residual Volume
+RVAD - Right Ventricular Assist Device
+RVG - Right Ventriculogram
+RVR- Rapid Ventricular Response
+RX - Treatment
+
+S - Without
+2/2 - Secondary To
+SA - Sino-Atrial; Staph Aureus
+SAAG - Serum Ascites Albumin Gradient
+SAB - Spontaneous Abortion
+SAH - Sub-Arachnoid Hemorrhage
+SBE - Subacute Bacterial Endocarditis
+SBO - Small Bowel Obstruction
+SBP - Spontaneous Bacterial Peritonitis; Systolic Blood Pressure
+SC - Subcutaneous
+SCCA - Squamous Cell Cancer
+SCL - Soft Contact Lens
+SCLCA - Small Cell Lung Cancer
+SEM - Systolic Ejection Murmur (with reference to cardiac exam)
+SFA - Superficial Femoral Artery
+SFV - Superficial Femoral Vein
+SI - Suicidal Ideation
+SIADH - Syndrome of Inappropriate Anti-Diuretic Hormone secretion
+SICU - Surgical Intensive Care Unit
+SIDS - Sudden Infant Death Syndrome
+SIRS - Systemic Inflammatory Response Syndrome
+SK - Seborrheic Keratosis; also Streptokinase
+SL - Sublingual
+SLE - Systemic Lupus Erythematosus; also Slit Lamp Exam
+SLR - Straight Leg Raise
+SNF - Skilled Nursing Facility
+S/P - Status Post; also Supra Pubic
+SPEP - Serum Protein Electro-Pheresis
+SPF - Sun Protection Formula
+SQ - Subcutaneous
+SSI - Sliding Scale Insulin
+SSRI - Selective Serotonin Reuptake Inhibitor
+STAT - Immediately
+STD - Sexually Transmitted Disease
+STS - Soft Tissue Swelling
+STX - Stricture
+SVC - Superior Vena Cava
+SVG - Saphenous Vein Graft
+SW - Social Work; Stab Wound
+SX - Symptoms
+SZR - Seizure
+
+T - Temperature
+T&A - Tonsillectomy and Adenoidectomy
+TAA - Thoracic Aortic Aneurysm
+TAB - Threatened Abortion; also Therapeutic Abortion
+TAH - Total Abdominal Hysterectomy
+TB - Tuberculosis; Total Bilirubin
+T&C - Type and Cross
+TCA - Tricyclic Antidepressant
+TC - Current Temperature
+TCC - Transitional Cell Cancer
+TD - Tetanus and Diptheria Vaccination; Tardive Dyskinesia
+TDWBAT - Touch Down Weight Bearing As Tolerated
+TEE Trans-Esophageal Echocardiogram
+TFs - Tube Feeds
+TG - Triglycerides
+THA - Total Hip Arthroplasty
+THR - Total Hip Replacement
+TIA - Transient Ischemic Attack
+TIBC - Total Iron Binding Capacity
+TID - Three times per day
+TIPS - Transvenous Intrahepatic Porto-Systemic Shunt
+TKA - Total Knee Arthroplasty
+TKR - Total Knee Replacement
+TLC - Triple Lumen Catheter; Total Lung Capacity
+TM - Tympanic Membrane; Maximum Temperature
+TMJ - Temporo-Mandibular Joint
+TMN - Tumor Metastases Nodes (universal tumor staging system)
+TNF - Tumor Necrosis Factor
+TOA - Tubo-Ovarian Abscess
+TOX - Toxicology
+TOXO - Toxoplasmosis
+TP - Total Protein
+TPA - Tissue Plasminogen Activator
+TPN - Total Parenteral Nutrition
+TR - Tricuspid Regurgitation
+TRUS - Transrectal Ultrasound
+T&S - Type and Screen
+TSH - Thyroid Stimulating Hormone
+TTE - Trans-Thoracic Echocardiogram
+TTP - Tender To Palpation; Thrombotic Thrombocytopenic Purpura
+TURBT - Transurethral Resection Bladder Tumor
+TURP - Transurethral Prostatectomy
+TV - Tidal Volume
+TVC - True Vocal Cord
+TX - Transfusion; Treatment
+
+UA - Urine Analysis; also Uric Acid
+UC - Ulcerative Colitis
+UCC - Urgent Care Center
+UCX - Urine Culture
+UDS - Urodynamic Study
+UE - Upper Extremity (usually preceded by R or L)
+UF - Ultra Filtration
+UFH - Unfractionated Heparin
+UMBO - Umbillical
+UMN - Upper Motor Neuron
+UNSA - Unstable Angina
+UO - Urine Output
+UPEP - Urine Protein Electro-Pheresis
+UPPP - Uvulopalatopharyngeoplasty
+URI - Upper Respiratory tract Infection
+US - Ultrasound
+UTD - Up To Date
+UTI - Urinary Tract Infection
+UV - Ultraviolet
+
+V - Vomiting
+VA - Visual Acuity
+VATS - Video Assisted Thoracoscopic Surgery
+VAX - Vaccine
+VBAC - Vaginal Birth After Cesearean Section
+VBG - Venous Blood Gas
+VC - Vital Capacity; Vocal Cord
+VCUG - Voiding Cysto-Urethrogram
+VF - Ventricular Fibrillation
+VIP - Vasoactive Intestinal Peptide
+VP - Ventriculo-Peritoneal
+V&P - Vagotomy and Pyloroplasty
+VS - Vital Signs
+VSD - Ventricular Septal Defect
+VSS - Vital Signs Stable
+VT - Ventricular Tachycardia
+VWF - Von Willebrand Factor
+WBAT - Weight Bearing As Tolerated
+WBC - White Blood Cells
+WDWN - Well Developed, Well Nourished
+WNL - Within Normal Limits
+W/O - Without
+W/U - Work-Up
+
+X - Except
+XLR - Crossed Leg Raise
+XRT - Radiation Therapy
+
+ZE - Zollinger Ellison

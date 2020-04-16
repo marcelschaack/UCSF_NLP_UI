@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}cTAKES output{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<div><a class="action" href="{{ url_for('note.txt_files', conc=concept_chosen, filename=filename) }}">Go back</a></div>
+    <article class="sentence">
+      <header>
+        <div>
+            <h1>{{ 'Information in clincial notes:' }}</h1>
+            {% for m in concepts_display %}
+                <div>
+                {% for n in m.sentence -%}
+                    {% if n|lower in m.concept_name and m.concept_name|length > 1 %}
+                    <font color="red"><b>{{n}}</b></font>
+                    {% elif n|lower == m.concept_name %}
+                    <font color="red"><b>{{n}}</b></font>
+                    {% elif n|lower in m.highlight_broken and m.highlight_broken|length > 1 %}
+                    <font color="red">{{n}}</font>
+                    {% elif n|lower == m.highlight_broken %}
+                    <font color="red">{{n}}</font>
+                    {% else %}
+                    {{n}}
+                    {% endif %}
+                    {%- endfor %}
+                    <div/>
+                    {% for i in range(m.highlight| length) %}
+                    <a class="action" href="{{ url_for('note.display_concept', beginning=m.highlight_beginning[i],
+                    concept_chosen=concept_chosen, filename=filename,
+                    i_txt_file=i_txt_file) }}">View concept {{i+1}} ({{m.highlight[i]}}, {{m.other_concepts[i]}})</a>
+                    {% endfor %}
+            {% endfor %}
+
+        <div/>
+      </header>
+    </article>
+
+{% endblock %}

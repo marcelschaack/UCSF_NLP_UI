@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}{{concept}}{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<div><a class="action" href="{{ url_for('note.sentence', i_txt_file=i_txt_file, filename=filename, conc=concept_chosen) }}">Go back</a></div><br>
+
+        <table style="width:80%">
+          <tr>
+            <td>Range Text: {{range_txt}} &#9; </td>
+            <td>BLEU-score: {{blue}}</td>
+          </tr>
+          <tr>
+            <td>Concept: {{concept}} &#9; </td>
+            <td>Levenstein Similarity: {{levenstein}}</td>
+          </tr>
+          <tr>
+            <td>Location: {{location}} &#9; </td>
+            <td>Jaccard Similarity: {{jaccard}}</td>
+          </tr>
+          <tr>
+            <td>Negation: {{negated}} &#9; </td>
+            <td>Cosine Similarity: {{cosine}}</td>
+          </tr>
+          <tr>
+            <td>History of: {{hof}} &#9; </td>
+            <td>ELMo: None</td>
+          </tr>
+          <tr>
+            <td><a class="action" href="{{url}}" target="_blank">ULMS concept website</a> &#9; </td>
+            <td><b>Confidence Score: {{confidence}}</b></td>
+          </tr>
+        </table>
+
+
+      <p>
+
+</p>
+
+ <form method="post">
+    <label for="correct">Is the concept correct?</label>
+     <div class="radio">
+      <label><input type="radio" name="correct" id="correct" value="True"> &#9;Yes </input></label><br>
+      <label><input type="radio" name="correct" id="correct" value="False"> &#9;No </input></label><br>
+      <b>Is the location correct?</b><br>
+      <label><input type="radio" name="location" id="location" value="True"> &#9;Yes </input></label><br>
+      <label><input type="radio" name="location" id="location" value="False"> &#9;No </input></label><br>
+      <label><input type="radio" name="location" id="location" value="None"> &#9;n/a </input></label><br>
+       <b>Is the history of correct?</b><br>
+      <label><input type="radio" name="hof" id="hof" value="True"> &#9;Yes </input></label><br>
+      <label><input type="radio" name="hof" id="hof" value="False"> &#9;No </input></label><br>
+      <label><input type="radio" name="hof" id="hof" value="None"> &#9;n/a </input></label><br>
+      <b>Is the negation correct?</b><br>
+      <label><input type="radio" name="negation" id="negation" value="True"> &#9;Yes </input></label><br>
+      <label><input type="radio" name="negation" id="negation" value="False"> &#9;No </input></label><br>
+      <label><input type="radio" name="negation" id="negation" value="None"> &#9;n/a </input></label><br>
+    <input type="submit" value="Save Feedback">
+    </dib>
+  </form>
+{% endblock %}

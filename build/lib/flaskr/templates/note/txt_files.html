@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+{% block header %}
+  <h1>{% block title %}Concept sentences{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+    <article class="sentence">
+        <div><a class="action" href="{{ url_for('note.open_file', filename=filename) }}">Go back</a></div>
+      <header>
+        <div>
+          <ol>
+              {%for n in txt%}
+
+                <li>{{n}}</li>
+              <a class="action" href="{{ url_for('note.sentence', i_txt_file=n, conc=conc, filename=filename) }}">View corresponding sentence</a>
+              {%endfor%}
+          </ol>
+        </div>
+      </header>
+    </article>
+
+{% endblock %}

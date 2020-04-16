@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Welcome to the UCSF Apache cTAKES Feedback UI{% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<!doctype html>
+    <title>Upload new File</title>
+    <h1>Please upload your cTAKES output .csv file and all related .txt files (as zip)</h1>
+    <form method=post enctype=multipart/form-data>
+      csv file: <input type=file name=file>
+      txt file (as zip): <input type=file name=txt>
+      <input type=submit value=Upload <a class="action"}}"</a>
+    </form>
+
+{% endblock %}

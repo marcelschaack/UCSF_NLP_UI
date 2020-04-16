@@ -1,0 +1,43 @@
+<script src="http://www.w3schools.com/lib/w3data.js"></script>
+
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}cTAKES output{% endblock %}</h1>
+{% endblock %}
+
+
+
+{% block content %}
+<div><a class="action" href="{{ url_for('note.index') }}">Go back</a></div>
+    <article class="concepts">
+      <header>
+        <div>
+          <h1>{{ 'Overview of concepts found in clincial notes' }}</h1>
+          Mean confidence score: {{mean}}
+          <div><a class="action" href="/static/plot.html">View distribution</a></div>
+        </div>
+      </header>
+        <head>
+            <style>
+            table {
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 100%;
+            }
+
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 8px;
+            }
+
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            </style>
+            {{ table }}
+            </head>
+    </article>
+
+{% endblock %}

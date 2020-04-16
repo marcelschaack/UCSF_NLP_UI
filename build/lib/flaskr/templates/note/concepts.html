@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}cTAKES output{% endblock %}</h1>
+{% endblock %}
+
+
+
+{% block content %}
+    <article class="concepts">
+      <header>
+        <div>
+          <h1>{{ 'Concepts found in clincial notes' }}</h1>
+        </div>
+      </header>
+        <head>
+            <style>
+            table {
+              font-family: arial, sans-serif;
+              border-collapse: collapse;
+              width: 100%;
+            }
+
+            td, th {
+              border: 1px solid #dddddd;
+              text-align: left;
+              padding: 8px;
+            }
+
+            tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+            </style>
+                <div><a class="action" href="{{ url_for('note.index') }}">Go back</a></div>
+            {{ table }}
+            </head>
+    </article>
+
+{% endblock %}

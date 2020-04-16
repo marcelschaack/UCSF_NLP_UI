@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block header %}
+  <h1>{% block title %}Concept 1 (common cold){% endblock %}</h1>
+{% endblock %}
+
+{% block content %}
+<div><a class="action" href="{{ url_for('note.sentence', i_txt_file=i_txt_file, filename=filename, conc=concept_chosen) }}">Go back</a></div><br>
+  <form method="post">
+    <div class="about">
+      Range Text: {{range_txt}}<br>
+      Concept: {{concept}}<br>
+      Location: {{location}}<br>
+      Negation: {{negated}}<br>
+      History of: {{hof}}<br>
+      Cosine similarity: {{cosine}}<br>
+      Jaccard Distance: {{jaccard}}<br>
+      <p>
+
+</p>
+    </div>
+    <label for="correct">Is the concept correct?</label>
+     <div class="radio text-left">
+      <input type="radio" name="correct" id="correct" value="True"> Yes </input><br>
+      <input type="radio" name="correct" id="correct" value="False"> No </input><br>
+      <label for="correct">Is the location correct?</label><br>
+      <input type="radio" name="location" id="location" value="True">Yes</input><br>
+      <input type="radio" name="location" id="location" value="False">No</input><br>
+       <label for="correct">Is the history of correct?</label><br>
+      <input type="radio" name="hof" id="hof" value="True">Yes</input><br>
+      <input type="radio" name="hof" id="hof" value="False">No</input><br>
+      <label for="correct">Is the negation correct?</label><br>
+      <input type="radio" name="negation" id="negation" value="True">Yes</input><br>
+      <input type="radio" name="negation" id="negation" value="False">No</input><br>
+    <input type="submit" value="Save Feedback">
+     </div>
+  </form>
+{% endblock %}

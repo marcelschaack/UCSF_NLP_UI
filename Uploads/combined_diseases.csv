@@ -1,0 +1,140 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-13,clinical-13.txt,cTAKES input\,Terminal illness,f,C0679247,f,na,Liver,10200004,f,200,177,end stage liver disease,300936002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,225,214,hepatitis C,50711007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,235,226,cirrhosis,19943007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Encephalopathies,f,C0085584,f,na,null,null,f,481,467,encephalopathy,81308009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hepatorenal Syndrome,f,C0019212,f,na,null,null,f,918,898,hepatorenal syndrome,51292008,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,958,947,Hepatitis C,50711007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,968,959,cirrhosis,19943007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1041,1029,Hypertension,38341003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Kidney Calculi,f,C0022650,f,na,null,null,f,1062,1047,Nephrolithiasis,95570007,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Hemorrhoids,f,C0019112,f,na,null,null,f,1079,1068,Hemorrhoids,70153002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Staphylococcal Infections,f,C0038160,f,na,null,null,f,2529,2524,Staph,56038003,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Bacteremia,f,C0004610,f,na,null,null,f,2540,2530,bacteremia,5758002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Primary bacterial peritonitis,f,C0275551,f,na,null,null,t,2794,2761,spontaneous bacterial peritonitis,11836002,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Surgical wound,f,C0332803,f,na,null,null,f,4924,4907,surgical incision,112633009,SNOMEDCT_US,na
+clinical-13,clinical-13.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,t,5001,4992,infection,40733004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Blood Coagulation Disorders,f,C0005779,f,na,null,null,t,1432,1402,bleeding or clotting disorders,362970003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,1511,1500,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hay fever,f,C0018621,f,na,null,null,f,1532,1514,Seasonal allergies,444316004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1652,1649,HTN,38341003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,1668,1664,COPD,13645005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Myelofibrosis,f,C0026987,f,na,null,null,f,1834,1831,MMM,52967002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Lymphoma, Mixed-Cell, Follicular",f,C0079758,f,na,null,null,f,1948,1945,Nml,277624003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,Leg,30021000,f,1992,1989,EXT,254044004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,null,null,t,2052,2048,cord,28835009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Intracranial Hemorrhages,f,C0151699,f,na,Intracranial,303231004,t,2250,2227,intracranial hemorrhage,1386000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Fracture,f,C0016658,f,na,Intracranial,303231004,t,2263,2254,fractures,72704001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Ventricular Septal Defects,f,C0018818,f,na,Heart Ventricle,21814001,t,2565,2540,ventricular septal defect,30288003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Aortic Valve Insufficiency,f,C0003504,f,na,Aorta,261051005,t,2790,2770,aortic regurgitation,60234000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Mitral Valve Prolapse Syndrome,f,C0026267,f,na,Mitral Valve,91134007,t,2878,2857,mitral valve prolapse,409712001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Systolic hypertension,f,C0221155,f,na,Pulmonary artery structure,45341000,f,2937,2916,systolic hypertension,56218007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,t,2972,2952,pericardial effusion,373945007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Lung,39607008,f,3099,3087,hypertension,38341003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Lower Extremity,61685007,t,3152,3149,DVT,128053003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Sinus Tachycardia,f,C0039239,f,na,Nasal sinus,55111001,f,3243,3233,Sinus Tach,11092001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,3278,3268,Depression,2.1061E+13,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Bucket Handle Tears,f,C0443166,f,na,null,null,f,3380,3346,Bucket handle medial meniscal tear,263697003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,3444,3440,tear,35933005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,null,null,f,3468,3459,posterior,72442006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hydrarthrosis,f,C1253936,f,na,Joints,39352004,f,3519,3505,joint effusion,387637008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Cyst,f,C0010709,f,na,null,null,f,3547,3543,cyst,441457006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Milroy Disease,f,C1704423,f,na,null,null,f,3575,3572,PCL,399889006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Discoid lateral meniscus,f,C0409305,f,na,Lateral meniscus structure,10013000,f,3605,3581,Discoid lateral meniscus,202099003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Leriche Syndrome,f,C0023370,f,na,Structure of left knee,82169009,f,3745,3721,saddle pulmonary embolus,307816004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,3766,3755,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Structure of left lower leg,48979004,f,3871,3868,DVT,128053003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Trauma,f,C3714660,f,na,Leg,30021000,f,3945,3939,trauma,19130008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hemodynamic instability,f,C0948268,f,na,null,null,t,4152,4129,hemodynamic instability,422773005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Thrombophilia,f,C0398623,f,na,null,null,f,4303,4290,thrombophilia,234467004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Muscle strain,f,C0080194,f,na,Right side of heart,79561009,f,4754,4748,strain,48532005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,4944,4931,abnormalities,276654001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,5128,5117,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Traumatic injury,f,C3263723,f,na,null,null,f,5204,5198,injury,19130008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,5239,5235,tear,35933005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5591,5574,Pulmonary embolus,59282003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,Structure of left knee,82169009,f,5615,5611,tear,125671007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5728,5710,pulmonary embolism,59282003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,Knee,304679005,f,6050,6046,tear,125671007,SNOMEDCT_US,na
+clinical-34,clinical-33.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,212,203,pneumonia,233604007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,6132,6128,plan,52713000,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,212,203,pneumonia,233604007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,219,215,COPD,13645005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Asthma,f,C0004096,f,na,null,null,f,228,222,asthma,195967001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Upper Respiratory Infections,f,C0041912,f,na,null,null,f,292,260,upper respiratory like infection,54150009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Asthma,f,C0004096,f,na,null,null,f,800,794,Asthma,195967001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,807,803,COPD,13645005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Restrictive lung disease,f,C0085581,f,na,Lung,39607008,f,867,843,Restrictive lung disease,36485005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",f,C0393819,f,na,null,null,f,922,870,Chronic inflammatory demyelinating polyradiculopathy,128209004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Gastroduodenitis,f,C0267166,f,na,null,null,f,949,925,Gastritis and duodenitis,196731005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Neurogenic Urinary Bladder,f,C0005697,f,na,Urinary Bladder,89837001,f,1026,1008,Neurogenic bladder,398064005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,Coronary artery,41801008,f,1076,1053,Coronary artery disease,414024009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Adrenal gland hypofunction,f,C0001623,f,na,Adrenal Glands,23451007,f,1163,1142,Adrenal insufficiency,386584007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Hypercholesterolemia,f,C0020443,f,na,null,null,f,1186,1166,Hypercholesterolemia,13644009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Mixed anxiety and depressive disorder,f,C0338908,f,na,null,null,f,1211,1189,Depression and anxiety,231504006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Hyperthyroidism,f,C0020550,f,na,null,null,f,1229,1214,Hyperthyroidism,34486009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,IgG Deficiency,f,C0162539,f,na,null,null,f,1246,1232,IgG deficiency,190981001,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Anemia of chronic disease,f,C0002873,f,na,null,null,f,1321,1296,Anemia of chronic disease,234347009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,Lung,39607008,f,2803,2766,chronic obstructive pulmonary disease,13645005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Lung consolidation,f,C0521530,f,na,null,null,f,2841,2828,consolidation,95436008,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Pneumonia,f,C0032285,t,na,null,null,f,2902,2893,pneumonia,233604007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Adrenal gland hypofunction,f,C0001623,f,na,Adrenal Glands,23451007,f,3347,3326,Adrenal insufficiency,237785004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Gastroesophageal reflux disease,f,C0017168,f,na,null,null,f,3734,3728,reflux,235595009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Gastritis,f,C0017152,f,na,null,null,f,3762,3753,gastritis,4556007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Neurogenic Urinary Bladder,f,C0005697,t,na,Urinary Bladder,89837001,f,3819,3801,neurogenic bladder,398064005,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Hyperthyroidism,f,C0020550,f,na,null,null,f,3960,3945,hyperthyroidism,34486009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Persistent embryonic structure,f,C0332996,f,na,null,null,f,4068,4058,persistent,31807009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,"Acidosis, Respiratory",f,C0001127,f,na,null,null,f,4118,4098,respiratory acidosis,12326000,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Adrenal gland hypofunction,f,C0001623,f,na,Adrenal Glands,23451007,f,4745,4724,adrenal insufficiency,386584007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,"Anemia, Megaloblastic",f,C0002888,t,na,Cells,4421005,f,5006,4993,megaloblastic,53165003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Vitamin B12 deficiency anemia,f,C2004521,f,na,Cells,4421005,f,5072,5040,anemia ; question B12 deficiency,49472006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Asthmatic bronchitis,f,C1319018,f,na,null,null,f,5366,5339,Asthma flare and bronchitis,405944004,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Chronic disease,f,C0008679,f,na,Lung,39607008,f,5406,5369,Chronic obstructive pulmonary disease,27624003,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Polyradiculopathy,f,C0032586,f,na,null,null,f,5440,5423,polyradiculopathy,75572007,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Anxiety,f,C0003467,f,na,null,null,f,5450,5443,Anxiety,48694002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Drug Allergy,f,C0013182,f,na,null,null,t,176,158,Allergies to Drugs,416093006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Cell Carcinoma,f,C0007134,f,na,null,null,f,389,386,RCC,702391001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Insufficiency,f,C1565489,f,na,Kidney,64033007,f,563,544,renal insufficiency,236423003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Malignant Neoplasms,f,C0006826,f,na,null,null,f,692,686,Cancer,363346000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Asphyxia by inhalation of food,f,C0417813,f,na,null,null,f,1239,1222,choking with food,217785008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Gastroesophageal reflux disease,f,C0017168,f,na,null,null,f,1273,1267,reflux,235595009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Metastatic Renal Cell Cancer,f,C0278678,f,na,Kidney,64033007,f,2153,2122,Metastatic renal cell carcinoma,702392008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Cell Carcinoma,f,C0007134,f,na,Cells,4421005,f,2318,2298,renal cell carcinoma,41607009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Insufficiency,f,C1565489,f,na,Kidney,64033007,f,2854,2835,renal insufficiency,236423003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hay fever,f,C0018621,f,na,null,null,f,2903,2885,Seasonal allergies,444316004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,null,null,f,3466,3463,EXT,254044004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Familial eosinophilia,f,C0272192,f,na,null,null,f,4884,4881,Eos,191358004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Veins,29092000,t,5253,5231,deep venous thrombosis,128053003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Bilateral pleural effusion,f,C0747635,f,na,null,null,f,5406,5374,bilateral small pleural effusion,425802001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pneumothorax,f,C0032326,f,na,null,null,t,5475,5463,pneumothorax,36118008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,5640,5623,pleural effusions,60046008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,5679,5658,cardiac insufficiency,84114007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,null,null,f,5714,5699,volume overload,21639008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,5851,5841,infectious,191415002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Lung consolidation,f,C0521530,f,na,null,null,f,5865,5852,consolidation,95436008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,6028,6018,infectious,191415002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mycobacterium Infections,f,C0026918,f,na,null,null,f,6144,6120,mycobacterial infections,88415009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Drug toxicity,f,C0013221,f,na,null,null,f,6160,6147,Drug toxicity,7895008,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Persistent embryonic structure,f,C0332996,f,na,null,null,f,6306,6296,persistent,31807009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,6407,6397,infectious,40733004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Left Ventricular Hypertrophy,f,C0149721,f,na,Heart Ventricle,21814001,f,6525,6497,left ventricular hypertrophy,55827005,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,Mitral Valve,91134007,f,6589,6580,posterior,72442006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Mitral Valve Prolapse Syndrome,f,C0026267,f,na,Mitral Valve,91134007,f,6611,6590,mitral valve prolapse,8074002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Left atrial structure,82471001,f,6698,6678,pericardial effusion,373945007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fracture with displacement,f,C0585059,f,na,null,null,t,6919,6901,displaced fracture,123735002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Cell Carcinoma,f,C0007134,f,na,null,null,f,7011,7008,RCC,41607009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,7098,7089,pneumonia,233604007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,7123,7114,pneumonia,233604007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Community acquired pneumonia,f,C0694549,f,na,null,null,f,7178,7150,community-acquired pneumonia,385093006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Neoplasms,f,C0027651,f,na,null,null,f,7330,7322,oncology,108369006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,7469,7459,infectious,40733004,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Cell Carcinoma,f,C0007134,f,na,null,null,f,7663,7660,RCC,41607009,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Acute infectious disease,f,C0275518,f,na,null,null,f,7722,7707,acute infection,63171007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Neoplasms,f,C0027651,f,na,null,null,f,7810,7805,tumor,108369006,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Fracture,f,C0016658,f,na,Femur,421235005,f,8098,8090,fracture,72704001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Renal Insufficiency,f,C1565489,f,na,Kidney,64033007,f,8242,8223,Renal insufficiency,236423003,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Malignant Neoplasms,f,C0006826,f,na,null,null,f,8343,8333,malignancy,363346000,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,9910,9901,Pneumonia,233604007,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,"Kidney Failure, Acute",f,C0022660,f,na,Kidney,64033007,f,9933,9914,Acute renal failure,14669001,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Metastatic Carcinoma,f,C1384494,f,na,Kidney,64033007,f,9968,9937,Metastatic renal cell carcinoma,79282002,SNOMEDCT_US,na
+clinical-43,clinical-43.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,10206,10197,pneumonia,233604007,SNOMEDCT_US,na
