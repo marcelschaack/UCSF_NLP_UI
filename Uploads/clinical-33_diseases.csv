@@ -1,0 +1,44 @@
+note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+clinical-33,clinical-33.txt,cTAKES input\,Blood Coagulation Disorders,f,C0005779,f,na,null,null,t,1432,1402,bleeding or clotting disorders,362970003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,1511,1500,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hay fever,f,C0018621,f,na,null,null,f,1532,1514,Seasonal allergies,444316004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1652,1649,HTN,38341003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,1668,1664,COPD,13645005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Myelofibrosis,f,C0026987,f,na,null,null,f,1834,1831,MMM,52967002,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,"Lymphoma, Mixed-Cell, Follicular",f,C0079758,f,na,null,null,f,1948,1945,Nml,277624003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,Leg,30021000,f,1992,1989,EXT,254044004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,null,null,t,2052,2048,cord,28835009,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Intracranial Hemorrhages,f,C0151699,f,na,Intracranial,303231004,t,2250,2227,intracranial hemorrhage,1386000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Fracture,f,C0016658,f,na,Intracranial,303231004,t,2263,2254,fractures,72704001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Ventricular Septal Defects,f,C0018818,f,na,Heart Ventricle,21814001,t,2565,2540,ventricular septal defect,30288003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Aortic Valve Insufficiency,f,C0003504,f,na,Aorta,261051005,t,2790,2770,aortic regurgitation,60234000,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Mitral Valve Prolapse Syndrome,f,C0026267,f,na,Mitral Valve,91134007,t,2878,2857,mitral valve prolapse,409712001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Systolic hypertension,f,C0221155,f,na,Pulmonary artery structure,45341000,f,2937,2916,systolic hypertension,56218007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,t,2972,2952,pericardial effusion,373945007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Lung,39607008,f,3099,3087,hypertension,38341003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Lower Extremity,61685007,t,3152,3149,DVT,128053003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Sinus Tachycardia,f,C0039239,f,na,Nasal sinus,55111001,f,3243,3233,Sinus Tach,11092001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,3278,3268,Depression,21061000119107,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Bucket Handle Tears,f,C0443166,f,na,null,null,f,3380,3346,Bucket handle medial meniscal tear,263697003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,3444,3440,tear,35933005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,null,null,f,3468,3459,posterior,72442006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hydrarthrosis,f,C1253936,f,na,Joints,39352004,f,3519,3505,joint effusion,387637008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Cyst,f,C0010709,f,na,null,null,f,3547,3543,cyst,441457006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Milroy Disease,f,C1704423,f,na,null,null,f,3575,3572,PCL,399889006,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Discoid lateral meniscus,f,C0409305,f,na,Lateral meniscus structure,10013000,f,3605,3581,Discoid lateral meniscus,202099003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Leriche Syndrome,f,C0023370,f,na,Structure of left knee,82169009,f,3745,3721,saddle pulmonary embolus,307816004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,3766,3755,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Structure of left lower leg,48979004,f,3871,3868,DVT,128053003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Trauma,f,C3714660,f,na,Leg,30021000,f,3945,3939,trauma,19130008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hemodynamic instability,f,C0948268,f,na,null,null,t,4152,4129,hemodynamic instability,422773005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Thrombophilia,f,C0398623,f,na,null,null,f,4303,4290,thrombophilia,234467004,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Muscle strain,f,C0080194,f,na,Right side of heart,79561009,f,4754,4748,strain,48532005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,4944,4931,abnormalities,276654001,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,5128,5117,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Traumatic injury,f,C3263723,f,na,null,null,f,5204,5198,injury,19130008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,5239,5235,tear,35933005,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5591,5574,Pulmonary embolus,59282003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,Structure of left knee,82169009,f,5615,5611,tear,125671007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5728,5710,pulmonary embolism,59282003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,Knee,304679005,f,6050,6046,tear,125671007,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,6132,6128,plan,52713000,SNOMEDCT_US,na

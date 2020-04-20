@@ -14,7 +14,7 @@
             <div> <b></b>Found in {{m.txt_file}}:</b></div><br>
                 <div>
                 {% for n in m.sentence -%}
-                    {% if n|lower in m.concept_chosen|lower and m.concept_name|length > 1 %}
+                    {% if n|lower in m.concept_name|lower and m.concept_name|length > 1 %}
                     <font color="red"><b>{{n}}</b></font>
                     {% elif n|lower == m.concept_name|lower %}
                     <font color="red"><b>{{n}}</b></font>
@@ -27,7 +27,7 @@
                     {% endif %}
                     {%- endfor %}
                     <div/>
-                    {% for i in range(m.highlight| length) %}
+                    {% for i in range(m.highlight|length) %}
                     <a class="action" href="{{ url_for('note.display_concept', beginning=m.highlight_beginning[i],
                     concept_chosen=concept_chosen, filename=filename,
                     i_txt_file=m.txt_file) }}">View concept {{i+1}} ({{m.highlight[i]}}, {{m.other_concepts[i]}})</a>

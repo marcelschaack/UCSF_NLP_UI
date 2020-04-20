@@ -1,4 +1,62 @@
 note_id,file_name,folder_path,canon_text,conditional,cui,hof,imputed_time,location,location_snomed_id,negated,offset_end,offset_start,range_text,vocab_term,vocab,value
+932057504_DH,932057504_DH.txt,cTAKES input\,"Deafness, Sensorineural, And Male Infertility",f,C1970187,f,na,null,null,f,91,88,DIS,700489002,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,66,61,WOUND,13924000,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Infections of musculoskeletal system,f,C0851162,f,na,null,null,f,77,67,INFECTIONS,312154004,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,"Deafness, Sensorineural, And Male Infertility",f,C1970187,f,na,null,null,f,88,85,DIS,700489002,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,203,198,WOUND,13924000,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,213,204,INFECTION,191415002,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,389,384,wound,416462003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,399,390,infection,191415002,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Surgical wound,f,C0332803,f,na,null,null,f,529,503,"surgical treatment , wound",112633009,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,562,557,wound,13924000,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Lymphoma,f,C0024299,t,na,null,null,f,747,739,lymphoma,21964009,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,"Diabetes Mellitus, Insulin-Dependent",f,C0011854,f,na,null,null,f,897,871,Insulin-dependent diabetes,46635009,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Lymphoma,f,C0024299,f,na,null,null,f,917,909,lymphoma,118600007,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Ulcerative Colitis,f,C0009324,f,na,null,null,f,947,929,ulcerative colitis,64766004,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,melanoma,f,C0025202,f,na,Right upper extremity,6921000,f,958,950,melanoma,2092003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Right upper extremity,6921000,f,1019,1007,hypertension,38341003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Hypothyroidism,f,C0020676,f,na,Upper Extremity,53120007,f,1036,1022,hypothyroidism,40930008,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Upper Extremity,53120007,f,1063,1050,heart failure,84114007,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,Heart,80891009,f,1093,1070,coronary artery disease,414024009,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Obesity,f,C0028754,f,na,null,null,f,1940,1935,obese,414915002,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Erythema,f,C0041834,f,na,null,null,f,2030,2022,erythema,70819003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,2053,2048,wound,416462003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,2081,2076,wound,416462003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,2328,2323,wound,416462003,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,2546,2541,wound,13924000,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Persistent embryonic structure,f,C0332996,f,na,null,null,f,2570,2560,persistent,31807009,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,Structure of left ankle,51636004,f,3059,3054,wound,13924000,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Ulcer,f,C0041582,f,na,Bone structure of sacrum,54735007,f,3211,3206,ulcer,429040005,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,3383,3373,infectious,189822004,SNOMEDCT_US,na
+950452368,950452368.txt,cTAKES input\,Mucolipidosis Type IV,f,C0238286,f,na,null,null,f,4396,4386,ml slow IV,111384001,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,"Deafness, Sensorineural, And Male Infertility",f,C1970187,f,na,null,null,f,87,84,DIS,700489002,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Ulcer,f,C0041582,f,na,Structure of right lower leg,32696007,f,278,273,ulcer,56208002,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Peripheral Vascular Diseases,f,C0085096,f,na,Blood Vessel,59820001,f,484,457,peripheral vascular disease,400047006,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Foot Ulcer,f,C0085119,f,na,Foot,56459004,f,863,853,foot ulcer,95345008,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Prostatic Intraepithelial Neoplasias,f,C0282612,f,na,null,null,f,918,915,pin,254901000,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Trauma,f,C3714660,f,na,null,null,t,961,955,trauma,19130008,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Ulcer,f,C0041582,f,na,Structure of left foot,22335008,f,987,981,ulcers,255321001,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Ulcer,f,C0041582,f,na,null,null,f,1090,1085,ulcer,429040005,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Syndrome,f,C0039082,f,na,null,null,f,1615,1607,syndrome,64572001,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Lupus Erythematosus,f,C0409974,f,na,null,null,f,1623,1618,Lupus,200936003,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Pressure Ulcer,f,C0011127,f,na,null,null,f,1655,1647,decubiti,399912005,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Peripheral Vascular Diseases,f,C0085096,f,na,Blood Vessel,59820001,f,1685,1658,peripheral vascular disease,400047006,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Pulmonary Fibrosis,f,C0034069,f,na,Left lung,44029006,f,1831,1818,lung fibrosis,51615001,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,MRSA - Methicillin resistant Staphylococcus aureus infection,f,C0343401,f,na,null,null,f,1889,1846,methicillin resistant Staphylococcus aureus,266096002,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,1899,1890,pneumonia,233604007,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Ulcer,f,C0041582,f,na,Structure of base of heart,60991002,f,3173,3168,ulcer,255321001,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Erythema,f,C0041834,f,na,null,null,f,3223,3215,erythema,86735004,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Adenohypophyseal Diseases,f,C0751437,f,na,null,null,f,3418,3410,anterior,51742006,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Disto-occlusion of teeth,f,C0232511,f,na,Structure of calf of leg,53840002,f,3481,3455,posterior tibial occlusion,49827005,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Ulcer,f,C0041582,f,na,null,null,t,3627,3621,ulcers,255321001,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Pressure Ulcer,f,C0011127,f,na,null,null,t,3639,3631,decubiti,420226006,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Proliferative vitreoretinopathy,f,C0242852,f,na,null,null,f,3924,3921,PVR,232016005,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Proliferative vitreoretinopathy,f,C0242852,f,na,null,null,f,4426,4423,PVR,232016005,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Erythema,f,C0041834,f,na,null,null,f,4478,4470,erythema,70819003,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Erythema,f,C0041834,f,na,null,null,f,4594,4586,erythema,70819003,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Erythema,f,C0041834,f,na,null,null,f,4716,4708,erythema,247441003,SNOMEDCT_US,na
+959086752,959086752.txt,cTAKES input\,Injury wounds,f,C0043250,t,na,null,null,f,4788,4782,wounds,13924000,SNOMEDCT_US,na
+965367286_WGH,965367286_WGH.txt,cTAKES input\,"Deafness, Sensorineural, And Male Infertility",f,C1970187,f,na,null,null,f,93,90,DIS,700489002,SNOMEDCT_US,na
 clinical-13,clinical-13.txt,cTAKES input\,Terminal illness,f,C0679247,f,na,Liver,10200004,f,200,177,end stage liver disease,300936002,SNOMEDCT_US,na
 clinical-13,clinical-13.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,225,214,hepatitis C,50711007,SNOMEDCT_US,na
 clinical-13,clinical-13.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,235,226,cirrhosis,19943007,SNOMEDCT_US,na
@@ -31,13 +89,13 @@ clinical-33,clinical-33.txt,cTAKES input\,Mitral Valve Prolapse Syndrome,f,C0026
 clinical-33,clinical-33.txt,cTAKES input\,Systolic hypertension,f,C0221155,f,na,Pulmonary artery structure,45341000,f,2937,2916,systolic hypertension,56218007,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,t,2972,2952,pericardial effusion,373945007,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Lung,39607008,f,3099,3087,hypertension,38341003,SNOMEDCT_US,na
-clinical-33,clinical-33.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Lower Extremity,61685007,t,3152,3149,DVT,128053003,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Limb structure,66019005,t,3152,3149,DVT,128053003,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Sinus Tachycardia,f,C0039239,f,na,Nasal sinus,55111001,f,3243,3233,Sinus Tach,11092001,SNOMEDCT_US,na
-clinical-33,clinical-33.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,3278,3268,Depression,2.1061E+13,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,3278,3268,Depression,21061000119107,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Bucket Handle Tears,f,C0443166,f,na,null,null,f,3380,3346,Bucket handle medial meniscal tear,263697003,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,3444,3440,tear,35933005,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,null,null,f,3468,3459,posterior,72442006,SNOMEDCT_US,na
-clinical-33,clinical-33.txt,cTAKES input\,Hydrarthrosis,f,C1253936,f,na,Joints,39352004,f,3519,3505,joint effusion,387637008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Hydrarthrosis,f,C1253936,f,na,Knee,304679005,f,3519,3505,joint effusion,387637008,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Cyst,f,C0010709,f,na,null,null,f,3547,3543,cyst,441457006,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Milroy Disease,f,C1704423,f,na,null,null,f,3575,3572,PCL,399889006,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Discoid lateral meniscus,f,C0409305,f,na,Lateral meniscus structure,10013000,f,3605,3581,Discoid lateral meniscus,202099003,SNOMEDCT_US,na
@@ -49,14 +107,13 @@ clinical-33,clinical-33.txt,cTAKES input\,Hemodynamic instability,f,C0948268,f,n
 clinical-33,clinical-33.txt,cTAKES input\,Thrombophilia,f,C0398623,f,na,null,null,f,4303,4290,thrombophilia,234467004,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Muscle strain,f,C0080194,f,na,Right side of heart,79561009,f,4754,4748,strain,48532005,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,4944,4931,abnormalities,276654001,SNOMEDCT_US,na
-clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,5128,5117,knee injury,125601008,SNOMEDCT_US,na
+clinical-33,clinical-33.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Structure of left knee,82169009,f,5128,5117,knee injury,125601008,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Traumatic injury,f,C3263723,f,na,null,null,f,5204,5198,injury,19130008,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,5239,5235,tear,35933005,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5591,5574,Pulmonary embolus,59282003,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,Structure of left knee,82169009,f,5615,5611,tear,125671007,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5728,5710,pulmonary embolism,59282003,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Laceration,f,C0043246,f,na,Knee,304679005,f,6050,6046,tear,125671007,SNOMEDCT_US,na
-clinical-34,clinical-33.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,212,203,pneumonia,233604007,SNOMEDCT_US,na
 clinical-33,clinical-33.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,6132,6128,plan,52713000,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,212,203,pneumonia,233604007,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,219,215,COPD,13645005,SNOMEDCT_US,na
@@ -68,7 +125,7 @@ clinical-38,clinical-38.txt,cTAKES input\,Restrictive lung disease,f,C0085581,f,
 clinical-38,clinical-38.txt,cTAKES input\,"Polyradiculoneuropathy, Chronic Inflammatory Demyelinating",f,C0393819,f,na,null,null,f,922,870,Chronic inflammatory demyelinating polyradiculopathy,128209004,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Gastroduodenitis,f,C0267166,f,na,null,null,f,949,925,Gastritis and duodenitis,196731005,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Neurogenic Urinary Bladder,f,C0005697,f,na,Urinary Bladder,89837001,f,1026,1008,Neurogenic bladder,398064005,SNOMEDCT_US,na
-clinical-38,clinical-38.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,Coronary artery,41801008,f,1076,1053,Coronary artery disease,414024009,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,Arteries,51114001,f,1076,1053,Coronary artery disease,414024009,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Adrenal gland hypofunction,f,C0001623,f,na,Adrenal Glands,23451007,f,1163,1142,Adrenal insufficiency,386584007,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Hypercholesterolemia,f,C0020443,f,na,null,null,f,1186,1166,Hypercholesterolemia,13644009,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Mixed anxiety and depressive disorder,f,C0338908,f,na,null,null,f,1211,1189,Depression and anxiety,231504006,SNOMEDCT_US,na
@@ -87,7 +144,7 @@ clinical-38,clinical-38.txt,cTAKES input\,Persistent embryonic structure,f,C0332
 clinical-38,clinical-38.txt,cTAKES input\,"Acidosis, Respiratory",f,C0001127,f,na,null,null,f,4118,4098,respiratory acidosis,12326000,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Adrenal gland hypofunction,f,C0001623,f,na,Adrenal Glands,23451007,f,4745,4724,adrenal insufficiency,386584007,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,"Anemia, Megaloblastic",f,C0002888,t,na,Cells,4421005,f,5006,4993,megaloblastic,53165003,SNOMEDCT_US,na
-clinical-38,clinical-38.txt,cTAKES input\,Vitamin B12 deficiency anemia,f,C2004521,f,na,Cells,4421005,f,5072,5040,anemia ; question B12 deficiency,49472006,SNOMEDCT_US,na
+clinical-38,clinical-38.txt,cTAKES input\,Vitamin B12 deficiency anemia,f,C2004521,f,na,Smear cell,250288005,f,5072,5040,anemia ; question B12 deficiency,49472006,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Asthmatic bronchitis,f,C1319018,f,na,null,null,f,5366,5339,Asthma flare and bronchitis,405944004,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Chronic disease,f,C0008679,f,na,Lung,39607008,f,5406,5369,Chronic obstructive pulmonary disease,27624003,SNOMEDCT_US,na
 clinical-38,clinical-38.txt,cTAKES input\,Polyradiculopathy,f,C0032586,f,na,null,null,f,5440,5423,polyradiculopathy,75572007,SNOMEDCT_US,na
@@ -138,3 +195,463 @@ clinical-43,clinical-43.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,
 clinical-43,clinical-43.txt,cTAKES input\,"Kidney Failure, Acute",f,C0022660,f,na,Kidney,64033007,f,9933,9914,Acute renal failure,14669001,SNOMEDCT_US,na
 clinical-43,clinical-43.txt,cTAKES input\,Metastatic Carcinoma,f,C1384494,f,na,Kidney,64033007,f,9968,9937,Metastatic renal cell carcinoma,79282002,SNOMEDCT_US,na
 clinical-43,clinical-43.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,10206,10197,pneumonia,233604007,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Hypertensive disease,f,C0020538,t,na,null,null,f,308,305,HTN,38341003,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Leukocyte adhesion deficiency type 1,f,C0398738,f,na,Anterior descending branch of left coronary artery,59438005,f,1010,1007,LAD,234582006,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Gestational Trophoblastic Neoplasms,f,C1135868,f,na,null,null,f,1143,1140,gtt,609519004,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1299,1296,HTN,38341003,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Macular degeneration,f,C0024437,f,na,null,null,f,1355,1335,macular degeneration,422338006,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Myelofibrosis,f,C0026987,f,na,null,null,f,1687,1684,MMM,52967002,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,null,null,f,1853,1850,Ext,254044004,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Leukocyte adhesion deficiency type 1,f,C0398738,f,na,Anterior descending branch of left coronary artery,59438005,f,2192,2189,LAD,234582006,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Left Ventricular Hypertrophy,f,C0149721,f,na,Anterior descending branch of left coronary artery,59438005,f,2198,2195,LVH,55827005,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Right bundle branch block,f,C0085615,f,na,Anterior descending branch of left coronary artery,59438005,f,2205,2201,RBBB,59118001,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Pulmonary Edema,f,C0034063,f,na,Lung,39607008,f,2365,2350,pulmonary edema,19242006,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Pneumothorax,f,C0032326,f,na,null,null,t,2392,2380,pneumothorax,36118008,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,2423,2407,pleural effusion,60046008,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Hypertensive disease,f,C0020538,t,na,null,null,f,3156,3153,HTN,38341003,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,Heart Atrium,59652004,f,3705,3686,atrial fibrillation,49436004,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,3944,3931,abnormalities,276655000,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,null,null,f,4041,4037,afib,49436004,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Secondary malignant neoplasm of lung,f,C0153676,f,na,Lung,39607008,f,4590,4556,"pulmonary edema , likely secondary",94391008,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Acute myocardial infarction,f,C0155626,f,na,null,null,f,4602,4594,acute MI,57054005,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Pulmonary Edema,f,C0034063,f,na,null,null,f,4816,4806,pulm edema,19242006,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,Heart Atrium,59652004,f,6621,6602,Atrial Fibrillation,49436004,SNOMEDCT_US,na
+clinical-747,clinical-747.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,6625,6622,HTN,38341003,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,"Deafness, Sensorineural, And Male Infertility",f,C1970187,f,na,null,null,f,82,79,DIS,700489002,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,"Hemiplegia, Spastic",f,C0154694,f,na,null,null,f,214,195,spastic hemiparesis,79633009,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Congenital arteriovenous malformation,f,C0003857,f,na,null,null,f,271,268,AVM,24551003,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Congenital arteriovenous malformation,f,C0003857,f,na,null,null,f,413,410,AVM,24551003,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Dural arteriovenous malformation,f,C0266495,f,na,null,null,f,930,898,dural arteriovenous malformation,84873005,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Hemorrhoids,f,C0019112,f,na,null,null,f,2237,2226,hemorrhoids,70153002,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,"Diabetes Mellitus, Insulin-Dependent",f,C0011854,f,na,null,null,f,2429,2403,Insulin dependent diabetes,46635009,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,Heart Atrium,59652004,f,2460,2441,atrial fibrillation,49436004,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Hypothyroidism,f,C0020676,f,na,null,null,f,2477,2463,hypothyroidism,40930008,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,2492,2480,hypertension,38341003,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,2505,2495,depression,21061000119107,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Urinary tract infection,f,C0042029,f,na,Urinary system,122489005,f,2541,2517,urinary tract infections,68566005,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Syndrome,f,C0039082,f,na,null,null,f,2569,2561,syndrome,64572001,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Osteoporosis,f,C0029456,f,na,null,null,f,2586,2574,osteoporosis,64859006,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Nystagmus,f,C0028738,f,na,Pupil,392406005,t,3764,3755,nystagmus,563001,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Contracture,f,C0009917,f,na,Left upper arm structure,368208006,f,3977,3966,contracture,55033002,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Injury caused by vibration,f,C0677519,f,na,Left upper extremity,80768000,f,5057,5048,vibration,45477008,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,Arch of foot,9089003,f,6043,6034,posterior,72442006,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Congenital arteriovenous malformation,f,C0003857,f,na,null,null,t,6182,6155,arteriovenous malformations,234141001,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Congenital vascular anomaly,f,C1961121,f,na,Blood Vessel,59820001,f,6270,6249,vascular malformation,400159008,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,Spinal Cord,2748008,f,6488,6484,cord,28835009,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,Spinal Cord,2748008,f,6532,6528,cord,28835009,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Congenital arteriovenous malformation,f,C0003857,f,na,Head,69536005,f,6699,6673,arteriovenous malformation,234141001,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,null,null,f,7734,7730,Cord,28835009,SNOMEDCT_US,na
+clinical-756,clinical-756.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,null,null,f,7820,7816,CORD,28835009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Chronic prostatitis,f,C0085696,f,na,null,null,f,307,288,Chronic prostatitis,19905009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Chronic prostatitis,f,C0085696,f,na,null,null,f,453,434,chronic prostatitis,19905009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Interstitial Cystitis,f,C0282488,f,na,null,null,f,588,567,interstitial cystitis,111409009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Coronary heart disease,f,C0010068,t,na,Heart,80891009,f,652,629,coronary artery disease,53741008,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Supraventricular tachycardia,f,C0039240,f,na,null,null,f,713,685,supraventricular tachycardia,6456007,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Mitochondrial Myopathies,f,C0162670,f,na,Mitochondria,75056005,f,756,734,mitochondrial myopathy,16851005,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Urinary Stress Incontinence,f,C0042025,f,na,null,null,f,813,794,stress incontinence,22220005,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,Coronary artery,41801008,f,971,948,Coronary artery disease,53741008,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Leukocyte adhesion deficiency type 1,f,C0398738,f,na,Arteries,51114001,f,991,988,LAD,234582006,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Supraventricular tachycardia,f,C0039240,f,na,null,null,f,1036,1008,Supraventricular tachycardia,6456007,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Mitochondrial Myopathies,f,C0162670,f,na,Mitochondria,75056005,f,1086,1064,Mitochondrial myopathy,16851005,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Interstitial Cystitis,f,C0282488,f,na,null,null,f,1266,1245,Interstitial cystitis,111409009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Pericarditis,f,C0031046,f,na,null,null,f,1284,1272,Pericarditis,3238004,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1302,1290,Hypertension,38341003,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Hypercholesterolemia,f,C0020443,f,na,null,null,f,1328,1308,Hypercholesterolemia,13644009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Myelofibrosis,f,C0026987,f,na,null,null,f,1523,1520,MMM,52967002,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Hyperactive behavior,f,C0424295,f,na,null,null,t,1617,1606,hyperactive,44548000,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,null,null,f,1624,1621,Ext,254044004,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Chronic prostatitis,f,C0085696,f,na,null,null,f,3414,3395,Chronic prostatitis,19905009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Interstitial Cystitis,f,C0282488,f,na,null,null,f,3436,3415,Interstitial cystitis,111409009,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,3721,3716,wound,416462003,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,4066,4060,wounds,13924000,SNOMEDCT_US,na
+clinical-757,clinical-757.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,4579,4573,wounds,13924000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Drug Allergy,f,C0013182,f,na,null,null,t,176,158,Allergies to Drugs,416098002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,t,na,null,null,f,473,470,CAD,414024009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Leukocyte adhesion deficiency type 1,f,C0398738,t,na,Anterior descending branch of left coronary artery,59438005,f,481,478,LAD,234582006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,504,500,COPD,13645005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,539,530,infection,189822004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,1173,1164,infection,189822004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,1682,1673,infection,191415002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Bacteremia,f,C0004610,f,na,null,null,f,1702,1692,bacteremia,5758002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,f,1725,1705,pericardial effusion,373945007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pericardial effusion,f,C0031039,t,na,Pericardial body location,264135001,f,1790,1770,pericardial effusion,373945007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,"Colitis, Ischemic",f,C0162529,f,na,null,null,f,1848,1828,colitis and ischemic,30588004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,null,null,f,1927,1924,CAD,414024009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Leukocyte adhesion deficiency type 1,f,C0398738,t,na,Anterior descending branch of left coronary artery,59438005,f,1935,1932,LAD,234582006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Neuropathy,f,C0442874,f,na,null,null,f,1975,1965,neuropathy,386033004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Kidney Diseases,f,C0022658,f,na,null,null,f,1991,1980,nephropathy,90708001,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,1998,1994,COPD,13645005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hypothyroidism,f,C0020676,f,na,null,null,f,2015,2001,Hypothyroidism,40930008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Cerebrovascular accident,f,C0038454,f,na,null,null,f,2021,2018,CVA,230690007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hyperlipidemia,f,C0020473,f,na,null,null,f,2060,2046,Hyperlipidemia,55822004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Gastroesophageal reflux disease,f,C0017168,f,na,null,null,f,2067,2063,GERD,235595009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Diabetes Mellitus,f,C0011849,f,na,null,null,f,2328,2320,diabetes,73211009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Spondyloenchondrodysplasia,f,C0432222,f,na,null,null,f,2659,2656,SEM,254079002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,null,null,f,2757,2754,Ext,254044004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Familial eosinophilia,f,C0272192,f,na,null,null,f,3020,3017,EOS,191358004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,3558,3545,heart failure,84114007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Lung consolidation,f,C0521530,f,na,Structure of left lower lobe of lung,41224006,f,3634,3621,consolidation,95436008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,3904,3888,pleural effusion,60046008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,3978,3965,heart failure,84114007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,Structure of right lower lobe of lung,266005,f,4067,4057,infectious,40733004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Lung consolidation,f,C0521530,f,na,Structure of right lower lobe of lung,266005,f,4081,4068,consolidation,95436008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Left Ventricular Hypertrophy,f,C0149721,f,na,Heart Ventricle,21814001,f,4228,4200,left ventricular hypertrophy,55827005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,4359,4346,abnormalities,107656002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Left ventricular diastolic dysfunction,f,C1273070,f,na,Heart Ventricle,21814001,f,5085,5047,left ventricular diastolic dysfunction,395704004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Systolic hypertension,f,C0221155,f,na,Lung,39607008,f,5192,5171,systolic hypertension,56218007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,t,5227,5207,pericardial effusion,373945007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,t,5653,5633,pericardial effusion,373945007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural Diseases,f,C0032226,f,na,null,null,f,5808,5801,pleural,88075009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,5834,5829,wound,416462003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,5937,5921,pleural effusion,60046008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pulmonary Edema,f,C0034063,f,na,Lung,39607008,f,5957,5942,pulmonary edema,19242006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,Structure of left lower lobe of lung,41224006,f,6047,6038,infection,191415002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Abscess,f,C0000833,f,na,null,null,t,6096,6089,abscess,128477000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pulmonary Edema,f,C0034063,f,na,Lung,39607008,f,6217,6202,pulmonary edema,19242006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,6250,6234,pleural effusion,60046008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pneumothorax,f,C0032326,f,na,null,null,t,6329,6317,pneumothorax,36118008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Punctate inner choroidopathy,f,C0730321,f,na,Internal capsule posterior limb structure,54728004,f,6341,6338,PIC,312950007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pulmonary Edema,f,C0034063,f,na,Lung,39607008,f,6473,6458,pulmonary edema,19242006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,null,null,f,7361,7352,posterior,72442006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,7588,7579,infection,40733004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,7656,7643,abnormalities,385297003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,t,na,null,null,f,7841,7838,CAD,414024009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hyperlipidemia,f,C0020473,f,na,null,null,f,7865,7851,hyperlipidemia,55822004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,7876,7872,COPD,13645005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congestive heart failure,f,C0018802,f,na,null,null,f,8372,8369,CHF,42343007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Gestational Trophoblastic Neoplasms,f,C1135868,f,na,null,null,f,8417,8414,gtt,609517002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Gestational Trophoblastic Neoplasms,f,C1135868,f,na,null,null,f,8824,8821,gtt,609517002,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Gestational Trophoblastic Neoplasms,f,C1135868,f,na,null,null,f,8863,8860,gtt,609519004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Gestational Trophoblastic Neoplasms,f,C1135868,f,na,null,null,f,8919,8916,gtt,609519004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pad Mass,f,C0332568,f,na,null,null,f,9164,9161,PAD,90599004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,9275,9269,sepsis,91302008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,9400,9395,wound,416462003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural Diseases,f,C0032226,f,na,null,null,f,9414,9407,pleural,88075009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congestive heart failure,f,C0018802,f,na,null,null,f,10114,10111,CHF,42343007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,null,null,f,10328,10324,afib,49436004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,10556,10552,plan,52713000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congestive heart failure,f,C0018802,f,na,null,null,f,10949,10946,CHF,42343007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,null,null,f,11225,11211,fluid overload,21639008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,11469,11465,COPD,13645005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Metabolic alkalosis,f,C0220983,f,na,null,null,f,11499,11480,Metabolic Alkalosis,1388004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hypochloremia (disorder),f,C0085680,f,na,null,null,f,11515,11502,Hypochloremia,10399008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Alkalosis,f,C0002063,f,na,null,null,f,11577,11568,alkalosis,21420006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Alkalosis,f,C0002063,f,na,null,null,f,11861,11852,alkalosis,21420006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Metabolic alkalosis,f,C0220983,f,na,null,null,f,12121,12102,metabolic alkalosis,1388004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,12144,12127,Pleural effusions,60046008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural Diseases,f,C0032226,f,na,Pleural cavity,91381003,f,12245,12238,pleural,88075009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,12344,12328,pleural effusion,60046008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hyperlipidemia,f,C0020473,f,na,null,null,f,12771,12757,Hyperlipidemia,55822004,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,12823,12819,COPD,13645005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Dementia,f,C0497327,t,na,Face,89545001,f,12922,12914,dementia,52448006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,Face,89545001,f,12994,12981,abnormalities,385297003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,"Infarction, Lacunar",f,C0333559,f,na,null,null,f,13152,13136,lacunar infarcts,81037000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Encephalopathies,f,C0085584,f,na,null,null,f,13238,13224,encephalopathy,81308009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hypothyroidism,f,C0020676,f,na,null,null,f,13400,13386,Hypothyroidism,40930008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Urinary tract infection,f,C0042029,f,na,null,null,f,13480,13477,UTI,68566005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Urinary tract infection,f,C0042029,f,na,null,null,f,13573,13570,UTI,68566005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic low back pain,f,C0457949,f,na,Lower back structure,37822005,f,13709,13686,Chronic lower back pain,278860009,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Somnolence,f,C2830004,f,na,null,null,f,13826,13816,somnolence,79519003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,13853,13848,Wound,13924000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,Chest,51185008,f,13893,13888,wound,13924000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pressure Ulcer,f,C0011127,f,na,null,null,f,13925,13911,pressure ulcer,420226006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,13933,13928,Wound,416462003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Pressure Ulcer,f,C0011127,f,na,null,null,f,14042,14028,pressure ulcer,399912005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,14117,14112,wound,13924000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,Chest,51185008,f,14261,14256,wound,13924000,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,14312,14307,wound,416462003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,18628,18615,Heart Failure,84114007,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Coronary heart disease,f,C0010068,f,na,Arteries,51114001,f,18677,18654,Coronary Artery Disease,53741008,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,18690,18678,Hypertension,38341003,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,"Diabetes Mellitus, Non-Insulin-Dependent",f,C0011860,f,na,null,null,f,18706,18691,Type 2 Diabetes,44054006,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,Lung,39607008,f,18753,18716,Chronic Obstructive Pulmonary Disease,13645005,SNOMEDCT_US,na
+record-141,record-141.txt,cTAKES input\,Congestive heart failure,f,C0018802,f,na,null,null,f,18945,18942,CHF,42343007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Acute respiratory distress,f,C0748355,f,na,null,null,f,268,231,acute on chronic respiratory distress,373895009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Puncture wound,f,C0033119,f,na,Lumbar Region,264082005,f,325,317,puncture,312609001,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Respiratory Failure,f,C1145670,f,na,null,null,f,574,555,respiratory failure,409622000,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pulmonary Edema,f,C0034063,f,na,Lung,39607008,f,608,593,pulmonary edema,19242006,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,688,682,sepsis,91302008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Clostridium difficile colitis,f,C0238106,f,na,null,null,f,712,693,C.difficile colitis,423590009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,MRSA - Methicillin resistant Staphylococcus aureus infection,f,C0343401,f,na,null,null,f,1049,1045,MRSA,266096002,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Non-Small Cell Lung Carcinoma,f,C0007131,f,na,Cells,4421005,f,2018,1992,Non-small cell lung cancer,254637007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,2147,2131,pleural effusion,60046008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Sick Sinus Syndrome,f,C0037052,f,na,null,null,f,2156,2153,SSS,36083008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,"Disruptive, Impulse Control, and Conduct Disorders",f,C0021122,f,na,null,null,f,2175,2172,ICD,66347000,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,2193,2189,COPD,13645005,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Bronchiectasis,f,C0006267,f,na,null,null,f,2208,2194,bronchiectasis,12295008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,2224,2212,Hypertension,38341003,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,null,null,f,2231,2228,CAD,53741008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Congestive heart failure,f,C0018802,f,na,null,null,f,2260,2257,CHF,42343007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,2320,2310,Depression,78667006,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Arteriovenous fistula,f,C0003855,f,na,Femur,421235005,f,2347,2337,AV fistula,128617001,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pneumonia due to methicillin resistant Staphylococcus aureus,f,C1142536,f,na,null,null,f,2384,2370,MRSA pneumonia,124691000119101,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,2395,2389,sepsis,91302008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Colitis,f,C0009319,f,na,null,null,f,2457,2450,colitis,64226004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,null,null,f,3574,3571,EXT,254044004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Familial eosinophilia,f,C0272192,f,na,null,null,f,3931,3928,EOS,79336007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,Heart Atrium,59652004,f,4290,4271,Atrial fibrillation,49436004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,null,null,f,4371,4367,Afib,49436004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pleural Diseases,f,C0032226,f,na,null,null,f,4744,4737,pleural,88075009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,t,5381,5363,pulmonary embolism,59282003,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,null,null,f,5434,5420,fluid overload,21639008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pleural Diseases,f,C0032226,f,na,null,null,f,5475,5468,pleural,88075009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pseudotumor,f,C0033844,f,na,null,null,f,5563,5552,pseudotumor,49293007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Aortic Valve Stenosis,f,C0003507,f,na,Aortic valve structure,34202007,t,6105,6084,aortic valve stenosis,60573004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Aortic Valve Insufficiency,f,C0003504,f,na,Aorta,261051005,f,6140,6120,aortic regurgitation,60234000,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,f,6294,6274,pericardial effusion,373945007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Respiratory Failure,f,C1145670,f,na,null,null,f,7433,7414,respiratory failure,409622000,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Mucus cast,f,C0333133,f,na,null,null,f,7475,7461,mucus plugging,42216004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pneumonia due to Pseudomonas,f,C0155860,f,na,null,null,f,7510,7489,pseudomonal pneumonia,41381004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Encephalopathies,f,C0085584,f,na,null,null,f,8084,8070,encephalopathy,81308009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Encephalopathies,f,C0085584,f,na,null,null,f,9328,9314,encephalopathy,81308009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Acute respiratory failure,f,C0264490,f,na,null,null,f,9354,9329,Acute respiratory failure,65710008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Chronic respiratory failure,f,C0264492,f,na,null,null,f,9382,9355,Chronic respiratory failure,39871006,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pneumonia due to Pseudomonas,f,C0155860,f,na,null,null,f,9404,9383,Pseudomonal pneumonia,41381004,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,null,null,f,9420,9405,Volume overload,21639008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Chronic disease,f,C0008679,f,na,Lung,39607008,f,9458,9421,Chronic obstructive pulmonary disease,27624003,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Bronchiectasis,f,C0006267,f,na,null,null,f,9473,9459,Bronchiectasis,12295008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Hyponatremia,f,C0020625,f,na,null,null,f,9486,9474,Hyponatremia,89627008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Anemia of chronic disease,f,C0002873,f,na,null,null,f,9512,9487,Anemia of chronic disease,234347009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Non-Small Cell Lung Carcinoma,f,C0007131,f,na,Cells,4421005,f,9554,9528,Non-small cell lung cancer,254637007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,9684,9668,pleural effusion,60046008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Sick Sinus Syndrome,f,C0037052,f,na,Nasal sinus,2095001,f,9709,9690,Sick Sinus Syndrome,36083008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,"Disruptive, Impulse Control, and Conduct Disorders",f,C0021122,f,na,null,null,f,9728,9725,ICD,66347000,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,9746,9742,COPD,13645005,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Bronchiectasis,f,C0006267,f,na,null,null,f,9761,9747,bronchiectasis,12295008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,9777,9765,Hypertension,38341003,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Coronary Artery Disease,f,C1956346,f,na,null,null,f,9784,9781,CAD,414024009,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Congestive heart failure,f,C0018802,f,na,null,null,f,9813,9810,CHF,42343007,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,9873,9863,Depression,78667006,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Arteriovenous fistula,f,C0003855,f,na,Femur,421235005,f,9900,9890,AV fistula,128617001,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Pneumonia due to methicillin resistant Staphylococcus aureus,f,C1142536,f,na,null,null,f,9937,9923,MRSA pneumonia,124691000119101,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,9948,9942,sepsis,91302008,SNOMEDCT_US,na
+record-142,record-142.txt,cTAKES input\,Colitis,f,C0009319,f,na,null,null,f,10010,10003,colitis,64226004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Kidney Failure, Chronic",f,C0022661,t,na,null,null,f,405,401,ESRD,90688005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Electromechanical dissociation,f,C0340861,f,na,null,null,f,456,453,PEA,234172002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Cardiac Arrest,f,C0018790,f,na,null,null,f,463,457,arrest,397829000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,501,495,sepsis,91302008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,1950,1944,sepsis,91302008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Fractures, Multiple",f,C0016655,f,na,Femur,261080001,f,2280,2253,multiple LE femur fractures,5468008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Diabetes Mellitus, Non-Insulin-Dependent",f,C0011860,f,na,null,null,f,2324,2309,Type 2 diabetes,44054006,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Diabetic Nephropathy,f,C0011881,f,na,null,null,f,2357,2337,Diabetic nephropathy,127013003,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Kidney Failure, Chronic",f,C0022661,f,na,null,null,f,2375,2371,ESRD,90688005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Femoral Fractures,f,C0015802,t,na,Femur,71341001,f,2544,2530,femur fracture,71620000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Hyponatremia,f,C0020625,f,na,null,null,f,2560,2548,Hyponatremia,89627008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Hypercholesterolemia,f,C0020443,f,na,null,null,f,2584,2564,Hypercholesterolemia,13644009,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Cataract,f,C0086543,f,na,null,null,f,2614,2605,Cataracts,193570009,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,2643,2631,Hypertension,38341003,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Anemia of chronic disease,f,C0002873,f,na,null,null,f,2673,2648,Anemia of chronic disease,234347009,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Electromechanical dissociation,f,C0340861,f,na,null,null,f,2790,2787,PEA,234172002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Cardiac Arrest,f,C0018790,f,na,null,null,f,2797,2791,arrest,410429000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Electromechanical dissociation,f,C0340861,f,na,null,null,f,2848,2845,PEA,234172002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Cardiac Arrest,f,C0018790,f,na,null,null,f,2855,2849,arrest,397829000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Myelofibrosis,f,C0026987,f,na,null,null,f,3221,3218,MMM,52967002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Obesity,f,C0028754,f,na,Abdomen,277112006,f,3299,3294,Obese,414916001,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Skin Erosion,f,C3887524,f,na,Skin structure of all toes,72715006,f,3449,3435,Skin breakdown,93448009,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Pressure Ulcer,f,C0011127,f,na,Ankle,344001,f,3480,3465,Pressure ulcers,420226006,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Erythema,f,C0041834,f,na,null,null,f,3572,3564,erythema,86735004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Familial eosinophilia,f,C0272192,f,na,null,null,f,4464,4461,EOS,79336007,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Exocrine pancreatic insufficiency,f,C0267963,f,na,null,null,f,4946,4943,EPI,47367009,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Herpes Simplex Infections,f,C0019348,f,na,null,null,f,5447,5433,HERPES SIMPLEX,88594005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Paroxysmal nocturnal dyspnea,f,C1956415,f,na,null,null,f,5463,5460,PND,55442000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Kidney Failure, Chronic",f,C0022661,t,na,null,null,f,5537,5533,ESRD,46177005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Electromechanical dissociation,f,C0340861,f,na,null,null,f,5588,5585,PEA,234172002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Cardiac Arrest,f,C0018790,f,na,null,null,f,5595,5589,arrest,410429000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,5633,5627,sepsis,91302008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,5665,5659,Sepsis,91302008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,5689,5683,sepsis,91302008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,t,6063,6054,infection,40733004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Ulcer,f,C0041582,f,na,null,null,f,6225,6219,ulcers,255321001,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,6288,6279,infection,191415002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Influenza,f,C0021400,f,na,Nose,260540009,f,6419,6410,influenza,6142004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,6615,6611,Plan,52713000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,6691,6682,infection,189822004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,7156,7147,infection,189822004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Colitis,f,C0009319,f,na,null,null,f,7379,7372,Colitis,64226004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Shoulder Fractures,f,C0037006,f,na,Shoulder,16982005,f,8186,8169,Shoulder fracture,16250001000004107,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Hip Fractures,f,C0019557,t,na,Structure of left hip,287679003,f,8223,8211,hip fracture,263225007,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Shoulder Fractures,f,C0037006,f,na,Shoulder,16982005,f,8280,8263,shoulder fracture,16250001000004107,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Humeral Fractures,f,C0020162,f,na,Bone structure of humerus,85050009,f,8359,8343,humerus fracture,66308002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Trauma,f,C3714660,f,na,null,null,f,8441,8435,trauma,19130008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,8568,8563,Wound,13924000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Kidney Failure, Chronic",f,C0022661,f,na,null,null,f,8765,8761,ESRD,46177005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,"Kidney Failure, Chronic",f,C0022661,f,na,null,null,f,8785,8781,ESRD,46177005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,8904,8900,plan,52713000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Peripheral Vascular Diseases,f,C0085096,f,na,null,null,f,9292,9289,PVD,400047006,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Gangrene,f,C0017086,f,na,Toes,29707007,f,9307,9299,gangrene,36024000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,Heel,76853006,f,9366,9357,posterior,72442006,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,9415,9406,infection,191415002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,9460,9455,wound,13924000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Injury wounds,f,C0043250,f,na,null,null,f,9476,9471,Wound,416462003,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Fracture,f,C0016658,f,na,null,null,f,9602,9594,fracture,125605004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Abscess,f,C0000833,f,na,null,null,f,9642,9635,abscess,44132006,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Mucolipidosis Type IV,f,C0238286,f,na,null,null,f,11829,11824,ml IV,111384001,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Mucolipidosis Type IV,f,C0238286,f,na,null,null,f,12018,12013,ml IV,111384001,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Sepsis,f,C0243026,f,na,null,null,f,12512,12506,Sepsis,91302008,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Chronic Kidney Diseases,f,C1561643,f,na,Kidney,64033007,f,12545,12523,Chronic Kidney disease,709044004,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Anemia of diabetes,f,C0271931,f,na,null,null,f,12606,12571,diabetes hypercholestrolemia anemia,82980005,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Electromechanical dissociation,f,C0340861,t,na,null,null,f,12642,12639,PEA,234172002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Cardiac Arrest,f,C0018790,t,na,null,null,f,12649,12643,arrest,410429000,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,f,12789,12780,infection,191415002,SNOMEDCT_US,na
+record-143,record-143.txt,cTAKES input\,Bacteriuria,f,C0004659,f,na,null,null,f,12888,12867,bacteria in the urine,61373006,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial Septal Defects,f,C0018817,f,na,null,null,f,231,213,atrioseptal defect,405752007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,275,262,heart failure,84114007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Myocardial Infarction,f,C0027051,f,na,Heart,80891009,f,351,322,cardiac myocardial infarction,22298006,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Lung,39607008,f,376,364,hypertension,38341003,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,Heart Atrium,59652004,f,427,408,atrial fibrillation,49436004,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial Septal Defects,f,C0018817,f,na,null,null,f,1273,1255,Atrioseptal defect,253366007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Cardiomyopathies,f,C0878544,f,na,null,null,f,1305,1291,cardiomyopathy,85898001,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,"Heart Failure, Right-Sided",f,C0235527,f,na,Heart,80891009,f,1344,1308,right-sided congestive heart failure,128404006,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Lung,39607008,f,1369,1357,hypertension,38341003,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,t,na,Heart Atrium,59652004,f,1413,1390,fibrillation and atrial,49436004,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Malignant neoplasm of prostate,f,C0376358,t,na,Prostate,279689003,t,1450,1435,prostate cancer,399068003,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,"Sleep Apnea, Obstructive",f,C0520679,t,na,null,null,f,1533,1510,obstructive sleep apnea,78275009,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial fibrillation with rapid ventricular response,f,C1142306,f,na,Heart Atrium,59652004,f,2458,2407,atrial fibrillation with rapid ventricular response,120041000119109,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Left atrial dilatation,f,C0344720,f,na,Heart Atrium,59652004,f,2530,2511,dilated left atrium,253361002,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial Septal Defects,f,C0018817,f,na,Left atrial structure,82471001,t,2554,2536,atrioseptal defect,253366007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Ventricular dilatation (disorder),f,C0264733,f,na,Heart Ventricle,21814001,f,2685,2662,dilated right ventricle,6210001,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,Heart Ventricle,21814001,f,2831,2816,volume overload,21639008,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Tricuspid Valve Insufficiency,f,C0040961,f,na,null,null,f,2907,2884,tricuspid regurgitation,111287006,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Systolic hypertension,f,C0221155,f,na,Lung,39607008,f,2965,2944,systolic hypertension,56218007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,null,null,f,3259,3239,overloaded or volume,21639008,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,"Heart Failure, Right-Sided",f,C0235527,f,na,Heart,80891009,f,3528,3509,right heart failure,128404006,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial Fibrillation,f,C0004238,f,na,Heart Atrium,59652004,f,3624,3605,Atrial fibrillation,49436004,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Atrial fibrillation with rapid ventricular response,f,C1142306,f,na,Heart Atrium,59652004,f,3815,3764,atrial fibrillation with rapid ventricular response,120041000119109,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,4093,4080,heart failure,84114007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Fluid overload,f,C0546817,f,na,null,null,f,4222,4202,overloaded or volume,21639008,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,4440,4427,heart failure,84114007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,4611,4598,heart failure,84114007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Ischemic cardiomyopathy,f,C0349782,f,na,null,null,f,4751,4728,ischemic cardiomyopathy,194849004,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Calculus of gallbladder with cholecystitis,f,C0267853,f,na,null,null,t,5007,4976,cholelithiasis or cholecystitis,25924004,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Chronic liver disease,f,C0341439,f,na,Liver,10200004,f,5113,5092,chronic liver disease,328383001,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Obstruction of biliary tree,f,C0400979,f,na,null,null,f,5194,5175,biliary obstruction,235918000,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Hepatic congestion,f,C0267821,f,na,Blood Vessel,59820001,f,5576,5549,hepatic vascular congestion,76281005,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Heart failure,f,C0018801,f,na,Heart,80891009,f,5811,5798,heart failure,84114007,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Intracranial Hemorrhages,f,C0151699,f,na,Intracranial,303231004,t,6460,6437,intracranial hemorrhage,1386000,SNOMEDCT_US,na
+record-144,record-144.txt,cTAKES input\,Malignant neoplasm of prostate,f,C0376358,f,na,Prostate,263847000,f,6583,6568,prostate cancer,399068003,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Terminal illness,f,C0679247,f,na,Liver,10200004,f,200,177,end stage liver disease,300936002,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,225,214,hepatitis C,50711007,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,235,226,cirrhosis,19943007,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Encephalopathies,f,C0085584,f,na,null,null,f,481,467,encephalopathy,81308009,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Hepatorenal Syndrome,f,C0019212,f,na,null,null,f,918,898,hepatorenal syndrome,51292008,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Hepatitis C,f,C0019196,f,na,null,null,f,958,947,Hepatitis C,50711007,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Liver Cirrhosis,f,C0023890,f,na,null,null,f,968,959,cirrhosis,19943007,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1041,1029,Hypertension,38341003,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Kidney Calculi,f,C0022650,f,na,null,null,f,1062,1047,Nephrolithiasis,95570007,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Hemorrhoids,f,C0019112,f,na,null,null,f,1079,1068,Hemorrhoids,70153002,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Staphylococcal Infections,f,C0038160,f,na,null,null,f,2529,2524,Staph,56038003,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Bacteremia,f,C0004610,f,na,null,null,f,2540,2530,bacteremia,5758002,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Primary bacterial peritonitis,f,C0275551,f,na,null,null,t,2794,2761,spontaneous bacterial peritonitis,11836002,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Surgical wound,f,C0332803,f,na,null,null,f,4924,4907,surgical incision,112633009,SNOMEDCT_US,na
+record-175,record-175.txt,cTAKES input\,Communicable Diseases,f,C0009450,f,na,null,null,t,5001,4992,infection,40733004,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,"Diabetes Mellitus, Insulin-Dependent",f,C0011854,f,na,null,null,f,232,217,type 1 diabetes,46635009,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,Diabetes Mellitus,f,C0011849,f,na,null,null,f,400,392,diabetes,73211009,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,Retinal Diseases,f,C0035309,f,na,null,null,f,445,434,retinopathy,29555009,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,Kidney Diseases,f,C0022658,f,na,null,null,f,461,450,nephropathy,90708001,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,Peripheral Neuropathy,f,C0031117,f,na,null,null,f,494,473,peripheral neuropathy,302226006,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,"Hydrocephalus, Normal Pressure",f,C0020258,f,na,null,null,f,522,519,NPH,30753002,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,"Diabetes Mellitus, Insulin-Dependent",f,C0011854,f,na,null,null,f,1964,1949,Type 1 diabetes,46635009,SNOMEDCT_US,na
+record-176,record-176.txt,cTAKES input\,Kidney Diseases,f,C0022658,f,na,Kidney,64033007,f,2023,1995,"disease , status post kidney",90708001,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Drug Overdose,f,C0029944,f,na,null,null,f,215,207,overdose,55680006,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Proline dehydrogenase deficiency,f,C0268529,f,na,null,null,f,320,317,HPI,61071003,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Bipolar Disorder,f,C0005586,f,na,null,null,f,382,366,Bipolar disorder,13746004,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Alprazolam overdose,f,C0572956,f,na,null,null,f,457,438,alprazolam overdose,296079008,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Self Mutilation,f,C0036601,f,na,null,null,f,902,887,self mutilation,130968006,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Bipolar Disorder,f,C0005586,f,na,null,null,f,1118,1102,Bipolar disorder,13746004,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Asthma,f,C0004096,f,na,null,null,f,1130,1124,Asthma,195967001,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Post-Traumatic Stress Disorder,f,C0038436,f,na,null,null,f,1165,1136,Posttraumatic stress disorder,47505003,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Gastroesophageal reflux disease,f,C0017168,f,na,null,null,f,1175,1171,GERD,235595009,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Abuse of laxatives,f,C0149720,f,na,null,null,f,1219,1205,laxative abuse,280982009,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Substance abuse problem,f,C0740858,f,na,null,null,f,1924,1909,Substance abuse,66214007,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,1980,1970,depression,21061000119107,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,null,null,f,2244,2241,Ext,254044004,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Burn of hand,f,C0274089,f,na,Hand,85562004,f,2293,2279,burns on hands,14893008,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Alveolar rhabdomyosarcoma,f,C0206655,f,na,Hand,85562004,f,2302,2298,arms,63449009,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Petechiae,f,C0031256,f,na,null,null,t,2357,2348,petechiae,271813007,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Burn scar,f,C0036280,f,na,null,null,f,2381,2371,burn scars,111016001,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Familial eosinophilia,f,C0272192,f,na,null,null,f,2619,2616,EOS,191358004,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Pneumonitis,f,C3714636,f,na,Lingula of cerebellum,77232000,f,3593,3582,pneumonitis,205237003,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Right bundle branch block,f,C0085615,f,na,null,null,f,3650,3646,RBBB,59118001,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Drug Overdose,f,C0029944,f,na,null,null,f,3958,3950,overdose,55680006,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,4096,4077,pulmonary embolisms,59282003,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,null,null,f,4204,4201,DVT,128053003,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Trauma,f,C3714660,f,na,null,null,f,4456,4450,trauma,19130008,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Compartment syndromes,f,C0009492,f,na,null,null,f,4512,4492,compartment syndrome,111245009,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Compartment syndromes,f,C0009492,f,na,null,null,f,4829,4809,compartment syndrome,111245009,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Urinary tract infection,f,C0042029,f,na,null,null,f,5417,5414,UTI,68566005,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Drug Overdose,f,C0029944,f,na,null,null,f,7066,7058,Overdose,55680006,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Bipolar Disorder,f,C0005586,f,na,null,null,f,7111,7095,Bipolar Disorder,13746004,SNOMEDCT_US,na
+record-177,record-177.txt,cTAKES input\,Urinary tract infection,f,C0042029,f,na,Urinary system,122489005,f,7423,7400,urinary tract infection,68566005,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Carcinomatosis of peritoneal cavity,f,C0346990,f,na,Abdomen,113345001,f,225,201,abdominal carcinomatosis,255121007,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Adenocarcinoma,f,C0001418,f,na,null,null,f,358,344,adenocarcinoma,443961001,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Stomach Diseases,f,C0038354,f,na,Entire stomach,181246003,f,502,495,stomach,29384001,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Prostatic Hypertrophy,f,C1739363,f,na,Prostate,263847000,f,749,728,prostatic hypertrophy,266569009,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Degenerative polyarthritis,f,C0029408,f,na,null,null,f,769,755,Osteoarthritis,396275006,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Adenocarcinoma,f,C0001418,f,na,null,null,f,806,792,adenocarcinoma,443961001,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Drug Allergy,f,C0013182,f,na,null,null,t,998,984,drug allergies,416098002,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Coronary heart disease,f,C0010068,f,na,Heart,80891009,f,1080,1057,coronary artery disease,53741008,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Carcinomatosis of peritoneal cavity,f,C0346990,f,na,Abdomen,277112006,f,2264,2240,abdominal carcinomatosis,255121007,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,2921,2905,pleural effusion,60046008,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,3010,2992,pulmonary embolism,59282003,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Aspiration Pneumonia,f,C0032290,f,na,null,null,f,3353,3333,aspiration pneumonia,422588002,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,null,null,f,3428,3419,pneumonia,233604007,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Persistent embryonic structure,f,C0332996,f,na,null,null,f,3800,3790,persistent,31807009,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Intestinal obstruction co-occurrent and due to decreased peristalsis,f,C4019039,f,na,null,null,f,3921,3916,ileus,710572000,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Pleural effusion disorder,f,C0032227,f,na,null,null,f,4127,4111,pleural effusion,60046008,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Adenocarcinoma,f,C0001418,f,na,null,null,f,4526,4512,adenocarcinoma,35917007,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Aspiration Pneumonia,f,C0032290,f,na,null,null,f,4595,4575,Aspiration pneumonia,422588002,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Dehydration,f,C0011175,f,na,null,null,f,4647,4636,Dehydration,34095006,SNOMEDCT_US,na
+record-178,record-178.txt,cTAKES input\,Intestinal obstruction co-occurrent and due to decreased peristalsis,f,C4019039,f,na,null,null,f,4658,4653,Ileus,710572000,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Blood Coagulation Disorders,f,C0005779,f,na,null,null,t,1432,1402,bleeding or clotting disorders,362970003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,1511,1500,knee injury,125601008,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Hay fever,f,C0018621,f,na,null,null,f,1532,1514,Seasonal allergies,444316004,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,1652,1649,HTN,38341003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Chronic Obstructive Airway Disease,f,C0024117,f,na,null,null,f,1668,1664,COPD,13645005,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Myelofibrosis,f,C0026987,f,na,null,null,f,1834,1831,MMM,52967002,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,"Lymphoma, Mixed-Cell, Follicular",f,C0079758,f,na,null,null,f,1948,1945,Nml,277624003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Hereditary Multiple Exostoses,f,C0015306,f,na,Leg,30021000,f,1992,1989,EXT,254044004,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Retinitis Pigmentosa,f,C0035334,f,na,null,null,t,2052,2048,cord,28835009,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Intracranial Hemorrhages,f,C0151699,f,na,Intracranial,303231004,t,2250,2227,intracranial hemorrhage,1386000,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Fracture,f,C0016658,f,na,Intracranial,303231004,t,2263,2254,fractures,72704001,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Ventricular Septal Defects,f,C0018818,f,na,Heart Ventricle,21814001,t,2565,2540,ventricular septal defect,30288003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Aortic Valve Insufficiency,f,C0003504,f,na,Aorta,261051005,t,2790,2770,aortic regurgitation,60234000,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Mitral Valve Prolapse Syndrome,f,C0026267,f,na,Mitral Valve,91134007,t,2878,2857,mitral valve prolapse,409712001,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Systolic hypertension,f,C0221155,f,na,Pulmonary artery structure,45341000,f,2937,2916,systolic hypertension,56218007,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Pericardial effusion,f,C0031039,f,na,Pericardial body location,264135001,t,2972,2952,pericardial effusion,373945007,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,Lung,39607008,f,3099,3087,hypertension,38341003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Limb structure,66019005,t,3152,3149,DVT,128053003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Sinus Tachycardia,f,C0039239,f,na,Nasal sinus,55111001,f,3243,3233,Sinus Tach,11092001,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Depressive disorder,f,C0011581,f,na,null,null,f,3278,3268,Depression,21061000119107,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Bucket Handle Tears,f,C0443166,f,na,null,null,f,3380,3346,Bucket handle medial meniscal tear,263697003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,3444,3440,tear,35933005,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Posterior pituitary disease,f,C0751438,f,na,null,null,f,3468,3459,posterior,72442006,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Hydrarthrosis,f,C1253936,f,na,Knee,304679005,f,3519,3505,joint effusion,387637008,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Cyst,f,C0010709,f,na,null,null,f,3547,3543,cyst,441457006,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Milroy Disease,f,C1704423,f,na,null,null,f,3575,3572,PCL,399889006,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Discoid lateral meniscus,f,C0409305,f,na,Lateral meniscus structure,10013000,f,3605,3581,Discoid lateral meniscus,202099003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Leriche Syndrome,f,C0023370,f,na,Structure of left knee,82169009,f,3745,3721,saddle pulmonary embolus,307816004,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Knee,304679005,f,3766,3755,knee injury,125601008,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Deep Vein Thrombosis,f,C0149871,f,na,Structure of left lower leg,48979004,f,3871,3868,DVT,128053003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Trauma,f,C3714660,f,na,Leg,30021000,f,3945,3939,trauma,19130008,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Hemodynamic instability,f,C0948268,f,na,null,null,t,4152,4129,hemodynamic instability,422773005,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Thrombophilia,f,C0398623,f,na,null,null,f,4303,4290,thrombophilia,234467004,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Muscle strain,f,C0080194,f,na,Right side of heart,79561009,f,4754,4748,strain,48532005,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Congenital Abnormality,f,C0000768,f,na,null,null,f,4944,4931,abnormalities,276654001,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Knee Injuries,f,C0022744,f,na,Structure of left knee,82169009,f,5128,5117,knee injury,125601008,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Traumatic injury,f,C3263723,f,na,null,null,f,5204,5198,injury,19130008,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Laceration,f,C0043246,f,na,null,null,f,5239,5235,tear,35933005,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5591,5574,Pulmonary embolus,59282003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Laceration,f,C0043246,f,na,Structure of left knee,82169009,f,5615,5611,tear,125671007,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Pulmonary Embolism,f,C0034065,f,na,Lung,39607008,f,5728,5710,pulmonary embolism,59282003,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Laceration,f,C0043246,f,na,Knee,304679005,f,6050,6046,tear,125671007,SNOMEDCT_US,na
+record-179,record-179.txt,cTAKES input\,Infantile Neuroaxonal Dystrophy,f,C0270724,f,na,null,null,f,6132,6128,plan,52713000,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Influenza,f,C0021400,f,na,null,null,f,516,513,flu,6142004,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Hypertensive disease,f,C0020538,f,na,null,null,f,837,825,hypertension,38341003,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Bronchitis,f,C0006277,f,na,null,null,f,849,839,bronchitis,32398004,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Appendicitis,f,C0003615,f,na,null,null,f,863,851,appendicitis,74400008,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Hemorrhoids,f,C0019112,f,na,null,null,f,895,884,hemorrhoids,70153002,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Fracture,f,C0016658,f,na,Femur,71341001,f,911,902,fractured,72704001,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Injury of spleen,f,C0160405,f,na,Femur,71341001,f,936,922,splenic injury,23589004,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Motorcycle accident,f,C0574035,f,na,Femur,71341001,f,957,938,motorcycle accident,297186008,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Pneumonia,f,C0032285,f,na,Structure of middle lobe of lung,72481006,f,2149,2140,pneumonia,233604007,SNOMEDCT_US,na
+record-pneumonia,record-pneumonia.txt,cTAKES input\,Cytologic atypia,f,C0333865,f,na,Cells,4421005,f,2435,2421,atypical cells,50673007,SNOMEDCT_US,na

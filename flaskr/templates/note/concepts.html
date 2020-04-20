@@ -15,8 +15,11 @@
         <div>
           <h1>{{ 'Overview of concepts found in clincial notes' }}</h1>
           Mean confidence score: {{mean}}
-          <div><a class="action" href="/static/plot.html">View distribution</a></div>
         </div>
+          <br>
+          <div>
+              {{fig|safe}}
+          </div>
       </header>
         <head>
             <style>

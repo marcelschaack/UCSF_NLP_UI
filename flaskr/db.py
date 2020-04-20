@@ -38,11 +38,12 @@ def init_db():
 @with_appcontext
 def init_db_command():
     """Clear the existing data and create new tables."""
-    connection = sqlite3.connect('/home/TheLumino/UCSF_NLP_UI/instance/flaskr.sqlite', detect_types=sqlite3.PARSE_DECLTYPES)
+    #connection = sqlite3.connect('/home/TheLumino/UCSF_NLP_UI/instance/flaskr.sqlite', detect_types=sqlite3.PARSE_DECLTYPES)
+    connection = sqlite3.connect('instance/flaskr.sqlite', detect_types=sqlite3.PARSE_DECLTYPES)
     dropTableStatement = "DROP TABLE feedback"
     cursor = connection.cursor()
 
-    cursor.execute(dropTableStatement)
+    # cursor.execute(dropTableStatement)
     click.echo('Dropped the database')
     close_db()
     init_db()

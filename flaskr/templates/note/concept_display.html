@@ -26,7 +26,7 @@
           </tr>
           <tr>
             <td>History of: {{hof}} &#9; </td>
-            <td>ELMo: None</td>
+            <td>ELMo: {{flair}}</td>
           </tr>
           <tr>
             <td><a class="action" href="{{url}}" target="_blank">ULMS concept website</a> &#9; </td>
@@ -56,6 +56,15 @@
       <label><input type="radio" name="negation" id="negation" value="True"> &#9;Yes </input></label><br>
       <label><input type="radio" name="negation" id="negation" value="False"> &#9;No </input></label><br>
       <label><input type="radio" name="negation" id="negation" value="None"> &#9;n/a </input></label><br>
+     {% if has_deps == 1 %}
+         <b>We identified some potential modifiers in the sentence, do any of these indicate modification of the concept?</b><br>
+         {% for dep in dependencies %}
+         Word: {{dep[0]}}   -   Word type: {{dep[1]}}<br>
+      <label><input type="radio" name="{{dep[0]}}" id="{{dep[0]}}" value="negation"> &#9;Negation </input></label><br>
+      <label><input type="radio" name="{{dep[0]}}" id="{{dep[0]}}" value="hof"> &#9;History of </input></label><br>
+      <label><input type="radio" name="{{dep[0]}}" id="{{dep[0]}}" value="none"> &#9;None of those </input></label><br>
+         {% endfor%}
+    {% endif %}
     <input type="submit" value="Save Feedback">
     </dib>
   </form>

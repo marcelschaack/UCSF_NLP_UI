@@ -1,1 +1,7 @@
 flaskr/cosine_model/cosine_similarity_metric
+flaskr/cosine_model/bestmodel.wv.vectors.npy
+flaskr/cosine_model/bestmodel.trainables.syn1neg.npy
+venv
+flaskr/__pycache__
+flaskr/cosine_model/bestmodel
+.idea
