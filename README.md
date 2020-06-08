@@ -1,5 +1,7 @@
 # MENG Capstone Project: UCSF NLP UI for Apache cTAKES
 
+You can find the complete repository of our project [in my colleagues repository!](https://github.com/LayneWei/NLP-Project)
+
 Welcome to the UI Github.
 You can find our preliminary python code in jupyter notebooks in the "Notebooks" directory.
 These notebooks give information on the Word2Vec model training and the confidence score model training.
